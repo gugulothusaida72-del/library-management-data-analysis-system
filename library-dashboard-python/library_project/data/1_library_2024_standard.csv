@@ -1,0 +1,1822 @@
+Transaction_ID,Student_ID,Department,Book_ID,Book_Title,Category,Issue_Date,Due_Date,Return_Date
+T00001,S107,AIML,B006,Python Crash Course,Computer Science,2024-01-01,2024-01-15,
+T00002,S095,CSE,B011,Cloud Computing Basics,Computer Science,2024-01-01,2024-01-15,2024-01-15
+T00003,S045,ECE,B008,Hands-On Machine Learning,Computer Science,2024-01-01,2024-01-15,2024-01-17
+T00004,S102,AIML,B002,Operating System Concepts,Computer Science,2024-01-01,2024-01-15,2024-01-27
+T00005,S019,ECE,B026,Principles of Management,Management,2024-01-01,2024-01-15,2024-01-07
+T00006,S001,AIML,B001,Introduction to Algorithms,Computer Science,2024-01-01,2024-01-15,2024-01-18
+T00007,S103,CSE,B002,Operating System Concepts,Computer Science,2024-01-02,2024-01-16,2024-01-08
+T00008,S051,CIVIL,B012,Cyber Security Essentials,Computer Science,2024-01-02,2024-01-16,2024-01-23
+T00009,S108,CSE,B005,Clean Code,Computer Science,2024-01-02,2024-01-16,2024-01-13
+T00010,S100,CSE,B003,Database System Concepts,Computer Science,2024-01-02,2024-01-16,
+T00011,S059,MECH,B002,Operating System Concepts,,2024-01-02,2024-01-16,2024-01-05
+T00012,S039,AIML,B002,Operating System Concepts,Computer Science,2024-01-02,2024-01-16,2024-01-24
+T00013,S106,ECE,B007,Deep Learning,Computer Science,2024-01-02,2024-01-16,2024-01-05
+T00014,S016,MECH,B035,The Alchemist,,2024-01-03,2024-01-17,2024-01-21
+T00015,S055,CSE,B014,Thermodynamics,Engineering,2024-01-03,2024-01-17,2024-01-15
+T00016,S073,CSE,B020,Power Systems,Engineering,2024-01-03,2024-01-17,2024-01-20
+T00017,S073,CSE,B002,Operating System Concepts,Computer Science,2024-01-04,2024-01-18,2024-01-08
+T00018,S011,AIML,B002,Operating System Concepts,Computer Science,2024-01-04,2024-01-18,2024-01-22
+T00019,S097,MECH,B026,Principles of Management,Management,2024-01-04,2024-01-18,2024-01-10
+T00020,S046,AIML,B003,Database System Concepts,Computer Science,2024-01-04,2024-01-18,
+T00021,S040,CSE,B007,Deep Learning,Computer Science,2024-01-04,2024-01-18,2024-01-13
+T00022,S042,CSE,B002,Operating System Concepts,Computer Science,2024-01-04,2024-01-18,2024-01-12
+T00023,S066,MECH,B002,Operating System Concepts,Computer Science,2024-01-04,2024-01-18,2024-01-06
+T00024,S074,CSE,B002,Operating System Concepts,Computer Science,2024-01-05,2024-01-19,2024-01-11
+T00025,S080,AIML,B018,Strength of Materials,Engineering,2024-01-05,2024-01-19,2024-01-15
+T00026,S001,AIML,B014,Thermodynamics,Engineering,2024-01-05,2024-01-19,2024-01-11
+T00027,S032,AIML,B010,Compiler Design,Computer Science,2024-01-05,2024-01-19,2024-01-08
+T00028,S018,MECH,B002,Operating System Concepts,Computer Science,2024-01-05,2024-01-19,2024-01-22
+T00029,S089,CSE,B004,Computer Networks,Computer Science,2024-01-05,2024-01-19,2024-01-10
+T00030,S106,ECE,B002,Operating System Concepts,Computer Science,2024-01-06,2024-01-20,2024-01-18
+T00031,S048,ECE,B001,Introduction to Algorithms,Computer Science,2024-01-07,2024-01-21,2024-01-23
+T00032,S104,AIML,B002,Operating System Concepts,Computer Science,2024-01-07,2024-01-21,2024-01-20
+T00033,S018,MECH,B002,Operating System Concepts,Computer Science,2024-01-07,2024-01-21,2024-01-18
+T00034,S001,AIML,B021,Physics Fundamentals,Science,2024-01-07,2024-01-21,2024-01-18
+T00035,S034,ECE,B001,Introduction to Algorithms,Computer Science,2024-01-07,2024-01-21,2024-01-28
+T00036,S081,ECE,B004,Computer Networks,Computer Science,2024-01-07,2024-01-21,2024-01-24
+T00037,S081,ECE,B002,Operating System Concepts,Computer Science,2024-01-07,2024-01-21,2024-01-28
+T00038,S047,MECH,B007,Deep Learning,Computer Science,2024-01-07,2024-01-21,2024-01-21
+T00039,S073,CSE,B015,Fluid Mechanics,Engineering,2024-01-08,2024-01-22,2024-01-26
+T00040,S049,CSE,B015,Fluid Mechanics,Engineering,2024-01-08,2024-01-22,2024-01-28
+T00041,S034,ECE,B001,Introduction to Algorithms,Computer Science,2024-01-09,2024-01-23,2024-01-13
+T00042,S021,CSE,B012,Cyber Security Essentials,Computer Science,2024-01-09,2024-01-23,2024-01-11
+T00043,S023,AIML,B007,Deep Learning,Computer Science,2024-01-09,2024-01-23,2024-01-21
+T00044,S063,AIML,B003,Database System Concepts,Computer Science,2024-01-09,2024-01-23,2024-01-25
+T00045,S081,ECE,B002,Operating System Concepts,Computer Science,2024-01-10,2024-01-24,2024-01-13
+T00046,S104,AIML,B034,Harry Potter,Fiction,2024-01-10,2024-01-24,2024-01-13
+T00047,S029,AIML,B032,Pride and Prejudice,Fiction,2024-01-10,2024-01-24,2024-01-22
+T00048,S016,MECH,B023,Engineering Mathematics,Science,2024-01-11,2024-01-25,2024-01-30
+T00049,S049,CSE,B020,Power Systems,Engineering,2024-01-11,2024-01-25,2024-01-14
+T00050,S101,CSE,B001,Introduction to Algorithms,Computer Science,2024-01-12,2024-01-26,2024-01-17
+T00051,S015,CSE,B002,Operating System Concepts,Computer Science,2024-01-12,2024-01-26,2024-01-17
+T00052,S019,ECE,B007,Deep Learning,Computer Science,2024-01-13,2024-01-27,2024-01-27
+T00053,S074,CSE,B010,Compiler Design,Computer Science,2024-01-13,2024-01-27,2024-01-27
+T00054,S106,ECE,B002,Operating System Concepts,Computer Science,2024-01-14,2024-01-28,2024-02-01
+T00055,S103,CSE,B004,Computer Networks,Computer Science,2024-01-14,2024-01-28,2024-01-22
+T00056,S051,CIVIL,B002,Operating System Concepts,Computer Science,2024-01-14,2024-01-28,2024-01-30
+T00057,S042,CSE,B017,Control Systems,Engineering,2024-01-14,2024-01-28,2024-01-25
+T00058,S078,ECE,B006,Python Crash Course,Computer Science,2024-01-14,2024-01-28,2024-01-27
+T00059,S029,AIML,B002,Operating System Concepts,Computer Science,2024-01-15,2024-01-29,2024-02-05
+T00060,S083,AIML,B010,Compiler Design,Computer Science,2024-01-15,2024-01-29,2024-01-23
+T00061,S101,CSE,B012,Cyber Security Essentials,Computer Science,2024-01-15,2024-01-29,2024-01-21
+T00062,S086,MECH,B011,Cloud Computing Basics,Computer Science,2024-01-15,2024-01-29,2024-02-01
+T00063,S058,CSE,B001,Introduction to Algorithms,Computer Science,2024-01-16,2024-01-30,
+T00064,S081,ECE,B019,Digital Electronics,Engineering,2024-01-16,2024-01-30,2024-01-22
+T00065,S101,CSE,B001,Introduction to Algorithms,Computer Science,2024-01-16,2024-01-30,2024-01-19
+T00066,S018,MECH,B001,Introduction to Algorithms,Computer Science,2024-01-16,2024-01-30,2024-01-19
+T00067,S065,CSE,B032,Pride and Prejudice,Fiction,2024-01-16,2024-01-30,2024-02-02
+T00068,S086,MECH,B029,Business Economics,Management,2024-01-17,2024-01-31,2024-01-26
+T00069,S106,ECE,B002,Operating System Concepts,Computer Science,2024-01-17,2024-01-31,
+T00070,S084,AIML,B004,Computer Networks,Computer Science,2024-01-17,2024-01-31,2024-01-31
+T00071,S018,MECH,B002,Operating System Concepts,Computer Science,2024-01-17,2024-01-31,2024-02-06
+T00072,S071,CSE,B019,Digital Electronics,Engineering,2024-01-17,2024-01-31,2024-02-03
+T00073,S093,AIML,B026,Principles of Management,Management,2024-01-17,2024-01-31,2024-01-26
+T00074,S002,CIVIL,B014,Thermodynamics,Engineering,2024-01-17,2024-01-31,2024-01-27
+T00075,S054,CSE,B001,Introduction to Algorithms,Computer Science,2024-01-18,2024-02-01,2024-02-05
+T00076,S026,ECE,B004,Computer Networks,Computer Science,2024-01-18,2024-02-01,2024-01-31
+T00077,S085,EEE,B008,Hands-On Machine Learning,Computer Science,2024-01-18,2024-02-01,2024-01-20
+T00078,S028,AIML,B002,Operating System Concepts,Computer Science,2024-01-18,2024-02-01,2024-01-30
+T00079,S081,ECE,B021,Physics Fundamentals,Science,2024-01-18,2024-02-01,2024-01-24
+T00080,S030,CSE,B007,Deep Learning,Computer Science,2024-01-18,2024-02-01,2024-01-24
+T00081,S014,CSE,B004,Computer Networks,Computer Science,2024-01-19,2024-02-02,2024-01-30
+T00082,S075,CIVIL,B038,World War II,History,2024-01-19,2024-02-02,2024-01-31
+T00083,S024,MECH,B006,Python Crash Course,Computer Science,2024-01-19,2024-02-02,2024-02-08
+T00084,S095,CSE,B002,Operating System Concepts,Computer Science,2024-01-19,2024-02-02,2024-01-21
+T00085,S011,AIML,B023,Engineering Mathematics,Science,2024-01-19,2024-02-02,2024-01-28
+T00086,S076,ECE,B003,Database System Concepts,Computer Science,2024-01-19,2024-02-02,
+T00087,S032,AIML,B001,Introduction to Algorithms,Computer Science,2024-01-19,2024-02-02,2024-02-06
+T00088,S026,ECE,B002,Operating System Concepts,Computer Science,2024-01-19,2024-02-02,2024-01-30
+T00089,S103,CSE,B004,Computer Networks,Computer Science,2024-01-19,2024-02-02,2024-02-02
+T00090,S110,AIML,B002,Operating System Concepts,Computer Science,2024-01-20,2024-02-03,2024-02-08
+T00091,S083,AIML,B004,Computer Networks,Computer Science,2024-01-20,2024-02-03,2024-02-06
+T00092,S070,EEE,B013,Engineering Mechanics,Engineering,2024-01-20,2024-02-03,2024-01-24
+T00093,S037,ECE,B006,Python Crash Course,Computer Science,2024-01-20,2024-02-03,2024-02-06
+T00094,S106,ECE,B033,The Great Gatsby,Fiction,2024-01-20,2024-02-03,2024-02-07
+T00095,S087,CSE,B030,1984,Fiction,2024-01-21,2024-02-04,2024-02-13
+T00096,S087,CSE,B035,The Alchemist,Fiction,2024-01-21,2024-02-04,2024-01-23
+T00097,S014,CSE,B005,Clean Code,Computer Science,2024-01-21,2024-02-04,2024-02-14
+T00098,S020,EEE,B001,Introduction to Algorithms,Computer Science,2024-01-21,2024-02-04,2024-01-29
+T00099,S042,CSE,B003,Database System Concepts,Computer Science,2024-01-22,2024-02-05,2024-02-01
+T00100,S092,CSE,B002,Operating System Concepts,Computer Science,2024-01-22,2024-02-05,2024-02-02
+T00101,S056,CIVIL,B006,Python Crash Course,Computer Science,2024-01-22,2024-02-05,2024-01-28
+T00102,S008,CSE,B007,Deep Learning,Computer Science,2024-01-22,2024-02-05,2024-01-29
+T00103,S072,AIML,B016,Circuit Analysis,Engineering,2024-01-22,2024-02-05,2024-01-26
+T00104,S104,AIML,B004,Computer Networks,Computer Science,2024-01-23,2024-02-06,2024-01-31
+T00105,S065,CSE,B022,Organic Chemistry,Science,2024-01-23,2024-02-06,2024-02-09
+T00106,S012,CSE,B002,Operating System Concepts,Computer Science,2024-01-23,2024-02-06,2024-02-14
+T00107,S047,MECH,B002,Operating System Concepts,Computer Science,2024-01-23,2024-02-06,2024-02-15
+T00108,S095,CSE,B012,Cyber Security Essentials,Computer Science,2024-01-24,2024-02-07,2024-02-06
+T00109,S047,MECH,B011,Cloud Computing Basics,Computer Science,2024-01-24,2024-02-07,2024-02-11
+T00110,S043,CIVIL,B004,Computer Networks,Computer Science,2024-01-24,2024-02-07,2024-02-09
+T00111,S029,AIML,B006,Python Crash Course,Computer Science,2024-01-24,2024-02-07,2024-01-31
+T00112,S096,ECE,B002,Operating System Concepts,Computer Science,2024-01-25,2024-02-08,2024-01-29
+T00113,S081,ECE,B006,Python Crash Course,Computer Science,2024-01-25,2024-02-08,2024-02-03
+T00114,S081,ECE,B003,Database System Concepts,Computer Science,2024-01-25,2024-02-08,2024-02-10
+T00115,S032,AIML,B004,Computer Networks,Computer Science,2024-01-25,2024-02-08,2024-02-04
+T00116,S049,CSE,B020,Power Systems,Engineering,2024-01-26,2024-02-09,2024-02-02
+T00117,S052,MECH,B013,Engineering Mechanics,Engineering,2024-01-26,2024-02-09,2024-01-30
+T00118,S008,CSE,B021,Physics Fundamentals,Science,2024-01-26,2024-02-09,2024-02-12
+T00119,S058,CSE,B011,Cloud Computing Basics,Computer Science,2024-01-27,2024-02-10,2024-02-01
+T00120,S094,MECH,B003,Database System Concepts,Computer Science,2024-01-27,2024-02-10,2024-02-04
+T00121,S020,EEE,B014,Thermodynamics,Engineering,2024-01-27,2024-02-10,2024-02-09
+T00121,S020,EEE,B014,Thermodynamics,Engineering,2024-01-27,2024-02-10,2024-02-09
+T00122,S002,CIVIL,B002,Operating System Concepts,Computer Science,2024-01-27,2024-02-10,2024-02-09
+T00123,S081,ECE,B003,Database System Concepts,Computer Science,2024-01-27,2024-02-10,2024-02-12
+T00124,S088,CIVIL,B013,Engineering Mechanics,Engineering,2024-01-27,2024-02-10,2024-02-12
+T00125,S010,CSE,B014,Thermodynamics,Engineering,2024-01-28,2024-02-11,2024-02-16
+T00126,S069,AIML,B002,Operating System Concepts,Computer Science,2024-01-28,2024-02-11,2024-02-24
+T00127,S095,CSE,B004,Computer Networks,Computer Science,2024-01-28,2024-02-11,2024-02-08
+T00128,S020,EEE,B002,Operating System Concepts,Computer Science,2024-01-28,2024-02-11,2024-01-31
+T00129,S026,ECE,B022,Organic Chemistry,Science,2024-01-28,2024-02-11,2024-02-06
+T00130,S071,CSE,B002,Operating System Concepts,Computer Science,2024-01-28,2024-02-11,2024-02-10
+T00131,S020,EEE,B002,Operating System Concepts,Computer Science,2024-01-28,2024-02-11,2024-02-02
+T00132,S084,AIML,B003,Database System Concepts,Computer Science,2024-02-01,2024-02-15,2024-02-12
+T00133,S106,ECE,B006,Python Crash Course,Computer Science,2024-02-01,2024-02-15,2024-02-19
+T00134,S006,CSE,B010,Compiler Design,Computer Science,2024-02-01,2024-02-15,2024-02-17
+T00135,S063,AIML,B002,Operating System Concepts,Computer Science,2024-02-01,2024-02-15,2024-02-25
+T00136,S081,ECE,B002,Operating System Concepts,Computer Science,2024-02-02,2024-02-16,2024-02-09
+T00137,S082,ECE,B001,Introduction to Algorithms,Computer Science,2024-02-02,2024-02-16,2024-02-13
+T00138,S023,AIML,B012,Cyber Security Essentials,Computer Science,2024-02-02,2024-02-16,2024-02-18
+T00139,S087,CSE,B024,Biology Essentials,Science,2024-02-02,2024-02-16,2024-02-19
+T00140,S018,MECH,B002,Operating System Concepts,Computer Science,2024-02-02,2024-02-16,2024-02-10
+T00141,S096,ECE,B005,Clean Code,Computer Science,2024-02-02,2024-02-16,2024-02-13
+T00142,S103,CSE,B026,Principles of Management,Management,2024-02-03,2024-02-17,2024-02-12
+T00143,S047,MECH,B002,Operating System Concepts,Computer Science,2024-02-03,2024-02-17,2024-02-20
+T00144,S044,CSE,B004,Computer Networks,Computer Science,2024-02-03,2024-02-17,2024-02-11
+T00145,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-02-03,2024-02-17,2024-02-12
+T00146,S010,CSE,B028,Financial Accounting,Management,2024-02-03,2024-02-17,2024-02-15
+T00147,S009,EEE,B012,Cyber Security Essentials,Computer Science,2024-02-03,2024-02-17,2024-02-25
+T00148,S046,AIML,B005,Clean Code,Computer Science,2024-02-03,2024-02-17,2024-02-20
+T00149,S020,EEE,B002,Operating System Concepts,Computer Science,2024-02-03,2024-02-17,2024-02-19
+T00150,S012,CSE,B014,Thermodynamics,Engineering,2024-02-04,2024-02-18,2024-02-08
+T00151,S016,MECH,B002,Operating System Concepts,Computer Science,2024-02-04,2024-02-18,2024-02-21
+T00152,S047,MECH,B004,Computer Networks,Computer Science,2024-02-04,2024-02-18,2024-02-07
+T00153,S110,AIML,B002,Operating System Concepts,Computer Science,2024-02-04,2024-02-18,2024-02-23
+T00154,S062,AIML,B002,Operating System Concepts,Computer Science,2024-02-04,2024-02-18,2024-02-09
+T00155,S104,AIML,B009,Data Structures in C,Computer Science,2024-02-05,2024-02-19,2024-02-12
+T00156,S010,CSE,B002,Operating System Concepts,Computer Science,2024-02-05,2024-02-19,2024-02-13
+T00157,S095,CSE,B003,Database System Concepts,Computer Science,2024-02-05,2024-02-19,2024-02-10
+T00158,S095,CSE,B006,Python Crash Course,Computer Science,2024-02-05,2024-02-19,2024-02-07
+T00159,S047,MECH,B002,Operating System Concepts,Computer Science,2024-02-05,2024-02-19,2024-02-12
+T00159,S047,MECH,B002,Operating System Concepts,Computer Science,2024-02-05,2024-02-19,2024-02-12
+T00160,S088,CIVIL,B020,Power Systems,Engineering,2024-02-05,2024-02-19,2024-02-10
+T00161,S087,CSE,B014,Thermodynamics,Engineering,2024-02-05,2024-02-19,2024-02-07
+T00162,S055,CSE,B034,Harry Potter,Fiction,2024-02-06,2024-02-20,2024-02-09
+T00163,S080,AIML,B012,Cyber Security Essentials,Computer Science,2024-02-06,2024-02-20,2024-02-23
+T00164,S019,ECE,B009,Data Structures in C,Computer Science,2024-02-06,2024-02-20,2024-02-18
+T00165,S089,CSE,B035,The Alchemist,Fiction,2024-02-06,2024-02-20,
+T00166,S029,AIML,B002,Operating System Concepts,Computer Science,2024-02-06,2024-02-20,2024-02-14
+T00167,S063,AIML,B004,Computer Networks,Computer Science,2024-02-06,2024-02-20,2024-02-25
+T00168,S053,ECE,B006,Python Crash Course,Computer Science,2024-02-06,2024-02-20,2024-03-15
+T00169,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-02-06,2024-02-20,2024-02-10
+T00170,S030,CSE,B002,Operating System Concepts,Computer Science,2024-02-06,2024-02-20,2024-02-12
+T00171,S027,CSE,B011,Cloud Computing Basics,Computer Science,2024-02-07,2024-02-21,2024-02-11
+T00172,S095,CSE,B007,Deep Learning,Computer Science,2024-02-07,2024-02-21,2024-02-09
+T00173,S070,EEE,B028,Financial Accounting,Management,2024-02-07,2024-02-21,2024-03-05
+T00174,S057,ECE,B002,Operating System Concepts,Computer Science,2024-02-07,2024-02-21,2024-02-25
+T00175,S075,CIVIL,B002,Operating System Concepts,Computer Science,2024-02-07,2024-02-21,2024-02-13
+T00176,S063,AIML,B002,Operating System Concepts,Computer Science,2024-02-07,2024-02-21,2024-02-18
+T00177,S035,ECE,B006,Python Crash Course,Computer Science,2024-02-07,2024-02-21,2024-02-11
+T00178,S018,MECH,B033,The Great Gatsby,Fiction,2024-02-08,2024-02-22,2024-02-10
+T00179,S041,AIML,B002,Operating System Concepts,Computer Science,2024-02-08,2024-02-22,2024-02-22
+T00180,S074,CSE,B001,Introduction to Algorithms,Computer Science,2024-02-08,2024-02-22,2024-02-25
+T00181,S095,CSE,B008,Hands-On Machine Learning,Computer Science,2024-02-08,2024-02-22,2024-02-26
+T00182,S037,ECE,B001,Introduction to Algorithms,Computer Science,2024-02-08,2024-02-22,2024-02-11
+T00183,S020,EEE,B018,Strength of Materials,Engineering,2024-02-08,2024-02-22,2024-02-29
+T00184,S098,AIML,B002,Operating System Concepts,Computer Science,2024-02-09,2024-02-23,2024-02-19
+T00185,S090,EEE,B007,Deep Learning,Computer Science,2024-02-09,2024-02-23,2024-02-12
+T00186,S005,AIML,B015,Fluid Mechanics,Engineering,2024-02-09,2024-02-23,2024-02-19
+T00187,S015,CSE,B007,Deep Learning,Computer Science,2024-02-09,2024-02-23,2024-02-23
+T00188,S063,AIML,B008,Hands-On Machine Learning,Computer Science,2024-02-09,2024-02-23,2024-03-02
+T00189,S007,CSE,B004,Computer Networks,Computer Science,2024-02-09,2024-02-23,2024-02-21
+T00190,S071,CSE,B006,Python Crash Course,Computer Science,2024-02-09,2024-02-23,2024-02-17
+T00191,S069,AIML,B033,The Great Gatsby,Fiction,2024-02-09,2024-02-23,2024-02-16
+T00191,S069,AIML,B033,The Great Gatsby,Fiction,2024-02-09,2024-02-23,2024-02-16
+T00192,S048,ECE,B039,Ancient Civilizations,History,2024-02-09,2024-02-23,
+T00193,S041,AIML,B010,Compiler Design,Computer Science,2024-02-10,2024-02-24,2024-02-15
+T00194,S010,CSE,B004,Computer Networks,Computer Science,2024-02-10,2024-02-24,2024-02-29
+T00195,S081,ECE,B010,Compiler Design,Computer Science,2024-02-10,2024-02-24,2024-02-16
+T00196,S039,AIML,B016,Circuit Analysis,Engineering,2024-02-10,2024-02-24,2024-03-01
+T00197,S082,ECE,B006,Python Crash Course,Computer Science,2024-02-10,2024-02-24,2024-02-18
+T00198,S080,AIML,B002,Operating System Concepts,Computer Science,2024-02-10,2024-02-24,2024-02-26
+T00199,S082,ECE,B002,Operating System Concepts,Computer Science,2024-02-11,2024-02-25,2024-02-19
+T00200,S110,AIML,B034,Harry Potter,Fiction,2024-02-11,2024-02-25,2024-02-29
+T00201,S003,ECE,B034,Harry Potter,Fiction,2024-02-11,2024-02-25,2024-02-20
+T00202,S071,CSE,B003,Database System Concepts,Computer Science,2024-02-11,2024-02-25,2024-02-15
+T00203,S021,CSE,B008,Hands-On Machine Learning,Computer Science,2024-02-11,2024-02-25,2024-02-16
+T00204,S047,MECH,B020,Power Systems,Engineering,2024-02-11,2024-02-25,2024-02-21
+T00205,S006,CSE,B002,Operating System Concepts,Computer Science,2024-02-12,2024-02-26,2024-02-15
+T00206,S051,CIVIL,B031,To Kill a Mockingbird,Fiction,2024-02-12,2024-02-26,2024-02-25
+T00207,S053,ECE,B001,Introduction to Algorithms,Computer Science,2024-02-12,2024-02-26,2024-02-29
+T00208,S050,MECH,B006,Python Crash Course,Computer Science,2024-02-12,2024-02-26,2024-02-16
+T00209,S072,AIML,B014,Thermodynamics,Engineering,2024-02-13,2024-02-27,2024-02-27
+T00210,S043,CIVIL,B034,Harry Potter,Fiction,2024-02-13,2024-02-27,2024-02-19
+T00211,S083,AIML,B006,Python Crash Course,Computer Science,2024-02-13,2024-02-27,2024-03-01
+T00212,S019,ECE,B002,Operating System Concepts,Computer Science,2024-02-13,2024-02-27,2024-03-15
+T00213,S014,CSE,B028,Financial Accounting,Management,2024-02-13,2024-02-27,2024-03-04
+T00214,S049,CSE,B003,Database System Concepts,Computer Science,2024-02-14,2024-02-28,2024-02-19
+T00215,S050,MECH,B019,Digital Electronics,Engineering,2024-02-14,2024-02-28,2024-02-21
+T00216,S081,ECE,B003,Database System Concepts,Computer Science,2024-02-14,2024-02-28,2024-02-26
+T00217,S087,CSE,B032,Pride and Prejudice,Fiction,2024-02-14,2024-02-28,2024-02-25
+T00218,S049,CSE,B003,Database System Concepts,Computer Science,2024-02-15,2024-02-29,2024-02-22
+T00219,S065,CSE,B007,Deep Learning,Computer Science,2024-02-15,2024-02-29,2024-02-17
+T00220,S001,AIML,B003,Database System Concepts,Computer Science,2024-02-15,2024-02-29,2024-02-25
+T00221,S080,AIML,B005,Clean Code,Computer Science,2024-02-15,2024-02-29,2024-03-08
+T00222,S028,AIML,B007,Deep Learning,Computer Science,2024-02-15,2024-02-29,2024-03-15
+T00223,S110,AIML,B011,Cloud Computing Basics,Computer Science,2024-02-15,2024-02-29,
+T00224,S032,AIML,B009,Data Structures in C,Computer Science,2024-02-16,2024-03-01,2024-02-28
+T00225,S080,AIML,B002,Operating System Concepts,Computer Science,2024-02-16,2024-03-01,2024-03-03
+T00226,S050,MECH,B002,Operating System Concepts,Computer Science,2024-02-16,2024-03-01,2024-02-21
+T00227,S074,CSE,B011,Cloud Computing Basics,Computer Science,2024-02-16,2024-03-01,2024-03-03
+T00228,S103,CSE,B010,Compiler Design,Computer Science,2024-02-16,2024-03-01,2024-02-21
+T00229,S080,AIML,B006,Python Crash Course,Computer Science,2024-02-16,2024-03-01,2024-03-04
+T00230,S054,CSE,B017,Control Systems,Engineering,2024-02-17,2024-03-02,2024-03-04
+T00231,S022,ECE,B002,Operating System Concepts,Computer Science,2024-02-17,2024-03-02,2024-02-20
+T00232,S056,CIVIL,B002,Operating System Concepts,Computer Science,2024-02-17,2024-03-02,2024-02-23
+T00233,S082,ECE,B006,Python Crash Course,Computer Science,2024-02-17,2024-03-02,2024-03-05
+T00234,S018,MECH,B001,Introduction to Algorithms,Computer Science,2024-02-17,2024-03-02,2024-02-29
+T00235,S013,MECH,B007,Deep Learning,Computer Science,2024-02-17,2024-03-02,2024-03-06
+T00236,S041,AIML,B001,Introduction to Algorithms,Computer Science,2024-02-17,2024-03-02,2024-03-15
+T00237,S087,CSE,B002,Operating System Concepts,,2024-02-18,2024-03-03,2024-02-27
+T00238,S089,CSE,B011,Cloud Computing Basics,Computer Science,2024-02-18,2024-03-03,2024-02-22
+T00239,S021,CSE,B035,The Alchemist,Fiction,2024-02-18,2024-03-03,2024-03-05
+T00240,S075,CIVIL,B019,Digital Electronics,Engineering,2024-02-18,2024-03-03,2024-03-13
+T00241,S083,AIML,B011,Cloud Computing Basics,Computer Science,2024-02-18,2024-03-03,2024-02-23
+T00242,S098,AIML,B026,Principles of Management,Management,2024-02-19,2024-03-04,2024-03-07
+T00243,S099,EEE,B004,Computer Networks,Computer Science,2024-02-19,2024-03-04,2024-02-28
+T00244,S020,EEE,B017,Control Systems,Engineering,2024-02-19,2024-03-04,2024-03-12
+T00245,S017,AIML,B026,Principles of Management,Management,2024-02-19,2024-03-04,2024-02-24
+T00246,S063,AIML,B004,Computer Networks,Computer Science,2024-02-19,2024-03-04,2024-02-26
+T00247,S044,CSE,B034,Harry Potter,Fiction,2024-02-19,2024-03-04,2024-02-28
+T00248,S010,CSE,B013,Engineering Mechanics,Engineering,2024-02-19,2024-03-04,2024-03-09
+T00249,S066,MECH,B011,Cloud Computing Basics,Computer Science,2024-02-20,2024-03-05,2024-02-29
+T00250,S077,AIML,B029,Business Economics,Management,2024-02-20,2024-03-05,2024-03-10
+T00251,S030,CSE,B001,Introduction to Algorithms,Computer Science,2024-02-20,2024-03-05,2024-03-03
+T00252,S069,AIML,B035,The Alchemist,Fiction,2024-02-21,2024-03-06,2024-03-16
+T00253,S034,ECE,B025,A Brief History of Time,Science,2024-02-21,2024-03-06,2024-03-01
+T00254,S065,CSE,B012,Cyber Security Essentials,Computer Science,2024-02-21,2024-03-06,2024-03-04
+T00255,S002,CIVIL,B002,Operating System Concepts,Computer Science,2024-02-21,2024-03-06,2024-02-24
+T00256,S049,CSE,B011,Cloud Computing Basics,Computer Science,2024-02-21,2024-03-06,2024-03-06
+T00257,S067,AIML,B025,A Brief History of Time,Science,2024-02-21,2024-03-06,2024-03-10
+T00258,S049,CSE,B005,Clean Code,Computer Science,2024-02-21,2024-03-06,2024-03-12
+T00259,S053,ECE,B012,Cyber Security Essentials,Computer Science,2024-02-21,2024-03-06,2024-03-14
+T00260,S087,CSE,B004,Computer Networks,Computer Science,2024-02-21,2024-03-06,2024-03-11
+T00261,S087,CSE,B026,Principles of Management,Management,2024-02-21,2024-03-06,2024-03-08
+T00262,S079,MECH,B009,Data Structures in C,Computer Science,2024-02-22,2024-03-07,2024-03-04
+T00263,S069,AIML,B009,Data Structures in C,Computer Science,2024-02-22,2024-03-07,2024-03-09
+T00264,S094,MECH,B002,Operating System Concepts,Computer Science,2024-02-22,2024-03-07,2024-02-26
+T00265,S008,CSE,B002,Operating System Concepts,Computer Science,2024-02-22,2024-03-07,2024-03-07
+T00266,S032,AIML,B005,Clean Code,Computer Science,2024-02-22,2024-03-07,2024-03-11
+T00267,S002,CIVIL,B034,Harry Potter,Fiction,2024-02-22,2024-03-07,2024-03-05
+T00268,S075,CIVIL,B002,Operating System Concepts,Computer Science,2024-02-22,2024-03-07,2024-03-03
+T00269,S047,MECH,B016,Circuit Analysis,Engineering,2024-02-22,2024-03-07,2024-03-01
+T00270,S041,AIML,B002,Operating System Concepts,Computer Science,2024-02-22,2024-03-07,2024-03-15
+T00271,S106,ECE,B001,Introduction to Algorithms,Computer Science,2024-02-22,2024-03-07,2024-03-10
+T00272,S048,ECE,B008,Hands-On Machine Learning,Computer Science,2024-02-23,2024-03-08,2024-03-08
+T00273,S087,CSE,B002,Operating System Concepts,Computer Science,2024-02-23,2024-03-08,2024-03-10
+T00274,S019,ECE,B001,Introduction to Algorithms,Computer Science,2024-02-24,2024-03-09,2024-03-21
+T00275,S108,CSE,B002,Operating System Concepts,Computer Science,2024-02-24,2024-03-09,2024-03-03
+T00276,S041,AIML,B002,Operating System Concepts,Computer Science,2024-02-24,2024-03-09,2024-03-18
+T00276,S041,AIML,B002,Operating System Concepts,Computer Science,2024-02-24,2024-03-09,2024-03-18
+T00277,S047,MECH,B007,Deep Learning,Computer Science,2024-02-24,2024-03-09,2024-02-28
+T00278,S081,ECE,B004,Computer Networks,Computer Science,2024-02-24,2024-03-09,2024-02-27
+T00279,S063,AIML,B014,Thermodynamics,Engineering,2024-02-24,2024-03-09,2024-03-06
+T00280,S081,ECE,B002,Operating System Concepts,Computer Science,2024-02-25,2024-03-10,2024-03-18
+T00281,S055,CSE,B001,Introduction to Algorithms,Computer Science,2024-02-25,2024-03-10,2024-03-01
+T00282,S098,AIML,B005,Clean Code,Computer Science,2024-02-26,2024-03-11,2024-03-13
+T00283,S005,AIML,B008,Hands-On Machine Learning,Computer Science,2024-02-26,2024-03-11,2024-03-13
+T00284,S104,AIML,B001,Introduction to Algorithms,Computer Science,2024-02-26,2024-03-11,2024-03-09
+T00285,S010,CSE,B030,1984,Fiction,2024-02-27,2024-03-12,2024-03-17
+T00286,S075,CIVIL,B007,Deep Learning,Computer Science,2024-02-27,2024-03-12,2024-03-04
+T00287,S109,CIVIL,B006,Python Crash Course,Computer Science,2024-02-27,2024-03-12,2024-03-21
+T00288,S010,CSE,B009,Data Structures in C,Computer Science,2024-02-27,2024-03-12,2024-03-08
+T00289,S093,AIML,B032,Pride and Prejudice,Fiction,2024-02-27,2024-03-12,2024-03-07
+T00290,S034,ECE,B002,Operating System Concepts,Computer Science,2024-02-27,2024-03-12,2024-03-08
+T00291,S089,CSE,B002,Operating System Concepts,Computer Science,2024-02-27,2024-03-12,2024-03-16
+T00292,S085,EEE,B004,Computer Networks,Computer Science,2024-02-28,2024-03-13,2024-03-12
+T00293,S022,ECE,B002,Operating System Concepts,Computer Science,2024-02-28,2024-03-13,2024-03-02
+T00294,S016,MECH,B026,Principles of Management,Management,2024-02-28,2024-03-13,2024-03-10
+T00295,S080,AIML,B034,Harry Potter,Fiction,2024-02-28,2024-03-13,2024-03-02
+T00296,S037,ECE,B004,Computer Networks,Computer Science,2024-02-28,2024-03-13,2024-03-15
+T00297,S041,AIML,B002,Operating System Concepts,Computer Science,2024-02-28,2024-03-13,
+T00298,S065,CSE,B004,Computer Networks,Computer Science,2024-03-01,2024-03-15,2024-03-15
+T00299,S058,CSE,B006,Python Crash Course,Computer Science,2024-03-01,2024-03-15,2024-03-14
+T00300,S018,MECH,B003,Database System Concepts,Computer Science,2024-03-01,2024-03-15,2024-03-23
+T00301,S045,ECE,B016,Circuit Analysis,Engineering,2024-03-01,2024-03-15,2024-03-04
+T00302,S081,ECE,B020,Power Systems,Engineering,2024-03-01,2024-03-15,2024-03-10
+T00303,S047,MECH,B002,Operating System Concepts,Computer Science,2024-03-02,2024-03-16,2024-03-05
+T00304,S078,ECE,B004,Computer Networks,Computer Science,2024-03-02,2024-03-16,2024-03-05
+T00305,S081,ECE,B002,Operating System Concepts,Computer Science,2024-03-02,2024-03-16,2024-03-19
+T00306,S069,AIML,B023,Engineering Mathematics,,2024-03-02,2024-03-16,2024-03-05
+T00307,S097,MECH,B007,Deep Learning,Computer Science,2024-03-02,2024-03-16,2024-03-16
+T00308,S039,AIML,B020,Power Systems,Engineering,2024-03-02,2024-03-16,2024-04-02
+T00309,S047,MECH,B031,To Kill a Mockingbird,Fiction,2024-03-03,2024-03-17,2024-03-12
+T00310,S072,AIML,B006,Python Crash Course,Computer Science,2024-03-03,2024-03-17,2024-03-08
+T00311,S032,AIML,B008,Hands-On Machine Learning,Computer Science,2024-03-03,2024-03-17,2024-03-23
+T00312,S081,ECE,B019,Digital Electronics,Engineering,2024-03-03,2024-03-17,2024-03-14
+T00313,S079,MECH,B014,Thermodynamics,Engineering,2024-03-03,2024-03-17,2024-03-20
+T00314,S049,CSE,B023,Engineering Mathematics,Science,2024-03-04,2024-03-18,2024-03-06
+T00315,S012,CSE,B016,Circuit Analysis,Engineering,2024-03-04,2024-03-18,2024-03-20
+T00316,S033,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-03-04,2024-03-18,2024-03-08
+T00317,S050,MECH,B001,Introduction to Algorithms,Computer Science,2024-03-04,2024-03-18,2024-03-06
+T00318,S080,AIML,B003,Database System Concepts,Computer Science,2024-03-04,2024-03-18,2024-03-21
+T00319,S075,CIVIL,B030,1984,Fiction,2024-03-04,2024-03-18,2024-03-13
+T00320,S019,ECE,B030,1984,Fiction,2024-03-04,2024-03-18,2024-03-22
+T00321,S007,CSE,B004,Computer Networks,Computer Science,2024-03-04,2024-03-18,2024-03-18
+T00322,S041,AIML,B014,Thermodynamics,Engineering,2024-03-04,2024-03-18,2024-03-22
+T00323,S014,CSE,B015,Fluid Mechanics,Engineering,2024-03-04,2024-03-18,2024-03-13
+T00324,S017,AIML,B032,Pride and Prejudice,Fiction,2024-03-05,2024-03-19,
+T00325,S102,AIML,B006,Python Crash Course,Computer Science,2024-03-05,2024-03-19,2024-03-23
+T00326,S017,AIML,B002,Operating System Concepts,Computer Science,2024-03-05,2024-03-19,2024-03-09
+T00327,S005,AIML,B007,Deep Learning,Computer Science,2024-03-05,2024-03-19,2024-03-21
+T00328,S048,ECE,B014,Thermodynamics,Engineering,2024-03-05,2024-03-19,2024-03-18
+T00329,S051,CIVIL,B008,Hands-On Machine Learning,Computer Science,2024-03-05,2024-03-19,2024-03-19
+T00330,S046,AIML,B002,Operating System Concepts,Computer Science,2024-03-05,2024-03-19,2024-03-21
+T00331,S069,AIML,B026,Principles of Management,Management,2024-03-05,2024-03-19,2024-03-17
+T00332,S001,AIML,B011,Cloud Computing Basics,Computer Science,2024-03-05,2024-03-19,2024-03-10
+T00333,S088,CIVIL,B035,The Alchemist,Fiction,2024-03-06,2024-03-20,2024-03-08
+T00334,S019,ECE,B004,Computer Networks,Computer Science,2024-03-06,2024-03-20,2024-03-24
+T00335,S016,MECH,B019,Digital Electronics,Engineering,2024-03-06,2024-03-20,2024-03-08
+T00336,S042,CSE,B012,Cyber Security Essentials,Computer Science,2024-03-06,2024-03-20,2024-03-09
+T00337,S057,ECE,B025,A Brief History of Time,Science,2024-03-06,2024-03-20,
+T00338,S023,AIML,B010,Compiler Design,Computer Science,2024-03-06,2024-03-20,2024-03-14
+T00339,S030,CSE,B016,Circuit Analysis,Engineering,2024-03-06,2024-03-20,2024-03-16
+T00340,S084,AIML,B002,Operating System Concepts,Computer Science,2024-03-06,2024-03-20,2024-03-24
+T00341,S005,AIML,B012,Cyber Security Essentials,Computer Science,2024-03-07,2024-03-21,2024-03-09
+T00342,S047,MECH,B002,Operating System Concepts,Computer Science,2024-03-07,2024-03-21,2024-03-14
+T00343,S085,EEE,B011,Cloud Computing Basics,Computer Science,2024-03-07,2024-03-21,2024-03-28
+T00344,S032,AIML,B020,Power Systems,Engineering,2024-03-07,2024-03-21,2024-03-19
+T00345,S081,ECE,B002,Operating System Concepts,Computer Science,2024-03-07,2024-03-21,
+T00346,S045,ECE,B013,Engineering Mechanics,Engineering,2024-03-07,2024-03-21,2024-03-11
+T00347,S102,AIML,B002,Operating System Concepts,Computer Science,2024-03-08,2024-03-22,2024-03-12
+T00348,S079,MECH,B001,Introduction to Algorithms,Computer Science,2024-03-08,2024-03-22,2024-03-18
+T00349,S030,CSE,B002,Operating System Concepts,Computer Science,2024-03-08,2024-03-22,2024-03-27
+T00350,S075,CIVIL,B002,Operating System Concepts,Computer Science,2024-03-08,2024-03-22,2024-03-21
+T00351,S002,CIVIL,B011,Cloud Computing Basics,Computer Science,2024-03-08,2024-03-22,2024-03-25
+T00352,S061,ECE,B012,Cyber Security Essentials,Computer Science,2024-03-08,2024-03-22,2024-03-18
+T00353,S048,ECE,B038,World War II,History,2024-03-08,2024-03-22,2024-03-25
+T00354,S093,AIML,B017,Control Systems,Engineering,2024-03-09,2024-03-23,2024-03-18
+T00355,S098,AIML,B001,Introduction to Algorithms,Computer Science,2024-03-09,2024-03-23,2024-03-19
+T00356,S042,CSE,B016,Circuit Analysis,Engineering,2024-03-09,2024-03-23,2024-03-12
+T00357,S078,ECE,B034,Harry Potter,Fiction,2024-03-09,2024-03-23,2024-03-20
+T00358,S029,AIML,B035,The Alchemist,Fiction,2024-03-09,2024-03-23,2024-04-02
+T00359,S032,AIML,B006,Python Crash Course,Computer Science,2024-03-09,2024-03-23,2024-03-12
+T00360,S057,ECE,B002,Operating System Concepts,Computer Science,2024-03-09,2024-03-23,2024-03-11
+T00361,S104,AIML,B002,Operating System Concepts,Computer Science,2024-03-09,2024-03-23,2024-03-30
+T00362,S024,MECH,B013,Engineering Mechanics,Engineering,2024-03-09,2024-03-23,2024-03-20
+T00363,S007,CSE,B002,Operating System Concepts,Computer Science,2024-03-10,2024-03-24,2024-03-27
+T00364,S066,MECH,B001,Introduction to Algorithms,Computer Science,2024-03-10,2024-03-24,2024-03-14
+T00365,S022,ECE,B004,Computer Networks,Computer Science,2024-03-10,2024-03-24,2024-03-30
+T00366,S095,CSE,B015,Fluid Mechanics,Engineering,2024-03-10,2024-03-24,2024-03-20
+T00367,S085,EEE,B004,Computer Networks,Computer Science,2024-03-10,2024-03-24,2024-03-16
+T00368,S012,CSE,B002,Operating System Concepts,Computer Science,2024-03-10,2024-03-24,2024-03-31
+T00369,S027,CSE,B004,Computer Networks,Computer Science,2024-03-11,2024-03-25,2024-03-31
+T00370,S100,CSE,B002,Operating System Concepts,Computer Science,2024-03-11,2024-03-25,2024-03-18
+T00371,S068,ECE,B010,Compiler Design,Computer Science,2024-03-12,2024-03-26,2024-03-23
+T00372,S071,CSE,B011,Cloud Computing Basics,Computer Science,2024-03-12,2024-03-26,2024-03-18
+T00373,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-03-12,2024-03-26,2024-03-16
+T00374,S047,MECH,B017,Control Systems,Engineering,2024-03-12,2024-03-26,2024-03-29
+T00375,S004,AIML,B003,Database System Concepts,Computer Science,2024-03-12,2024-03-26,2024-03-24
+T00376,S081,ECE,B008,Hands-On Machine Learning,Computer Science,2024-03-12,2024-03-26,2024-03-15
+T00377,S016,MECH,B007,Deep Learning,Computer Science,2024-03-13,2024-03-27,2024-03-15
+T00378,S074,CSE,B015,Fluid Mechanics,Engineering,2024-03-13,2024-03-27,2024-03-24
+T00379,S043,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-03-13,2024-03-27,2024-03-29
+T00380,S014,CSE,B032,Pride and Prejudice,Fiction,2024-03-13,2024-03-27,2024-03-27
+T00381,S018,MECH,B002,Operating System Concepts,Computer Science,2024-03-13,2024-03-27,2024-03-23
+T00382,S085,EEE,B014,Thermodynamics,Engineering,2024-03-13,2024-03-27,2024-04-01
+T00383,S053,ECE,B011,Cloud Computing Basics,Computer Science,2024-03-14,2024-03-28,2024-03-28
+T00383,S053,ECE,B011,Cloud Computing Basics,Computer Science,2024-03-14,2024-03-28,2024-03-28
+T00384,S046,AIML,B028,Financial Accounting,Management,2024-03-14,2024-03-28,2024-04-16
+T00385,S096,ECE,B009,Data Structures in C,Computer Science,2024-03-14,2024-03-28,2024-04-03
+T00386,S068,ECE,B001,Introduction to Algorithms,Computer Science,2024-03-14,2024-03-28,2024-03-23
+T00387,S081,ECE,B008,Hands-On Machine Learning,Computer Science,2024-03-14,2024-03-28,2024-04-02
+T00388,S061,ECE,B005,Clean Code,Computer Science,2024-03-14,2024-03-28,2024-03-27
+T00389,S097,MECH,B002,Operating System Concepts,Computer Science,2024-03-14,2024-03-28,2024-03-18
+T00390,S054,CSE,B002,Operating System Concepts,Computer Science,2024-03-14,2024-03-28,2024-03-20
+T00391,S052,MECH,B006,Python Crash Course,Computer Science,2024-03-14,2024-03-28,2024-03-24
+T00392,S034,ECE,B006,Python Crash Course,Computer Science,2024-03-15,2024-03-29,2024-04-14
+T00393,S093,AIML,B027,Marketing Management,Management,2024-03-15,2024-03-29,2024-03-17
+T00394,S088,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-03-15,2024-03-29,2024-04-03
+T00395,S013,MECH,B017,Control Systems,Engineering,2024-03-15,2024-03-29,2024-03-26
+T00396,S056,CIVIL,B006,Python Crash Course,Computer Science,2024-03-15,2024-03-29,2024-03-23
+T00397,S042,CSE,B002,Operating System Concepts,Computer Science,2024-03-16,2024-03-30,2024-04-07
+T00398,S106,ECE,B030,1984,Fiction,2024-03-16,2024-03-30,2024-03-19
+T00399,S103,CSE,B010,Compiler Design,Computer Science,2024-03-16,2024-03-30,2024-03-27
+T00400,S108,CSE,B034,Harry Potter,Fiction,2024-03-16,2024-03-30,2024-03-30
+T00401,S002,CIVIL,B002,Operating System Concepts,Computer Science,2024-03-16,2024-03-30,2024-03-26
+T00402,S088,CIVIL,B016,Circuit Analysis,Engineering,2024-03-16,2024-03-30,2024-04-10
+T00403,S022,ECE,B007,Deep Learning,Computer Science,2024-03-16,2024-03-30,2024-04-02
+T00404,S098,AIML,B002,Operating System Concepts,Computer Science,2024-03-16,2024-03-30,2024-04-02
+T00405,S080,AIML,B002,Operating System Concepts,Computer Science,2024-03-17,2024-03-31,2024-04-11
+T00406,S018,MECH,B035,The Alchemist,Fiction,2024-03-17,2024-03-31,2024-03-21
+T00407,S012,CSE,B009,Data Structures in C,Computer Science,2024-03-17,2024-03-31,2024-03-30
+T00408,S002,CIVIL,B018,Strength of Materials,Engineering,2024-03-17,2024-03-31,2024-03-22
+T00409,S045,ECE,B025,A Brief History of Time,Science,2024-03-17,2024-03-31,2024-03-28
+T00410,S029,AIML,B001,Introduction to Algorithms,Computer Science,2024-03-17,2024-03-31,2024-03-31
+T00411,S085,EEE,B035,The Alchemist,Fiction,2024-03-17,2024-03-31,2024-04-09
+T00412,S057,ECE,B003,Database System Concepts,Computer Science,2024-03-17,2024-03-31,2024-03-30
+T00413,S028,AIML,B002,Operating System Concepts,Computer Science,2024-03-18,2024-04-01,2024-03-31
+T00414,S001,AIML,B008,Hands-On Machine Learning,Computer Science,2024-03-18,2024-04-01,2024-04-01
+T00415,S045,ECE,B034,Harry Potter,Fiction,2024-03-18,2024-04-01,2024-03-23
+T00416,S026,ECE,B015,Fluid Mechanics,Engineering,2024-03-18,2024-04-01,2024-04-07
+T00417,S021,CSE,B002,Operating System Concepts,Computer Science,2024-03-18,2024-04-01,2024-03-24
+T00418,S095,CSE,B006,Python Crash Course,Computer Science,2024-03-18,2024-04-01,2024-03-27
+T00419,S016,MECH,B001,Introduction to Algorithms,Computer Science,2024-03-18,2024-04-01,2024-04-05
+T00420,S010,CSE,B010,Compiler Design,Computer Science,2024-03-18,2024-04-01,2024-03-20
+T00421,S046,AIML,B008,Hands-On Machine Learning,Computer Science,2024-03-18,2024-04-01,2024-03-23
+T00422,S100,CSE,B010,Compiler Design,Computer Science,2024-03-19,2024-04-02,2024-04-04
+T00423,S081,ECE,B010,Compiler Design,Computer Science,2024-03-19,2024-04-02,2024-03-23
+T00424,S088,CIVIL,B003,Database System Concepts,Computer Science,2024-03-19,2024-04-02,2024-03-23
+T00425,S096,ECE,B028,Financial Accounting,Management,2024-03-19,2024-04-02,2024-04-11
+T00426,S049,CSE,B007,Deep Learning,Computer Science,2024-03-19,2024-04-02,2024-04-09
+T00427,S057,ECE,B001,Introduction to Algorithms,Computer Science,2024-03-20,2024-04-03,2024-03-31
+T00428,S050,MECH,B014,Thermodynamics,Engineering,2024-03-20,2024-04-03,2024-04-06
+T00429,S047,MECH,B026,Principles of Management,Management,2024-03-20,2024-04-03,2024-04-07
+T00430,S013,MECH,B018,Strength of Materials,Engineering,2024-03-20,2024-04-03,2024-04-01
+T00431,S003,ECE,B001,Introduction to Algorithms,Computer Science,2024-03-20,2024-04-03,2024-04-09
+T00432,S081,ECE,B014,Thermodynamics,Engineering,2024-03-21,2024-04-04,2024-03-24
+T00433,S069,AIML,B001,Introduction to Algorithms,Computer Science,2024-03-21,2024-04-04,2024-03-28
+T00434,S048,ECE,B002,Operating System Concepts,Computer Science,2024-03-21,2024-04-04,2024-03-26
+T00435,S052,MECH,B039,Ancient Civilizations,History,2024-03-21,2024-04-04,2024-04-06
+T00436,S005,AIML,B002,Operating System Concepts,Computer Science,2024-03-21,2024-04-04,2024-03-24
+T00437,S082,ECE,B001,Introduction to Algorithms,Computer Science,2024-03-21,2024-04-04,2024-03-28
+T00438,S081,ECE,B004,Computer Networks,Computer Science,2024-03-21,2024-04-04,2024-04-08
+T00439,S057,ECE,B002,Operating System Concepts,Computer Science,2024-03-21,2024-04-04,2024-04-02
+T00440,S049,CSE,B034,Harry Potter,Fiction,2024-03-21,2024-04-04,2024-03-26
+T00441,S008,CSE,B015,Fluid Mechanics,Engineering,2024-03-22,2024-04-05,2024-03-27
+T00442,S082,ECE,B002,Operating System Concepts,Computer Science,2024-03-22,2024-04-05,2024-04-09
+T00443,S011,AIML,B018,Strength of Materials,Engineering,2024-03-22,2024-04-05,2024-03-26
+T00444,S080,AIML,B020,Power Systems,Engineering,2024-03-22,2024-04-05,2024-03-25
+T00445,S047,MECH,B004,Computer Networks,Computer Science,2024-03-23,2024-04-06,2024-04-11
+T00446,S062,AIML,B004,Computer Networks,Computer Science,2024-03-23,2024-04-06,2024-04-08
+T00447,S030,CSE,B006,Python Crash Course,Computer Science,2024-03-23,2024-04-06,2024-03-29
+T00448,S074,CSE,B010,Compiler Design,Computer Science,2024-03-23,2024-04-06,2024-04-09
+T00449,S082,ECE,B002,Operating System Concepts,Computer Science,2024-03-23,2024-04-06,2024-04-10
+T00450,S109,CIVIL,B012,Cyber Security Essentials,Computer Science,2024-03-23,2024-04-06,2024-04-13
+T00451,S030,CSE,B034,Harry Potter,Fiction,2024-03-24,2024-04-07,2024-04-03
+T00452,S081,ECE,B002,Operating System Concepts,Computer Science,2024-03-24,2024-04-07,2024-03-31
+T00453,S093,AIML,B008,Hands-On Machine Learning,Computer Science,2024-03-24,2024-04-07,2024-03-30
+T00454,S020,EEE,B002,Operating System Concepts,Computer Science,2024-03-24,2024-04-07,2024-04-03
+T00455,S029,AIML,B008,Hands-On Machine Learning,Computer Science,2024-03-24,2024-04-07,2024-04-18
+T00456,S081,ECE,B004,Computer Networks,Computer Science,2024-03-24,2024-04-07,2024-04-12
+T00457,S054,CSE,B034,Harry Potter,Fiction,2024-03-24,2024-04-07,2024-04-25
+T00458,S010,CSE,B001,Introduction to Algorithms,Computer Science,2024-03-24,2024-04-07,2024-04-03
+T00459,S016,MECH,B012,Cyber Security Essentials,Computer Science,2024-03-25,2024-04-08,2024-04-04
+T00460,S026,ECE,B015,Fluid Mechanics,Engineering,2024-03-25,2024-04-08,2024-04-10
+T00461,S052,MECH,B035,The Alchemist,Fiction,2024-03-25,2024-04-08,
+T00462,S045,ECE,B001,Introduction to Algorithms,Computer Science,2024-03-25,2024-04-08,2024-04-04
+T00463,S072,AIML,B032,Pride and Prejudice,Fiction,2024-03-25,2024-04-08,2024-04-07
+T00464,S034,ECE,B003,Database System Concepts,Computer Science,2024-03-25,2024-04-08,2024-03-28
+T00465,S025,AIML,B030,1984,Fiction,2024-03-25,2024-04-08,2024-03-31
+T00466,S064,CSE,B014,Thermodynamics,Engineering,2024-03-25,2024-04-08,2024-04-10
+T00467,S071,CSE,B033,The Great Gatsby,Fiction,2024-03-25,2024-04-08,2024-04-16
+T00468,S075,CIVIL,B015,Fluid Mechanics,Engineering,2024-03-25,2024-04-08,2024-03-28
+T00469,S100,CSE,B002,Operating System Concepts,Computer Science,2024-03-26,2024-04-09,2024-04-12
+T00470,S054,CSE,B002,Operating System Concepts,Computer Science,2024-03-26,2024-04-09,2024-04-11
+T00471,S076,ECE,B008,Hands-On Machine Learning,Computer Science,2024-03-26,2024-04-09,2024-03-31
+T00472,S045,ECE,B002,Operating System Concepts,Computer Science,2024-03-26,2024-04-09,2024-04-05
+T00473,S042,CSE,B006,Python Crash Course,Computer Science,2024-03-26,2024-04-09,2024-04-08
+T00474,S010,CSE,B038,World War II,History,2024-03-26,2024-04-09,
+T00475,S010,CSE,B001,Introduction to Algorithms,Computer Science,2024-03-26,2024-04-09,2024-04-05
+T00476,S081,ECE,B003,Database System Concepts,Computer Science,2024-03-27,2024-04-10,2024-04-14
+T00477,S081,ECE,B011,Cloud Computing Basics,Computer Science,2024-03-27,2024-04-10,2024-04-13
+T00478,S047,MECH,B007,Deep Learning,Computer Science,2024-03-27,2024-04-10,2024-04-12
+T00479,S103,CSE,B001,Introduction to Algorithms,Computer Science,2024-03-27,2024-04-10,2024-04-01
+T00480,S104,AIML,B006,Python Crash Course,Computer Science,2024-03-28,2024-04-11,2024-04-02
+T00481,S016,MECH,B035,The Alchemist,Fiction,2024-03-28,2024-04-11,2024-04-14
+T00482,S060,ECE,B034,Harry Potter,Fiction,2024-03-28,2024-04-11,2024-03-31
+T00483,S108,CSE,B001,Introduction to Algorithms,Computer Science,2024-03-28,2024-04-11,2024-04-08
+T00484,S105,CIVIL,B006,Python Crash Course,Computer Science,2024-03-28,2024-04-11,2024-04-13
+T00485,S081,ECE,B002,Operating System Concepts,Computer Science,2024-03-28,2024-04-11,2024-04-01
+T00486,S010,CSE,B002,Operating System Concepts,Computer Science,2024-04-01,2024-04-15,2024-04-11
+T00487,S107,AIML,B010,Compiler Design,Computer Science,2024-04-01,2024-04-15,2024-04-06
+T00488,S047,MECH,B014,Thermodynamics,Engineering,2024-04-01,2024-04-15,2024-04-07
+T00489,S098,AIML,B003,Database System Concepts,Computer Science,2024-04-01,2024-04-15,2024-04-18
+T00490,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-04-01,2024-04-15,2024-04-03
+T00491,S032,AIML,B002,Operating System Concepts,Computer Science,2024-04-01,2024-04-15,2024-04-13
+T00492,S064,CSE,B012,Cyber Security Essentials,Computer Science,2024-04-01,2024-04-15,2024-04-10
+T00493,S091,MECH,B004,Computer Networks,Computer Science,2024-04-01,2024-04-15,2024-04-09
+T00494,S069,AIML,B032,Pride and Prejudice,Fiction,2024-04-02,2024-04-16,2024-04-16
+T00495,S025,AIML,B014,Thermodynamics,Engineering,2024-04-02,2024-04-16,2024-04-24
+T00496,S036,ECE,B002,Operating System Concepts,Computer Science,2024-04-02,2024-04-16,2024-04-26
+T00497,S018,MECH,B028,Financial Accounting,Management,2024-04-02,2024-04-16,2024-04-09
+T00498,S002,CIVIL,B011,Cloud Computing Basics,Computer Science,2024-04-03,2024-04-17,2024-04-10
+T00499,S027,CSE,B010,Compiler Design,Computer Science,2024-04-03,2024-04-17,2024-04-21
+T00500,S075,CIVIL,B014,Thermodynamics,Engineering,2024-04-03,2024-04-17,2024-04-13
+T00501,S066,MECH,B006,Python Crash Course,Computer Science,2024-04-03,2024-04-17,2024-04-22
+T00502,S048,ECE,B008,Hands-On Machine Learning,Computer Science,2024-04-03,2024-04-17,2024-04-09
+T00503,S047,MECH,B009,Data Structures in C,Computer Science,2024-04-03,2024-04-17,2024-04-30
+T00504,S047,MECH,B007,Deep Learning,Computer Science,2024-04-04,2024-04-18,2024-04-17
+T00505,S079,MECH,B022,Organic Chemistry,Science,2024-04-04,2024-04-18,2024-04-16
+T00506,S088,CIVIL,B006,Python Crash Course,Computer Science,2024-04-04,2024-04-18,2024-04-13
+T00507,S003,ECE,B008,Hands-On Machine Learning,Computer Science,2024-04-04,2024-04-18,2024-04-21
+T00508,S004,AIML,B032,Pride and Prejudice,Fiction,2024-04-04,2024-04-18,2024-04-20
+T00509,S018,MECH,B010,Compiler Design,Computer Science,2024-04-04,2024-04-18,2024-04-23
+T00510,S041,AIML,B037,Modern India,History,2024-04-04,2024-04-18,2024-04-13
+T00511,S019,ECE,B004,Computer Networks,Computer Science,2024-04-04,2024-04-18,2024-04-18
+T00511,S019,ECE,B004,Computer Networks,Computer Science,2024-04-04,2024-04-18,2024-04-18
+T00512,S033,CIVIL,B002,Operating System Concepts,Computer Science,2024-04-05,2024-04-19,2024-04-07
+T00513,S047,MECH,B037,Modern India,History,2024-04-05,2024-04-19,2024-04-08
+T00514,S060,ECE,B002,Operating System Concepts,Computer Science,2024-04-05,2024-04-19,2024-04-11
+T00515,S044,CSE,B002,Operating System Concepts,Computer Science,2024-04-05,2024-04-19,2024-04-12
+T00516,S050,MECH,B001,Introduction to Algorithms,Computer Science,2024-04-05,2024-04-19,
+T00517,S061,ECE,B009,Data Structures in C,Computer Science,2024-04-05,2024-04-19,
+T00518,S011,AIML,B029,Business Economics,Management,2024-04-05,2024-04-19,2024-04-11
+T00519,S059,MECH,B002,Operating System Concepts,Computer Science,2024-04-05,2024-04-19,2024-04-21
+T00520,S107,AIML,B012,Cyber Security Essentials,Computer Science,2024-04-06,2024-04-20,2024-04-20
+T00521,S080,AIML,B003,Database System Concepts,Computer Science,2024-04-06,2024-04-20,2024-04-22
+T00522,S096,ECE,B002,Operating System Concepts,Computer Science,2024-04-06,2024-04-20,2024-04-22
+T00523,S056,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-04-06,2024-04-20,2024-04-24
+T00524,S032,AIML,B011,Cloud Computing Basics,Computer Science,2024-04-06,2024-04-20,2024-04-15
+T00525,S109,CIVIL,B002,Operating System Concepts,Computer Science,2024-04-06,2024-04-20,2024-04-10
+T00526,S019,ECE,B003,Database System Concepts,Computer Science,2024-04-06,2024-04-20,2024-04-26
+T00527,S078,ECE,B019,Digital Electronics,Engineering,2024-04-07,2024-04-21,2024-04-29
+T00528,S036,ECE,B002,Operating System Concepts,Computer Science,2024-04-07,2024-04-21,2024-04-15
+T00529,S044,CSE,B002,Operating System Concepts,Computer Science,2024-04-07,2024-04-21,2024-04-27
+T00530,S038,CSE,B006,Python Crash Course,Computer Science,2024-04-07,2024-04-21,2024-04-19
+T00531,S063,AIML,B006,Python Crash Course,Computer Science,2024-04-07,2024-04-21,2024-04-21
+T00532,S106,ECE,B023,Engineering Mathematics,Science,2024-04-07,2024-04-21,2024-04-11
+T00533,S107,AIML,B004,Computer Networks,Computer Science,2024-04-08,2024-04-22,2024-04-11
+T00534,S008,CSE,B002,Operating System Concepts,Computer Science,2024-04-08,2024-04-22,2024-04-11
+T00535,S014,CSE,B001,Introduction to Algorithms,Computer Science,2024-04-08,2024-04-22,2024-04-22
+T00536,S036,ECE,B007,Deep Learning,Computer Science,2024-04-08,2024-04-22,2024-04-10
+T00537,S098,AIML,B001,Introduction to Algorithms,Computer Science,2024-04-08,2024-04-22,2024-04-18
+T00538,S045,ECE,B009,Data Structures in C,Computer Science,2024-04-09,2024-04-23,2024-04-22
+T00539,S087,CSE,B002,Operating System Concepts,Computer Science,2024-04-09,2024-04-23,2024-04-21
+T00540,S069,AIML,B002,Operating System Concepts,Computer Science,2024-04-09,2024-04-23,2024-04-22
+T00541,S048,ECE,B004,Computer Networks,Computer Science,2024-04-09,2024-04-23,2024-04-28
+T00542,S027,CSE,B033,The Great Gatsby,Fiction,2024-04-09,2024-04-23,2024-04-17
+T00543,S038,CSE,B024,Biology Essentials,Science,2024-04-09,2024-04-23,2024-05-02
+T00544,S048,ECE,B009,Data Structures in C,Computer Science,2024-04-09,2024-04-23,2024-04-27
+T00545,S109,CIVIL,B010,Compiler Design,Computer Science,2024-04-09,2024-04-23,2024-04-17
+T00546,S079,MECH,B003,Database System Concepts,Computer Science,2024-04-09,2024-04-23,2024-04-25
+T00547,S047,MECH,B002,Operating System Concepts,Computer Science,2024-04-10,2024-04-24,2024-04-26
+T00548,S025,AIML,B008,Hands-On Machine Learning,Computer Science,2024-04-10,2024-04-24,2024-04-17
+T00549,S108,CSE,B004,Computer Networks,Computer Science,2024-04-10,2024-04-24,2024-04-27
+T00550,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-04-10,2024-04-24,2024-04-24
+T00551,S024,MECH,B024,Biology Essentials,Science,2024-04-10,2024-04-24,2024-04-22
+T00552,S016,MECH,B002,Operating System Concepts,Computer Science,2024-04-10,2024-04-24,2024-04-26
+T00553,S022,ECE,B021,Physics Fundamentals,Science,2024-04-10,2024-04-24,2024-04-21
+T00554,S089,CSE,B001,Introduction to Algorithms,Computer Science,2024-04-10,2024-04-24,2024-04-28
+T00555,S005,AIML,B004,Computer Networks,Computer Science,2024-04-10,2024-04-24,2024-04-26
+T00556,S099,EEE,B014,Thermodynamics,Engineering,2024-04-11,2024-04-25,2024-04-28
+T00557,S008,CSE,B003,Database System Concepts,Computer Science,2024-04-11,2024-04-25,2024-04-18
+T00558,S060,ECE,B024,Biology Essentials,Science,2024-04-11,2024-04-25,2024-04-29
+T00559,S106,ECE,B002,Operating System Concepts,Computer Science,2024-04-11,2024-04-25,2024-04-20
+T00560,S103,CSE,B020,Power Systems,Engineering,2024-04-11,2024-04-25,2024-05-03
+T00561,S053,ECE,B007,Deep Learning,Computer Science,2024-04-12,2024-04-26,2024-04-29
+T00562,S007,CSE,B002,Operating System Concepts,Computer Science,2024-04-12,2024-04-26,2024-05-11
+T00563,S010,CSE,B030,1984,Fiction,2024-04-12,2024-04-26,2024-05-04
+T00564,S004,AIML,B012,Cyber Security Essentials,Computer Science,2024-04-12,2024-04-26,2024-04-14
+T00565,S075,CIVIL,B006,Python Crash Course,Computer Science,2024-04-12,2024-04-26,2024-04-20
+T00566,S081,ECE,B006,Python Crash Course,Computer Science,2024-04-13,2024-04-27,2024-04-27
+T00567,S016,MECH,B002,Operating System Concepts,Computer Science,2024-04-13,2024-04-27,2024-04-29
+T00568,S088,CIVIL,B029,Business Economics,Management,2024-04-13,2024-04-27,2024-05-04
+T00569,S045,ECE,B018,Strength of Materials,Engineering,2024-04-13,2024-04-27,2024-05-01
+T00570,S076,ECE,B039,Ancient Civilizations,History,2024-04-13,2024-04-27,2024-04-25
+T00571,S047,MECH,B008,Hands-On Machine Learning,Computer Science,2024-04-13,2024-04-27,2024-04-27
+T00572,S043,CIVIL,B032,Pride and Prejudice,Fiction,2024-04-14,2024-04-28,2024-05-03
+T00573,S009,EEE,B026,Principles of Management,Management,2024-04-14,2024-04-28,2024-04-22
+T00574,S093,AIML,B014,Thermodynamics,Engineering,2024-04-14,2024-04-28,2024-05-03
+T00575,S081,ECE,B018,Strength of Materials,Engineering,2024-04-14,2024-04-28,2024-05-02
+T00576,S026,ECE,B024,Biology Essentials,Science,2024-04-14,2024-04-28,2024-04-24
+T00577,S072,AIML,B032,Pride and Prejudice,Fiction,2024-04-15,2024-04-29,2024-04-25
+T00578,S052,MECH,B003,Database System Concepts,Computer Science,2024-04-15,2024-04-29,2024-04-29
+T00579,S102,AIML,B004,Computer Networks,Computer Science,2024-04-15,2024-04-29,2024-05-03
+T00580,S039,AIML,B007,Deep Learning,Computer Science,2024-04-15,2024-04-29,2024-04-26
+T00581,S073,CSE,B004,Computer Networks,Computer Science,2024-04-15,2024-04-29,2024-04-21
+T00582,S098,AIML,B008,Hands-On Machine Learning,Computer Science,2024-04-15,2024-04-29,2024-04-19
+T00583,S081,ECE,B005,Clean Code,Computer Science,2024-04-16,2024-04-30,2024-04-23
+T00584,S037,ECE,B002,Operating System Concepts,Computer Science,2024-04-16,2024-04-30,2024-04-20
+T00585,S108,CSE,B019,Digital Electronics,Engineering,2024-04-16,2024-04-30,2024-05-02
+T00586,S047,MECH,B002,Operating System Concepts,Computer Science,2024-04-16,2024-04-30,2024-04-29
+T00587,S026,ECE,B002,Operating System Concepts,Computer Science,2024-04-16,2024-04-30,2024-05-02
+T00588,S110,AIML,B003,Database System Concepts,Computer Science,2024-04-16,2024-04-30,2024-04-20
+T00589,S078,ECE,B006,Python Crash Course,Computer Science,2024-04-16,2024-04-30,2024-04-26
+T00590,S055,CSE,B006,Python Crash Course,Computer Science,2024-04-16,2024-04-30,2024-04-26
+T00591,S070,EEE,B004,Computer Networks,Computer Science,2024-04-17,2024-05-01,2024-04-21
+T00592,S082,ECE,B009,Data Structures in C,Computer Science,2024-04-17,2024-05-01,2024-04-20
+T00593,S093,AIML,B030,1984,Fiction,2024-04-17,2024-05-01,2024-04-27
+T00594,S029,AIML,B007,Deep Learning,Computer Science,2024-04-17,2024-05-01,2024-04-22
+T00595,S044,CSE,B002,Operating System Concepts,Computer Science,2024-04-18,2024-05-02,2024-04-29
+T00596,S096,ECE,B003,Database System Concepts,Computer Science,2024-04-18,2024-05-02,2024-05-02
+T00597,S103,CSE,B006,Python Crash Course,Computer Science,2024-04-18,2024-05-02,2024-05-06
+T00598,S098,AIML,B010,Compiler Design,Computer Science,2024-04-18,2024-05-02,2024-04-27
+T00599,S108,CSE,B002,Operating System Concepts,Computer Science,2024-04-18,2024-05-02,2024-04-22
+T00600,S002,CIVIL,B002,Operating System Concepts,Computer Science,2024-04-18,2024-05-02,2024-05-01
+T00601,S104,AIML,B020,Power Systems,Engineering,2024-04-18,2024-05-02,2024-05-11
+T00602,S016,MECH,B006,Python Crash Course,Computer Science,2024-04-18,2024-05-02,2024-05-02
+T00603,S060,ECE,B001,Introduction to Algorithms,Computer Science,2024-04-18,2024-05-02,2024-05-11
+T00604,S086,MECH,B012,Cyber Security Essentials,Computer Science,2024-04-18,2024-05-02,2024-05-05
+T00605,S060,ECE,B002,Operating System Concepts,Computer Science,2024-04-18,2024-05-02,2024-05-08
+T00606,S023,AIML,B001,Introduction to Algorithms,Computer Science,2024-04-19,2024-05-03,2024-04-30
+T00607,S032,AIML,B012,Cyber Security Essentials,Computer Science,2024-04-19,2024-05-03,2024-04-24
+T00608,S078,ECE,B014,Thermodynamics,Engineering,2024-04-19,2024-05-03,2024-05-02
+T00609,S024,MECH,B038,World War II,History,2024-04-19,2024-05-03,2024-04-29
+T00610,S031,MECH,B014,Thermodynamics,Engineering,2024-04-19,2024-05-03,2024-05-08
+T00611,S043,CIVIL,B026,Principles of Management,Management,2024-04-19,2024-05-03,2024-04-25
+T00612,S096,ECE,B013,Engineering Mechanics,Engineering,2024-04-19,2024-05-03,2024-04-24
+T00613,S022,ECE,B018,Strength of Materials,Engineering,2024-04-19,2024-05-03,2024-05-02
+T00613,S022,ECE,B018,Strength of Materials,Engineering,2024-04-19,2024-05-03,2024-05-02
+T00614,S081,ECE,B012,Cyber Security Essentials,Computer Science,2024-04-19,2024-05-03,2024-05-03
+T00615,S016,MECH,B002,Operating System Concepts,Computer Science,2024-04-19,2024-05-03,2024-05-06
+T00616,S062,AIML,B011,Cloud Computing Basics,Computer Science,2024-04-19,2024-05-03,2024-04-26
+T00617,S029,AIML,B002,Operating System Concepts,Computer Science,2024-04-19,2024-05-03,
+T00618,S045,ECE,B001,Introduction to Algorithms,Computer Science,2024-04-19,2024-05-03,2024-04-21
+T00619,S053,ECE,B019,Digital Electronics,Engineering,2024-04-19,2024-05-03,2024-05-08
+T00620,S104,AIML,B010,Compiler Design,Computer Science,2024-04-19,2024-05-03,2024-04-22
+T00621,S029,AIML,B009,Data Structures in C,Computer Science,2024-04-20,2024-05-04,2024-04-25
+T00622,S072,AIML,B006,Python Crash Course,Computer Science,2024-04-20,2024-05-04,2024-04-30
+T00623,S018,MECH,B012,Cyber Security Essentials,Computer Science,2024-04-20,2024-05-04,2024-04-27
+T00624,S082,ECE,B002,Operating System Concepts,Computer Science,2024-04-20,2024-05-04,2024-05-06
+T00625,S071,CSE,B006,Python Crash Course,Computer Science,2024-04-20,2024-05-04,2024-05-08
+T00626,S083,AIML,B002,Operating System Concepts,Computer Science,2024-04-20,2024-05-04,2024-05-03
+T00627,S106,ECE,B002,Operating System Concepts,Computer Science,2024-04-20,2024-05-04,2024-04-25
+T00628,S006,CSE,B013,Engineering Mechanics,Engineering,2024-04-20,2024-05-04,2024-04-23
+T00629,S052,MECH,B002,Operating System Concepts,Computer Science,2024-04-20,2024-05-04,2024-04-25
+T00630,S079,MECH,B007,Deep Learning,Computer Science,2024-04-21,2024-05-05,2024-05-02
+T00631,S020,EEE,B002,Operating System Concepts,Computer Science,2024-04-21,2024-05-05,2024-05-02
+T00632,S091,MECH,B004,Computer Networks,Computer Science,2024-04-21,2024-05-05,2024-05-07
+T00633,S096,ECE,B002,Operating System Concepts,Computer Science,2024-04-21,2024-05-05,2024-04-30
+T00634,S069,AIML,B010,Compiler Design,Computer Science,2024-04-22,2024-05-06,2024-05-03
+T00635,S016,MECH,B002,Operating System Concepts,Computer Science,2024-04-22,2024-05-06,2024-05-02
+T00636,S044,CSE,B011,Cloud Computing Basics,Computer Science,2024-04-22,2024-05-06,2024-05-02
+T00637,S034,ECE,B030,1984,Fiction,2024-04-22,2024-05-06,2024-05-09
+T00638,S081,ECE,B011,Cloud Computing Basics,Computer Science,2024-04-22,2024-05-06,2024-04-27
+T00639,S101,CSE,B002,Operating System Concepts,Computer Science,2024-04-22,2024-05-06,2024-05-17
+T00640,S047,MECH,B034,Harry Potter,Fiction,2024-04-22,2024-05-06,2024-05-03
+T00641,S081,ECE,B028,Financial Accounting,Management,2024-04-22,2024-05-06,2024-04-27
+T00642,S018,MECH,B011,Cloud Computing Basics,Computer Science,2024-04-22,2024-05-06,2024-05-13
+T00643,S102,AIML,B029,Business Economics,Management,2024-04-22,2024-05-06,2024-05-18
+T00644,S026,ECE,B002,Operating System Concepts,Computer Science,2024-04-23,2024-05-07,2024-05-07
+T00645,S019,ECE,B007,Deep Learning,Computer Science,2024-04-23,2024-05-07,2024-05-07
+T00646,S045,ECE,B002,Operating System Concepts,Computer Science,2024-04-23,2024-05-07,2024-05-09
+T00647,S009,EEE,B004,Computer Networks,Computer Science,2024-04-23,2024-05-07,2024-05-05
+T00648,S081,ECE,B029,Business Economics,Management,2024-04-23,2024-05-07,2024-04-27
+T00649,S002,CIVIL,B004,Computer Networks,Computer Science,2024-04-23,2024-05-07,2024-05-10
+T00650,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-04-24,2024-05-08,2024-04-29
+T00651,S075,CIVIL,B024,Biology Essentials,Science,2024-04-24,2024-05-08,2024-05-10
+T00652,S094,MECH,B002,Operating System Concepts,Computer Science,2024-04-24,2024-05-08,2024-04-28
+T00653,S032,AIML,B002,Operating System Concepts,Computer Science,2024-04-24,2024-05-08,2024-05-10
+T00654,S103,CSE,B002,Operating System Concepts,Computer Science,2024-04-24,2024-05-08,2024-04-26
+T00655,S045,ECE,B002,Operating System Concepts,Computer Science,2024-04-24,2024-05-08,2024-05-02
+T00656,S058,CSE,B031,To Kill a Mockingbird,Fiction,2024-04-24,2024-05-08,2024-05-08
+T00657,S067,AIML,B001,Introduction to Algorithms,Computer Science,2024-04-24,2024-05-08,2024-04-27
+T00658,S079,MECH,B014,Thermodynamics,Engineering,2024-04-25,2024-05-09,2024-05-05
+T00659,S038,CSE,B006,Python Crash Course,Computer Science,2024-04-25,2024-05-09,2024-05-09
+T00660,S011,AIML,B008,Hands-On Machine Learning,Computer Science,2024-04-25,2024-05-09,2024-05-05
+T00661,S047,MECH,B008,Hands-On Machine Learning,Computer Science,2024-04-25,2024-05-09,2024-05-12
+T00662,S091,MECH,B013,Engineering Mechanics,Engineering,2024-04-25,2024-05-09,
+T00663,S110,AIML,B002,Operating System Concepts,Computer Science,2024-04-25,2024-05-09,2024-05-15
+T00664,S071,CSE,B003,Database System Concepts,Computer Science,2024-04-25,2024-05-09,2024-05-11
+T00665,S014,CSE,B003,Database System Concepts,Computer Science,2024-04-25,2024-05-09,2024-05-04
+T00666,S100,CSE,B001,Introduction to Algorithms,Computer Science,2024-04-25,2024-05-09,2024-05-16
+T00667,S071,CSE,B002,Operating System Concepts,Computer Science,2024-04-25,2024-05-09,2024-05-08
+T00668,S020,EEE,B009,Data Structures in C,Computer Science,2024-04-26,2024-05-10,2024-06-05
+T00669,S081,ECE,B016,Circuit Analysis,Engineering,2024-04-26,2024-05-10,2024-05-12
+T00670,S108,CSE,B005,Clean Code,,2024-04-26,2024-05-10,2024-05-07
+T00671,S073,CSE,B002,Operating System Concepts,Computer Science,2024-04-26,2024-05-10,2024-05-03
+T00672,S036,ECE,B014,Thermodynamics,Engineering,2024-04-26,2024-05-10,2024-04-29
+T00673,S021,CSE,B002,Operating System Concepts,Computer Science,2024-04-26,2024-05-10,2024-05-07
+T00674,S084,AIML,B029,Business Economics,Management,2024-04-27,2024-05-11,2024-05-13
+T00675,S018,MECH,B006,Python Crash Course,Computer Science,2024-04-27,2024-05-11,2024-05-03
+T00676,S072,AIML,B002,Operating System Concepts,Computer Science,2024-04-27,2024-05-11,2024-05-16
+T00677,S055,CSE,B002,Operating System Concepts,Computer Science,2024-04-27,2024-05-11,2024-05-15
+T00678,S029,AIML,B020,Power Systems,Engineering,2024-04-27,2024-05-11,2024-05-05
+T00679,S090,EEE,B006,Python Crash Course,Computer Science,2024-04-27,2024-05-11,2024-05-01
+T00680,S037,ECE,B003,Database System Concepts,Computer Science,2024-04-27,2024-05-11,2024-05-13
+T00680,S037,ECE,B003,Database System Concepts,Computer Science,2024-04-27,2024-05-11,2024-05-13
+T00681,S085,EEE,B001,Introduction to Algorithms,Computer Science,2024-04-27,2024-05-11,2024-05-15
+T00682,S081,ECE,B017,Control Systems,,2024-04-28,2024-05-12,2024-05-03
+T00683,S039,AIML,B035,The Alchemist,Fiction,2024-04-28,2024-05-12,2024-05-03
+T00684,S074,CSE,B008,Hands-On Machine Learning,Computer Science,2024-04-28,2024-05-12,2024-05-04
+T00685,S007,CSE,B003,Database System Concepts,Computer Science,2024-04-28,2024-05-12,2024-05-14
+T00686,S066,MECH,B009,Data Structures in C,Computer Science,2024-04-28,2024-05-12,2024-05-10
+T00687,S057,ECE,B006,Python Crash Course,Computer Science,2024-04-28,2024-05-12,2024-05-10
+T00688,S018,MECH,B001,Introduction to Algorithms,Computer Science,2024-04-28,2024-05-12,2024-05-06
+T00689,S039,AIML,B001,Introduction to Algorithms,Computer Science,2024-05-01,2024-05-15,2024-05-11
+T00690,S019,ECE,B032,Pride and Prejudice,Fiction,2024-05-01,2024-05-15,2024-05-17
+T00691,S067,AIML,B032,Pride and Prejudice,Fiction,2024-05-01,2024-05-15,2024-05-05
+T00692,S061,ECE,B009,Data Structures in C,Computer Science,2024-05-01,2024-05-15,2024-05-17
+T00693,S080,AIML,B015,Fluid Mechanics,Engineering,2024-05-02,2024-05-16,2024-05-12
+T00694,S044,CSE,B012,Cyber Security Essentials,Computer Science,2024-05-02,2024-05-16,2024-05-18
+T00695,S100,CSE,B019,Digital Electronics,Engineering,2024-05-02,2024-05-16,
+T00696,S081,ECE,B007,Deep Learning,Computer Science,2024-05-02,2024-05-16,2024-05-06
+T00697,S045,ECE,B032,Pride and Prejudice,Fiction,2024-05-03,2024-05-17,2024-05-20
+T00698,S029,AIML,B002,Operating System Concepts,Computer Science,2024-05-04,2024-05-18,2024-05-13
+T00699,S082,ECE,B014,Thermodynamics,Engineering,2024-05-04,2024-05-18,2024-05-15
+T00700,S047,MECH,B030,1984,Fiction,2024-05-04,2024-05-18,2024-05-17
+T00701,S102,AIML,B002,Operating System Concepts,Computer Science,2024-05-04,2024-05-18,2024-05-26
+T00702,S100,CSE,B031,To Kill a Mockingbird,Fiction,2024-05-05,2024-05-19,2024-05-14
+T00703,S081,ECE,B001,Introduction to Algorithms,Computer Science,2024-05-05,2024-05-19,2024-05-17
+T00704,S067,AIML,B002,Operating System Concepts,Computer Science,2024-05-05,2024-05-19,2024-05-09
+T00705,S043,CIVIL,B002,Operating System Concepts,Computer Science,2024-05-06,2024-05-20,2024-05-12
+T00706,S054,CSE,B021,Physics Fundamentals,Science,2024-05-06,2024-05-20,2024-05-15
+T00707,S084,AIML,B010,Compiler Design,Computer Science,2024-05-06,2024-05-20,2024-05-10
+T00708,S014,CSE,B001,Introduction to Algorithms,Computer Science,2024-05-06,2024-05-20,2024-05-22
+T00709,S095,CSE,B010,Compiler Design,Computer Science,2024-05-06,2024-05-20,2024-05-16
+T00710,S047,MECH,B009,Data Structures in C,Computer Science,2024-05-07,2024-05-21,
+T00711,S058,CSE,B006,Python Crash Course,Computer Science,2024-05-07,2024-05-21,2024-05-23
+T00712,S095,CSE,B034,Harry Potter,Fiction,2024-05-07,2024-05-21,2024-05-24
+T00713,S076,ECE,B004,Computer Networks,Computer Science,2024-05-07,2024-05-21,2024-05-10
+T00714,S032,AIML,B009,Data Structures in C,Computer Science,2024-05-08,2024-05-22,2024-05-18
+T00715,S101,CSE,B002,Operating System Concepts,Computer Science,2024-05-08,2024-05-22,2024-05-22
+T00716,S021,CSE,B011,Cloud Computing Basics,Computer Science,2024-05-08,2024-05-22,2024-05-20
+T00717,S099,EEE,B026,Principles of Management,Management,2024-05-08,2024-05-22,2024-05-11
+T00718,S034,ECE,B004,Computer Networks,Computer Science,2024-05-10,2024-05-24,2024-05-23
+T00719,S015,CSE,B032,Pride and Prejudice,Fiction,2024-05-11,2024-05-25,2024-05-20
+T00720,S001,AIML,B006,Python Crash Course,Computer Science,2024-05-11,2024-05-25,2024-05-25
+T00721,S082,ECE,B029,Business Economics,Management,2024-05-11,2024-05-25,2024-06-09
+T00722,S050,MECH,B004,Computer Networks,Computer Science,2024-05-11,2024-05-25,2024-05-20
+T00723,S077,AIML,B004,Computer Networks,Computer Science,2024-05-13,2024-05-27,2024-05-19
+T00724,S046,AIML,B002,Operating System Concepts,Computer Science,2024-05-13,2024-05-27,2024-06-07
+T00725,S010,CSE,B002,Operating System Concepts,Computer Science,2024-05-14,2024-05-28,2024-05-30
+T00726,S100,CSE,B007,Deep Learning,Computer Science,2024-05-14,2024-05-28,2024-05-24
+T00727,S076,ECE,B035,The Alchemist,Fiction,2024-05-16,2024-05-30,2024-05-20
+T00728,S047,MECH,B018,Strength of Materials,,2024-05-16,2024-05-30,2024-06-01
+T00729,S047,MECH,B035,The Alchemist,Fiction,2024-05-16,2024-05-30,2024-05-27
+T00730,S047,MECH,B012,Cyber Security Essentials,Computer Science,2024-05-16,2024-05-30,2024-06-03
+T00731,S101,CSE,B002,Operating System Concepts,Computer Science,2024-05-16,2024-05-30,2024-06-02
+T00732,S069,AIML,B009,Data Structures in C,Computer Science,2024-05-16,2024-05-30,2024-06-01
+T00733,S040,CSE,B003,Database System Concepts,Computer Science,2024-05-17,2024-05-31,2024-05-29
+T00734,S071,CSE,B014,Thermodynamics,Engineering,2024-05-17,2024-05-31,2024-05-20
+T00735,S020,EEE,B006,Python Crash Course,,2024-05-17,2024-05-31,2024-05-27
+T00736,S025,AIML,B026,Principles of Management,Management,2024-05-17,2024-05-31,2024-05-19
+T00737,S099,EEE,B006,Python Crash Course,Computer Science,2024-05-18,2024-06-01,2024-05-28
+T00738,S073,CSE,B007,Deep Learning,Computer Science,2024-05-19,2024-06-02,2024-05-31
+T00739,S028,AIML,B012,Cyber Security Essentials,Computer Science,2024-05-20,2024-06-03,2024-05-22
+T00740,S054,CSE,B004,Computer Networks,Computer Science,2024-05-21,2024-06-04,2024-05-23
+T00741,S030,CSE,B002,Operating System Concepts,Computer Science,2024-05-21,2024-06-04,2024-06-07
+T00742,S028,AIML,B037,Modern India,History,2024-05-22,2024-06-05,2024-06-11
+T00743,S010,CSE,B002,Operating System Concepts,Computer Science,2024-05-22,2024-06-05,2024-06-01
+T00744,S013,MECH,B004,Computer Networks,Computer Science,2024-05-23,2024-06-06,2024-06-18
+T00745,S019,ECE,B002,Operating System Concepts,Computer Science,2024-05-23,2024-06-06,2024-06-05
+T00746,S056,CIVIL,B003,Database System Concepts,Computer Science,2024-05-23,2024-06-06,2024-06-05
+T00747,S084,AIML,B002,Operating System Concepts,Computer Science,2024-05-23,2024-06-06,2024-06-10
+T00748,S020,EEE,B012,Cyber Security Essentials,Computer Science,2024-05-24,2024-06-07,2024-05-29
+T00749,S110,AIML,B019,Digital Electronics,Engineering,2024-05-24,2024-06-07,2024-05-29
+T00750,S018,MECH,B002,Operating System Concepts,Computer Science,2024-05-24,2024-06-07,
+T00751,S109,CIVIL,B002,Operating System Concepts,Computer Science,2024-05-25,2024-06-08,2024-05-28
+T00752,S101,CSE,B026,Principles of Management,Management,2024-05-25,2024-06-08,2024-06-13
+T00753,S079,MECH,B002,Operating System Concepts,Computer Science,2024-05-25,2024-06-08,2024-06-05
+T00754,S026,ECE,B006,Python Crash Course,Computer Science,2024-05-25,2024-06-08,2024-05-31
+T00755,S067,AIML,B011,Cloud Computing Basics,Computer Science,2024-05-26,2024-06-09,2024-06-04
+T00756,S012,CSE,B006,Python Crash Course,Computer Science,2024-05-27,2024-06-10,2024-05-29
+T00757,S026,ECE,B002,Operating System Concepts,Computer Science,2024-05-27,2024-06-10,2024-06-10
+T00758,S041,AIML,B013,Engineering Mechanics,Engineering,2024-05-28,2024-06-11,2024-06-02
+T00759,S023,AIML,B001,Introduction to Algorithms,Computer Science,2024-05-28,2024-06-11,2024-06-04
+T00760,S079,MECH,B010,Compiler Design,Computer Science,2024-05-28,2024-06-11,2024-05-30
+T00761,S074,CSE,B006,Python Crash Course,Computer Science,2024-06-01,2024-06-15,2024-06-08
+T00762,S093,AIML,B036,Indian History,,2024-06-02,2024-06-16,2024-06-07
+T00763,S068,ECE,B026,Principles of Management,Management,2024-06-03,2024-06-17,2024-06-05
+T00764,S028,AIML,B007,Deep Learning,Computer Science,2024-06-04,2024-06-18,2024-06-07
+T00765,S063,AIML,B002,Operating System Concepts,Computer Science,2024-06-04,2024-06-18,2024-06-14
+T00766,S081,ECE,B001,Introduction to Algorithms,Computer Science,2024-06-04,2024-06-18,2024-06-14
+T00767,S003,ECE,B002,Operating System Concepts,Computer Science,2024-06-07,2024-06-21,2024-06-17
+T00768,S095,CSE,B002,Operating System Concepts,Computer Science,2024-06-07,2024-06-21,2024-06-23
+T00769,S044,CSE,B002,Operating System Concepts,Computer Science,2024-06-09,2024-06-23,2024-06-27
+T00770,S087,CSE,B002,Operating System Concepts,Computer Science,2024-06-10,2024-06-24,2024-06-12
+T00771,S071,CSE,B002,Operating System Concepts,Computer Science,2024-06-10,2024-06-24,
+T00772,S074,CSE,B002,Operating System Concepts,Computer Science,2024-06-11,2024-06-25,2024-06-27
+T00773,S102,AIML,B017,Control Systems,Engineering,2024-06-11,2024-06-25,2024-06-22
+T00774,S011,AIML,B001,Introduction to Algorithms,Computer Science,2024-06-11,2024-06-25,
+T00775,S085,EEE,B002,Operating System Concepts,Computer Science,2024-06-13,2024-06-27,2024-06-24
+T00776,S053,ECE,B009,Data Structures in C,Computer Science,2024-06-13,2024-06-27,2024-07-01
+T00777,S108,CSE,B019,Digital Electronics,Engineering,2024-06-14,2024-06-28,2024-06-23
+T00778,S017,AIML,B002,Operating System Concepts,Computer Science,2024-06-14,2024-06-28,2024-06-25
+T00779,S103,CSE,B008,Hands-On Machine Learning,Computer Science,2024-06-15,2024-06-29,2024-07-01
+T00780,S031,MECH,B012,Cyber Security Essentials,Computer Science,2024-06-15,2024-06-29,2024-06-20
+T00781,S003,ECE,B034,Harry Potter,Fiction,2024-06-15,2024-06-29,2024-07-02
+T00782,S071,CSE,B002,Operating System Concepts,Computer Science,2024-06-16,2024-06-30,2024-07-02
+T00783,S031,MECH,B002,Operating System Concepts,Computer Science,2024-06-16,2024-06-30,2024-06-30
+T00784,S040,CSE,B002,Operating System Concepts,Computer Science,2024-06-17,2024-07-01,2024-06-21
+T00785,S054,CSE,B006,Python Crash Course,Computer Science,2024-06-17,2024-07-01,2024-06-23
+T00786,S030,CSE,B012,Cyber Security Essentials,Computer Science,2024-06-18,2024-07-02,2024-07-06
+T00787,S032,AIML,B001,Introduction to Algorithms,Computer Science,2024-06-18,2024-07-02,2024-06-25
+T00788,S077,AIML,B035,The Alchemist,Fiction,2024-06-19,2024-07-03,2024-07-09
+T00789,S018,MECH,B002,Operating System Concepts,Computer Science,2024-06-19,2024-07-03,2024-06-21
+T00790,S101,CSE,B006,Python Crash Course,Computer Science,2024-06-19,2024-07-03,2024-07-07
+T00791,S073,CSE,B006,Python Crash Course,Computer Science,2024-06-19,2024-07-03,2024-07-09
+T00792,S002,CIVIL,B031,To Kill a Mockingbird,Fiction,2024-06-19,2024-07-03,2024-07-03
+T00793,S002,CIVIL,B035,The Alchemist,Fiction,2024-06-19,2024-07-03,2024-07-08
+T00794,S019,ECE,B008,Hands-On Machine Learning,Computer Science,2024-06-20,2024-07-04,2024-06-26
+T00795,S081,ECE,B026,Principles of Management,Management,2024-06-21,2024-07-05,2024-07-11
+T00796,S041,AIML,B035,The Alchemist,Fiction,2024-06-21,2024-07-05,2024-06-29
+T00797,S075,CIVIL,B026,Principles of Management,Management,2024-06-22,2024-07-06,2024-07-02
+T00798,S035,ECE,B019,Digital Electronics,Engineering,2024-06-26,2024-07-10,2024-07-09
+T00799,S018,MECH,B005,Clean Code,Computer Science,2024-06-26,2024-07-10,2024-06-29
+T00800,S024,MECH,B002,Operating System Concepts,Computer Science,2024-06-27,2024-07-11,2024-07-14
+T00801,S052,MECH,B038,World War II,History,2024-06-28,2024-07-12,2024-07-12
+T00802,S085,EEE,B034,Harry Potter,Fiction,2024-07-01,2024-07-15,2024-07-29
+T00803,S018,MECH,B007,Deep Learning,Computer Science,2024-07-01,2024-07-15,2024-07-19
+T00804,S047,MECH,B035,The Alchemist,Fiction,2024-07-01,2024-07-15,2024-07-14
+T00805,S035,ECE,B001,Introduction to Algorithms,Computer Science,2024-07-01,2024-07-15,2024-07-08
+T00806,S047,MECH,B025,A Brief History of Time,Science,2024-07-01,2024-07-15,
+T00807,S022,ECE,B002,Operating System Concepts,Computer Science,2024-07-01,2024-07-15,2024-07-08
+T00808,S089,CSE,B018,Strength of Materials,Engineering,2024-07-01,2024-07-15,2024-07-13
+T00809,S068,ECE,B001,Introduction to Algorithms,,2024-07-02,2024-07-16,2024-07-19
+T00810,S001,AIML,B006,Python Crash Course,Computer Science,2024-07-02,2024-07-16,2024-07-21
+T00811,S037,ECE,B006,Python Crash Course,Computer Science,2024-07-02,2024-07-16,2024-07-24
+T00812,S043,CIVIL,B006,Python Crash Course,Computer Science,2024-07-02,2024-07-16,2024-07-05
+T00813,S045,ECE,B001,Introduction to Algorithms,,2024-07-02,2024-07-16,2024-07-10
+T00814,S060,ECE,B002,Operating System Concepts,Computer Science,2024-07-03,2024-07-17,2024-07-08
+T00815,S046,AIML,B026,Principles of Management,Management,2024-07-03,2024-07-17,2024-07-20
+T00816,S063,AIML,B002,Operating System Concepts,Computer Science,2024-07-03,2024-07-17,2024-07-20
+T00817,S011,AIML,B019,Digital Electronics,Engineering,2024-07-03,2024-07-17,2024-07-26
+T00818,S032,AIML,B004,Computer Networks,Computer Science,2024-07-04,2024-07-18,2024-07-08
+T00819,S105,CIVIL,B030,1984,Fiction,2024-07-04,2024-07-18,2024-07-17
+T00820,S101,CSE,B020,Power Systems,Engineering,2024-07-04,2024-07-18,2024-07-14
+T00821,S003,ECE,B012,Cyber Security Essentials,Computer Science,2024-07-05,2024-07-19,2024-07-13
+T00822,S001,AIML,B008,Hands-On Machine Learning,Computer Science,2024-07-05,2024-07-19,2024-07-22
+T00823,S035,ECE,B034,Harry Potter,Fiction,2024-07-06,2024-07-20,2024-07-18
+T00824,S105,CIVIL,B010,Compiler Design,,2024-07-06,2024-07-20,2024-07-22
+T00825,S066,MECH,B002,Operating System Concepts,Computer Science,2024-07-07,2024-07-21,2024-07-09
+T00826,S092,CSE,B021,Physics Fundamentals,Science,2024-07-07,2024-07-21,2024-07-23
+T00827,S045,ECE,B034,Harry Potter,,2024-07-07,2024-07-21,2024-07-25
+T00828,S018,MECH,B018,Strength of Materials,Engineering,2024-07-07,2024-07-21,2024-07-25
+T00829,S110,AIML,B011,Cloud Computing Basics,Computer Science,2024-07-07,2024-07-21,2024-07-09
+T00830,S030,CSE,B005,Clean Code,Computer Science,2024-07-07,2024-07-21,2024-07-09
+T00831,S081,ECE,B008,Hands-On Machine Learning,Computer Science,2024-07-07,2024-07-21,2024-07-09
+T00832,S067,AIML,B003,Database System Concepts,Computer Science,2024-07-08,2024-07-22,2024-07-13
+T00833,S063,AIML,B003,Database System Concepts,Computer Science,2024-07-08,2024-07-22,2024-07-16
+T00834,S110,AIML,B012,Cyber Security Essentials,Computer Science,2024-07-08,2024-07-22,2024-07-29
+T00835,S069,AIML,B002,Operating System Concepts,Computer Science,2024-07-08,2024-07-22,2024-07-25
+T00836,S063,AIML,B002,Operating System Concepts,Computer Science,2024-07-08,2024-07-22,2024-07-19
+T00837,S013,MECH,B037,Modern India,History,2024-07-09,2024-07-23,2024-08-01
+T00838,S100,CSE,B002,Operating System Concepts,Computer Science,2024-07-09,2024-07-23,2024-07-25
+T00839,S056,CIVIL,B025,A Brief History of Time,Science,2024-07-09,2024-07-23,2024-07-19
+T00840,S079,MECH,B004,Computer Networks,Computer Science,2024-07-09,2024-07-23,2024-07-16
+T00841,S008,CSE,B022,Organic Chemistry,Science,2024-07-10,2024-07-24,2024-07-27
+T00842,S040,CSE,B002,Operating System Concepts,Computer Science,2024-07-10,2024-07-24,2024-07-24
+T00843,S047,MECH,B012,Cyber Security Essentials,Computer Science,2024-07-11,2024-07-25,2024-07-28
+T00844,S044,CSE,B034,Harry Potter,Fiction,2024-07-11,2024-07-25,2024-07-29
+T00845,S035,ECE,B038,World War II,History,2024-07-12,2024-07-26,2024-07-31
+T00846,S005,AIML,B004,Computer Networks,Computer Science,2024-07-12,2024-07-26,2024-07-15
+T00847,S050,MECH,B009,Data Structures in C,Computer Science,2024-07-12,2024-07-26,
+T00848,S102,AIML,B005,Clean Code,Computer Science,2024-07-12,2024-07-26,2024-07-18
+T00849,S076,ECE,B002,Operating System Concepts,Computer Science,2024-07-12,2024-07-26,2024-07-28
+T00850,S055,CSE,B009,Data Structures in C,Computer Science,2024-07-13,2024-07-27,2024-07-17
+T00851,S075,CIVIL,B007,Deep Learning,Computer Science,2024-07-13,2024-07-27,2024-07-16
+T00852,S003,ECE,B002,Operating System Concepts,Computer Science,2024-07-13,2024-07-27,2024-07-29
+T00853,S068,ECE,B026,Principles of Management,Management,2024-07-13,2024-07-27,2024-07-20
+T00854,S020,EEE,B023,Engineering Mathematics,Science,2024-07-13,2024-07-27,2024-07-30
+T00855,S008,CSE,B012,Cyber Security Essentials,Computer Science,2024-07-13,2024-07-27,2024-07-29
+T00856,S105,CIVIL,B006,Python Crash Course,Computer Science,2024-07-13,2024-07-27,2024-07-25
+T00857,S027,CSE,B002,Operating System Concepts,Computer Science,2024-07-13,2024-07-27,2024-07-21
+T00858,S097,MECH,B001,Introduction to Algorithms,Computer Science,2024-07-14,2024-07-28,2024-07-21
+T00859,S029,AIML,B001,Introduction to Algorithms,Computer Science,2024-07-14,2024-07-28,2024-08-06
+T00860,S017,AIML,B014,Thermodynamics,Engineering,2024-07-14,2024-07-28,2024-07-25
+T00861,S067,AIML,B016,Circuit Analysis,Engineering,2024-07-14,2024-07-28,2024-07-31
+T00862,S106,ECE,B027,Marketing Management,Management,2024-07-14,2024-07-28,2024-08-10
+T00863,S098,AIML,B015,Fluid Mechanics,Engineering,2024-07-15,2024-07-29,2024-07-23
+T00864,S043,CIVIL,B008,Hands-On Machine Learning,Computer Science,2024-07-15,2024-07-29,2024-08-03
+T00865,S013,MECH,B029,Business Economics,Management,2024-07-15,2024-07-29,2024-08-01
+T00866,S022,ECE,B001,Introduction to Algorithms,Computer Science,2024-07-15,2024-07-29,2024-08-18
+T00867,S007,CSE,B001,Introduction to Algorithms,Computer Science,2024-07-15,2024-07-29,2024-08-02
+T00868,S081,ECE,B025,A Brief History of Time,Science,2024-07-16,2024-07-30,2024-08-06
+T00869,S090,EEE,B005,Clean Code,Computer Science,2024-07-16,2024-07-30,
+T00870,S036,ECE,B001,Introduction to Algorithms,Computer Science,2024-07-16,2024-07-30,2024-08-01
+T00871,S092,CSE,B006,Python Crash Course,Computer Science,2024-07-16,2024-07-30,2024-07-23
+T00872,S037,ECE,B018,Strength of Materials,Engineering,2024-07-16,2024-07-30,2024-07-29
+T00873,S081,ECE,B014,Thermodynamics,Engineering,2024-07-16,2024-07-30,2024-07-19
+T00874,S063,AIML,B020,Power Systems,Engineering,2024-07-16,2024-07-30,2024-07-27
+T00875,S091,MECH,B007,Deep Learning,Computer Science,2024-07-16,2024-07-30,2024-07-18
+T00876,S046,AIML,B006,Python Crash Course,Computer Science,2024-07-17,2024-07-31,2024-07-29
+T00877,S008,CSE,B008,Hands-On Machine Learning,Computer Science,2024-07-17,2024-07-31,2024-07-26
+T00878,S095,CSE,B004,Computer Networks,Computer Science,2024-07-17,2024-07-31,2024-07-19
+T00879,S023,AIML,B002,Operating System Concepts,Computer Science,2024-07-17,2024-07-31,2024-07-27
+T00880,S094,MECH,B015,Fluid Mechanics,Engineering,2024-07-18,2024-08-01,2024-07-29
+T00881,S100,CSE,B012,Cyber Security Essentials,Computer Science,2024-07-18,2024-08-01,2024-08-05
+T00882,S092,CSE,B001,Introduction to Algorithms,Computer Science,2024-07-18,2024-08-01,2024-07-21
+T00882,S092,CSE,B001,Introduction to Algorithms,Computer Science,2024-07-18,2024-08-01,2024-07-21
+T00883,S080,AIML,B027,Marketing Management,Management,2024-07-18,2024-08-01,2024-08-12
+T00884,S006,CSE,B014,Thermodynamics,Engineering,2024-07-18,2024-08-01,2024-07-27
+T00885,S030,CSE,B004,Computer Networks,Computer Science,2024-07-19,2024-08-02,2024-07-22
+T00886,S072,AIML,B001,Introduction to Algorithms,Computer Science,2024-07-19,2024-08-02,2024-08-05
+T00887,S107,AIML,B025,A Brief History of Time,Science,2024-07-19,2024-08-02,2024-07-21
+T00888,S085,EEE,B009,Data Structures in C,Computer Science,2024-07-19,2024-08-02,2024-07-21
+T00889,S081,ECE,B007,Deep Learning,Computer Science,2024-07-19,2024-08-02,2024-07-30
+T00890,S077,AIML,B012,Cyber Security Essentials,Computer Science,2024-07-19,2024-08-02,2024-08-13
+T00891,S032,AIML,B006,Python Crash Course,Computer Science,2024-07-19,2024-08-02,2024-08-13
+T00892,S016,MECH,B001,Introduction to Algorithms,Computer Science,2024-07-19,2024-08-02,2024-08-05
+T00893,S069,AIML,B006,Python Crash Course,Computer Science,2024-07-20,2024-08-03,2024-08-01
+T00894,S081,ECE,B034,Harry Potter,Fiction,2024-07-20,2024-08-03,2024-07-28
+T00895,S094,MECH,B001,Introduction to Algorithms,Computer Science,2024-07-20,2024-08-03,2024-07-29
+T00896,S041,AIML,B003,Database System Concepts,Computer Science,2024-07-21,2024-08-04,2024-08-01
+T00897,S056,CIVIL,B003,Database System Concepts,Computer Science,2024-07-21,2024-08-04,2024-08-16
+T00898,S018,MECH,B002,Operating System Concepts,Computer Science,2024-07-21,2024-08-04,2024-08-09
+T00899,S104,AIML,B005,Clean Code,Computer Science,2024-07-21,2024-08-04,2024-08-04
+T00900,S110,AIML,B015,Fluid Mechanics,Engineering,2024-07-21,2024-08-04,2024-07-28
+T00901,S056,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-07-21,2024-08-04,2024-08-08
+T00901,S056,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-07-21,2024-08-04,2024-08-08
+T00902,S013,MECH,B007,Deep Learning,Computer Science,2024-07-22,2024-08-05,2024-08-07
+T00903,S016,MECH,B010,Compiler Design,Computer Science,2024-07-22,2024-08-05,2024-07-26
+T00904,S024,MECH,B012,Cyber Security Essentials,Computer Science,2024-07-22,2024-08-05,2024-07-25
+T00905,S106,ECE,B002,Operating System Concepts,Computer Science,2024-07-22,2024-08-05,2024-07-30
+T00906,S103,CSE,B008,Hands-On Machine Learning,Computer Science,2024-07-22,2024-08-05,2024-08-01
+T00907,S066,MECH,B002,Operating System Concepts,Computer Science,2024-07-22,2024-08-05,2024-07-25
+T00908,S109,CIVIL,B014,Thermodynamics,Engineering,2024-07-22,2024-08-05,2024-07-29
+T00909,S047,MECH,B001,Introduction to Algorithms,Computer Science,2024-07-23,2024-08-06,2024-08-12
+T00910,S047,MECH,B003,Database System Concepts,Computer Science,2024-07-23,2024-08-06,2024-08-17
+T00911,S069,AIML,B001,Introduction to Algorithms,Computer Science,2024-07-23,2024-08-06,2024-08-18
+T00912,S026,ECE,B002,Operating System Concepts,Computer Science,2024-07-24,2024-08-07,2024-08-03
+T00913,S077,AIML,B004,Computer Networks,Computer Science,2024-07-24,2024-08-07,2024-07-28
+T00914,S106,ECE,B014,Thermodynamics,Engineering,2024-07-24,2024-08-07,2024-08-13
+T00915,S020,EEE,B038,World War II,History,2024-07-24,2024-08-07,2024-08-02
+T00916,S054,CSE,B002,Operating System Concepts,Computer Science,2024-07-25,2024-08-08,2024-07-31
+T00917,S056,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-07-25,2024-08-08,2024-08-07
+T00918,S069,AIML,B008,Hands-On Machine Learning,Computer Science,2024-07-25,2024-08-08,2024-08-06
+T00919,S089,CSE,B010,Compiler Design,Computer Science,2024-07-25,2024-08-08,2024-07-31
+T00920,S026,ECE,B011,Cloud Computing Basics,Computer Science,2024-07-26,2024-08-09,2024-07-28
+T00921,S034,ECE,B010,Compiler Design,Computer Science,2024-07-26,2024-08-09,2024-08-11
+T00922,S104,AIML,B007,Deep Learning,Computer Science,2024-07-26,2024-08-09,2024-08-11
+T00923,S042,CSE,B003,Database System Concepts,Computer Science,2024-07-26,2024-08-09,2024-07-30
+T00924,S018,MECH,B002,Operating System Concepts,Computer Science,2024-07-27,2024-08-10,2024-08-15
+T00925,S006,CSE,B004,Computer Networks,Computer Science,2024-07-27,2024-08-10,2024-08-09
+T00926,S081,ECE,B014,Thermodynamics,Engineering,2024-07-27,2024-08-10,2024-08-13
+T00927,S081,ECE,B002,Operating System Concepts,Computer Science,2024-07-27,2024-08-10,2024-08-09
+T00928,S088,CIVIL,B014,Thermodynamics,Engineering,2024-07-27,2024-08-10,2024-08-04
+T00929,S021,CSE,B002,Operating System Concepts,Computer Science,2024-07-28,2024-08-11,2024-08-13
+T00930,S081,ECE,B002,Operating System Concepts,Computer Science,2024-07-28,2024-08-11,2024-08-01
+T00931,S018,MECH,B005,Clean Code,Computer Science,2024-07-28,2024-08-11,2024-08-19
+T00932,S029,AIML,B002,Operating System Concepts,Computer Science,2024-08-01,2024-08-15,2024-08-08
+T00933,S094,MECH,B007,Deep Learning,Computer Science,2024-08-01,2024-08-15,2024-08-08
+T00934,S101,CSE,B007,Deep Learning,Computer Science,2024-08-01,2024-08-15,2024-08-17
+T00935,S015,CSE,B006,Python Crash Course,Computer Science,2024-08-01,2024-08-15,2024-08-03
+T00936,S045,ECE,B003,Database System Concepts,Computer Science,2024-08-01,2024-08-15,2024-08-04
+T00937,S083,AIML,B037,Modern India,History,2024-08-02,2024-08-16,2024-08-16
+T00938,S017,AIML,B002,Operating System Concepts,Computer Science,2024-08-02,2024-08-16,2024-08-05
+T00939,S001,AIML,B001,Introduction to Algorithms,Computer Science,2024-08-02,2024-08-16,2024-08-11
+T00940,S049,CSE,B002,Operating System Concepts,Computer Science,2024-08-02,2024-08-16,2024-08-19
+T00941,S069,AIML,B034,Harry Potter,Fiction,2024-08-03,2024-08-17,2024-08-05
+T00942,S064,CSE,B013,Engineering Mechanics,Engineering,2024-08-03,2024-08-17,2024-08-20
+T00943,S075,CIVIL,B003,Database System Concepts,Computer Science,2024-08-03,2024-08-17,2024-08-10
+T00944,S002,CIVIL,B002,Operating System Concepts,Computer Science,2024-08-03,2024-08-17,2024-08-08
+T00945,S023,AIML,B001,Introduction to Algorithms,Computer Science,2024-08-03,2024-08-17,2024-08-06
+T00946,S098,AIML,B020,Power Systems,Engineering,2024-08-03,2024-08-17,2024-08-19
+T00947,S085,EEE,B002,Operating System Concepts,Computer Science,2024-08-03,2024-08-17,2024-08-21
+T00948,S059,MECH,B010,Compiler Design,Computer Science,2024-08-04,2024-08-18,2024-08-13
+T00949,S037,ECE,B002,Operating System Concepts,Computer Science,2024-08-04,2024-08-18,2024-08-10
+T00950,S093,AIML,B015,Fluid Mechanics,Engineering,2024-08-04,2024-08-18,2024-08-20
+T00951,S048,ECE,B002,Operating System Concepts,Computer Science,2024-08-04,2024-08-18,2024-08-14
+T00952,S080,AIML,B013,Engineering Mechanics,Engineering,2024-08-04,2024-08-18,2024-08-28
+T00953,S009,EEE,B020,Power Systems,Engineering,2024-08-04,2024-08-18,2024-08-22
+T00954,S021,CSE,B029,Business Economics,Management,2024-08-04,2024-08-18,2024-08-24
+T00955,S081,ECE,B014,Thermodynamics,Engineering,2024-08-04,2024-08-18,2024-08-12
+T00956,S004,AIML,B007,Deep Learning,Computer Science,2024-08-04,2024-08-18,2024-08-15
+T00957,S052,MECH,B008,Hands-On Machine Learning,Computer Science,2024-08-04,2024-08-18,2024-08-06
+T00958,S027,CSE,B002,Operating System Concepts,,2024-08-05,2024-08-19,2024-08-07
+T00959,S026,ECE,B001,Introduction to Algorithms,Computer Science,2024-08-05,2024-08-19,2024-08-14
+T00960,S045,ECE,B014,Thermodynamics,Engineering,2024-08-05,2024-08-19,2024-08-17
+T00961,S014,CSE,B002,Operating System Concepts,Computer Science,2024-08-05,2024-08-19,2024-08-21
+T00962,S047,MECH,B011,Cloud Computing Basics,Computer Science,2024-08-05,2024-08-19,2024-08-21
+T00963,S002,CIVIL,B006,Python Crash Course,Computer Science,2024-08-05,2024-08-19,2024-08-17
+T00964,S026,ECE,B002,Operating System Concepts,Computer Science,2024-08-05,2024-08-19,2024-08-17
+T00965,S104,AIML,B014,Thermodynamics,Engineering,2024-08-05,2024-08-19,2024-08-12
+T00966,S067,AIML,B014,Thermodynamics,Engineering,2024-08-06,2024-08-20,2024-08-23
+T00967,S011,AIML,B035,The Alchemist,Fiction,2024-08-06,2024-08-20,2024-08-22
+T00968,S045,ECE,B034,Harry Potter,Fiction,2024-08-06,2024-08-20,2024-08-23
+T00969,S047,MECH,B001,Introduction to Algorithms,Computer Science,2024-08-06,2024-08-20,2024-08-31
+T00970,S101,CSE,B002,Operating System Concepts,Computer Science,2024-08-06,2024-08-20,2024-09-01
+T00971,S051,CIVIL,B009,Data Structures in C,Computer Science,2024-08-06,2024-08-20,2024-08-23
+T00972,S064,CSE,B007,Deep Learning,Computer Science,2024-08-06,2024-08-20,2024-08-24
+T00973,S016,MECH,B007,Deep Learning,Computer Science,2024-08-07,2024-08-21,2024-08-24
+T00974,S059,MECH,B015,Fluid Mechanics,Engineering,2024-08-07,2024-08-21,2024-08-31
+T00975,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-08-07,2024-08-21,2024-08-23
+T00976,S004,AIML,B001,Introduction to Algorithms,Computer Science,2024-08-08,2024-08-22,2024-08-29
+T00977,S008,CSE,B012,Cyber Security Essentials,Computer Science,2024-08-08,2024-08-22,2024-08-26
+T00978,S048,ECE,B018,Strength of Materials,Engineering,2024-08-08,2024-08-22,2024-08-11
+T00979,S077,AIML,B001,Introduction to Algorithms,Computer Science,2024-08-08,2024-08-22,2024-08-15
+T00980,S039,AIML,B002,Operating System Concepts,Computer Science,2024-08-08,2024-08-22,2024-08-25
+T00981,S047,MECH,B019,Digital Electronics,Engineering,2024-08-08,2024-08-22,2024-08-22
+T00982,S094,MECH,B006,Python Crash Course,Computer Science,2024-08-08,2024-08-22,2024-08-24
+T00983,S101,CSE,B010,Compiler Design,Computer Science,2024-08-08,2024-08-22,2024-08-25
+T00984,S027,CSE,B006,Python Crash Course,Computer Science,2024-08-08,2024-08-22,2024-08-10
+T00985,S027,CSE,B019,Digital Electronics,Engineering,2024-08-09,2024-08-23,2024-08-27
+T00986,S071,CSE,B024,Biology Essentials,Science,2024-08-09,2024-08-23,2024-08-12
+T00987,S103,CSE,B002,Operating System Concepts,Computer Science,2024-08-09,2024-08-23,
+T00988,S056,CIVIL,B008,Hands-On Machine Learning,Computer Science,2024-08-09,2024-08-23,2024-08-17
+T00989,S104,AIML,B034,Harry Potter,Fiction,2024-08-10,2024-08-24,2024-08-16
+T00990,S041,AIML,B018,Strength of Materials,Engineering,2024-08-10,2024-08-24,2024-08-15
+T00991,S026,ECE,B002,Operating System Concepts,Computer Science,2024-08-10,2024-08-24,2024-08-12
+T00992,S065,CSE,B032,Pride and Prejudice,Fiction,2024-08-11,2024-08-25,
+T00993,S069,AIML,B002,Operating System Concepts,Computer Science,2024-08-11,2024-08-25,2024-08-17
+T00994,S012,CSE,B013,Engineering Mechanics,Engineering,2024-08-11,2024-08-25,2024-08-22
+T00994,S012,CSE,B013,Engineering Mechanics,Engineering,2024-08-11,2024-08-25,2024-08-22
+T00995,S083,AIML,B015,Fluid Mechanics,Engineering,2024-08-12,2024-08-26,2024-08-28
+T00996,S081,ECE,B002,Operating System Concepts,Computer Science,2024-08-12,2024-08-26,2024-08-17
+T00997,S054,CSE,B035,The Alchemist,Fiction,2024-08-12,2024-08-26,2024-09-11
+T00998,S046,AIML,B030,1984,Fiction,2024-08-12,2024-08-26,2024-08-19
+T00999,S007,CSE,B001,Introduction to Algorithms,Computer Science,2024-08-13,2024-08-27,2024-09-05
+T01000,S041,AIML,B008,Hands-On Machine Learning,Computer Science,2024-08-13,2024-08-27,2024-08-20
+T01001,S088,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-08-13,2024-08-27,2024-08-29
+T01002,S065,CSE,B002,Operating System Concepts,Computer Science,2024-08-13,2024-08-27,2024-09-08
+T01003,S043,CIVIL,B014,Thermodynamics,Engineering,2024-08-14,2024-08-28,2024-08-23
+T01004,S107,AIML,B005,Clean Code,Computer Science,2024-08-14,2024-08-28,2024-08-17
+T01005,S060,ECE,B004,Computer Networks,Computer Science,2024-08-14,2024-08-28,2024-08-30
+T01006,S088,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-08-14,2024-08-28,2024-09-13
+T01007,S100,CSE,B031,To Kill a Mockingbird,Fiction,2024-08-14,2024-08-28,2024-08-17
+T01008,S076,ECE,B002,Operating System Concepts,Computer Science,2024-08-14,2024-08-28,2024-08-30
+T01009,S097,MECH,B001,Introduction to Algorithms,Computer Science,2024-08-14,2024-08-28,2024-09-02
+T01010,S039,AIML,B002,Operating System Concepts,Computer Science,2024-08-15,2024-08-29,2024-09-06
+T01011,S062,AIML,B007,Deep Learning,Computer Science,2024-08-15,2024-08-29,2024-09-08
+T01012,S047,MECH,B016,Circuit Analysis,Engineering,2024-08-15,2024-08-29,2024-08-23
+T01013,S079,MECH,B017,Control Systems,Engineering,2024-08-15,2024-08-29,2024-08-20
+T01014,S054,CSE,B006,Python Crash Course,Computer Science,2024-08-15,2024-08-29,2024-09-02
+T01015,S009,EEE,B004,Computer Networks,Computer Science,2024-08-16,2024-08-30,2024-08-20
+T01016,S041,AIML,B001,Introduction to Algorithms,Computer Science,2024-08-16,2024-08-30,2024-08-22
+T01017,S081,ECE,B038,World War II,History,2024-08-16,2024-08-30,2024-08-18
+T01018,S015,CSE,B002,Operating System Concepts,Computer Science,2024-08-16,2024-08-30,2024-08-24
+T01019,S075,CIVIL,B026,Principles of Management,Management,2024-08-16,2024-08-30,2024-09-02
+T01020,S008,CSE,B002,Operating System Concepts,Computer Science,2024-08-16,2024-08-30,2024-08-25
+T01021,S082,ECE,B029,Business Economics,Management,2024-08-16,2024-08-30,2024-08-23
+T01022,S081,ECE,B010,Compiler Design,Computer Science,2024-08-17,2024-08-31,2024-09-02
+T01023,S056,CIVIL,B030,1984,Fiction,2024-08-17,2024-08-31,2024-08-19
+T01024,S064,CSE,B008,Hands-On Machine Learning,Computer Science,2024-08-17,2024-08-31,2024-08-26
+T01025,S012,CSE,B008,Hands-On Machine Learning,Computer Science,2024-08-17,2024-08-31,2024-09-09
+T01026,S026,ECE,B007,Deep Learning,Computer Science,2024-08-18,2024-09-01,2024-08-24
+T01027,S022,ECE,B001,Introduction to Algorithms,Computer Science,2024-08-18,2024-09-01,2024-09-01
+T01028,S094,MECH,B033,The Great Gatsby,Fiction,2024-08-18,2024-09-01,2024-09-04
+T01029,S001,AIML,B019,Digital Electronics,Engineering,2024-08-18,2024-09-01,2024-08-30
+T01030,S026,ECE,B007,Deep Learning,Computer Science,2024-08-19,2024-09-02,2024-09-04
+T01031,S004,AIML,B002,Operating System Concepts,Computer Science,2024-08-19,2024-09-02,2024-08-30
+T01032,S089,CSE,B002,Operating System Concepts,Computer Science,2024-08-19,2024-09-02,2024-08-31
+T01033,S071,CSE,B010,Compiler Design,Computer Science,2024-08-19,2024-09-02,2024-09-12
+T01034,S092,CSE,B022,Organic Chemistry,Science,2024-08-19,2024-09-02,2024-08-29
+T01035,S052,MECH,B031,To Kill a Mockingbird,Fiction,2024-08-19,2024-09-02,2024-09-01
+T01036,S005,AIML,B001,Introduction to Algorithms,Computer Science,2024-08-19,2024-09-02,2024-09-01
+T01037,S037,ECE,B015,Fluid Mechanics,Engineering,2024-08-19,2024-09-02,2024-09-13
+T01038,S062,AIML,B017,Control Systems,Engineering,2024-08-20,2024-09-03,2024-08-24
+T01039,S108,CSE,B001,Introduction to Algorithms,Computer Science,2024-08-20,2024-09-03,2024-08-25
+T01040,S081,ECE,B002,Operating System Concepts,Computer Science,2024-08-20,2024-09-03,2024-09-05
+T01041,S015,CSE,B026,Principles of Management,Management,2024-08-20,2024-09-03,2024-09-06
+T01042,S016,MECH,B002,Operating System Concepts,Computer Science,2024-08-20,2024-09-03,2024-09-05
+T01043,S081,ECE,B029,Business Economics,Management,2024-08-20,2024-09-03,2024-09-08
+T01044,S108,CSE,B001,Introduction to Algorithms,Computer Science,2024-08-20,2024-09-03,2024-09-05
+T01045,S059,MECH,B004,Computer Networks,Computer Science,2024-08-20,2024-09-03,2024-09-10
+T01046,S029,AIML,B005,Clean Code,Computer Science,2024-08-20,2024-09-03,2024-09-01
+T01047,S063,AIML,B002,Operating System Concepts,Computer Science,2024-08-21,2024-09-04,2024-09-08
+T01048,S077,AIML,B020,Power Systems,Engineering,2024-08-21,2024-09-04,2024-09-03
+T01049,S081,ECE,B008,Hands-On Machine Learning,Computer Science,2024-08-21,2024-09-04,2024-09-02
+T01049,S081,ECE,B008,Hands-On Machine Learning,Computer Science,2024-08-21,2024-09-04,2024-09-02
+T01050,S060,ECE,B004,Computer Networks,Computer Science,2024-08-21,2024-09-04,2024-08-25
+T01051,S088,CIVIL,B013,Engineering Mechanics,Engineering,2024-08-21,2024-09-04,2024-09-11
+T01052,S090,EEE,B016,Circuit Analysis,Engineering,2024-08-21,2024-09-04,2024-09-06
+T01053,S037,ECE,B006,Python Crash Course,Computer Science,2024-08-22,2024-09-05,2024-09-02
+T01054,S044,CSE,B007,Deep Learning,Computer Science,2024-08-22,2024-09-05,2024-09-10
+T01055,S047,MECH,B002,Operating System Concepts,Computer Science,2024-08-22,2024-09-05,2024-09-09
+T01056,S012,CSE,B006,Python Crash Course,Computer Science,2024-08-22,2024-09-05,2024-09-08
+T01057,S103,CSE,B001,Introduction to Algorithms,Computer Science,2024-08-22,2024-09-05,2024-08-26
+T01058,S085,EEE,B002,Operating System Concepts,Computer Science,2024-08-22,2024-09-05,2024-09-04
+T01059,S026,ECE,B014,Thermodynamics,Engineering,2024-08-22,2024-09-05,2024-09-09
+T01060,S058,CSE,B002,Operating System Concepts,Computer Science,2024-08-23,2024-09-06,2024-08-29
+T01061,S041,AIML,B015,Fluid Mechanics,Engineering,2024-08-23,2024-09-06,2024-09-09
+T01062,S045,ECE,B009,Data Structures in C,Computer Science,2024-08-23,2024-09-06,2024-09-05
+T01063,S031,MECH,B008,Hands-On Machine Learning,Computer Science,2024-08-23,2024-09-06,2024-09-13
+T01064,S036,ECE,B034,Harry Potter,Fiction,2024-08-23,2024-09-06,2024-08-25
+T01065,S010,CSE,B026,Principles of Management,Management,2024-08-23,2024-09-06,2024-09-08
+T01066,S047,MECH,B012,Cyber Security Essentials,Computer Science,2024-08-23,2024-09-06,2024-08-31
+T01067,S026,ECE,B012,Cyber Security Essentials,Computer Science,2024-08-23,2024-09-06,2024-09-08
+T01068,S087,CSE,B025,A Brief History of Time,Science,2024-08-23,2024-09-06,2024-09-10
+T01069,S042,CSE,B012,Cyber Security Essentials,Computer Science,2024-08-23,2024-09-06,2024-09-04
+T01070,S051,CIVIL,B012,Cyber Security Essentials,Computer Science,2024-08-24,2024-09-07,2024-08-26
+T01071,S079,MECH,B006,Python Crash Course,Computer Science,2024-08-24,2024-09-07,2024-09-05
+T01072,S003,ECE,B032,Pride and Prejudice,Fiction,2024-08-24,2024-09-07,2024-09-09
+T01073,S081,ECE,B035,The Alchemist,Fiction,2024-08-24,2024-09-07,2024-09-06
+T01074,S038,CSE,B001,Introduction to Algorithms,Computer Science,2024-08-24,2024-09-07,2024-08-26
+T01075,S050,MECH,B001,Introduction to Algorithms,Computer Science,2024-08-24,2024-09-07,2024-09-03
+T01076,S004,AIML,B005,Clean Code,Computer Science,2024-08-25,2024-09-08,2024-08-31
+T01077,S094,MECH,B014,Thermodynamics,Engineering,2024-08-25,2024-09-08,2024-09-11
+T01078,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-08-25,2024-09-08,2024-08-31
+T01079,S047,MECH,B001,Introduction to Algorithms,Computer Science,2024-08-25,2024-09-08,2024-09-01
+T01080,S014,CSE,B035,The Alchemist,Fiction,2024-08-25,2024-09-08,2024-09-10
+T01081,S042,CSE,B031,To Kill a Mockingbird,Fiction,2024-08-25,2024-09-08,2024-08-29
+T01082,S010,CSE,B008,Hands-On Machine Learning,Computer Science,2024-08-25,2024-09-08,2024-09-13
+T01083,S058,CSE,B029,Business Economics,Management,2024-08-26,2024-09-09,2024-09-08
+T01084,S087,CSE,B005,Clean Code,Computer Science,2024-08-26,2024-09-09,2024-09-05
+T01085,S085,EEE,B004,Computer Networks,Computer Science,2024-08-26,2024-09-09,2024-09-11
+T01086,S087,CSE,B011,Cloud Computing Basics,Computer Science,2024-08-26,2024-09-09,2024-09-13
+T01087,S011,AIML,B007,Deep Learning,Computer Science,2024-08-26,2024-09-09,2024-09-08
+T01088,S082,ECE,B022,Organic Chemistry,Science,2024-08-26,2024-09-09,2024-09-06
+T01089,S028,AIML,B006,Python Crash Course,Computer Science,2024-08-26,2024-09-09,2024-08-28
+T01090,S075,CIVIL,B002,Operating System Concepts,Computer Science,2024-08-26,2024-09-09,2024-09-12
+T01091,S046,AIML,B002,Operating System Concepts,Computer Science,2024-08-26,2024-09-09,2024-09-12
+T01092,S036,ECE,B002,Operating System Concepts,Computer Science,2024-08-27,2024-09-10,2024-09-09
+T01093,S110,AIML,B005,Clean Code,Computer Science,2024-08-27,2024-09-10,2024-09-13
+T01094,S010,CSE,B006,Python Crash Course,Computer Science,2024-08-27,2024-09-10,2024-09-13
+T01095,S041,AIML,B003,Database System Concepts,Computer Science,2024-08-27,2024-09-10,2024-09-03
+T01096,S002,CIVIL,B011,Cloud Computing Basics,Computer Science,2024-08-27,2024-09-10,2024-09-08
+T01097,S005,AIML,B019,Digital Electronics,Engineering,2024-08-27,2024-09-10,2024-09-03
+T01098,S078,ECE,B014,Thermodynamics,Engineering,2024-08-27,2024-09-10,2024-09-05
+T01099,S043,CIVIL,B002,Operating System Concepts,Computer Science,2024-08-27,2024-09-10,2024-09-16
+T01100,S081,ECE,B002,Operating System Concepts,Computer Science,2024-08-27,2024-09-10,2024-09-21
+T01101,S095,CSE,B006,Python Crash Course,Computer Science,2024-08-28,2024-09-11,2024-09-08
+T01102,S069,AIML,B007,Deep Learning,Computer Science,2024-08-28,2024-09-11,2024-09-13
+T01103,S074,CSE,B006,Python Crash Course,Computer Science,2024-08-28,2024-09-11,2024-09-13
+T01104,S069,AIML,B024,Biology Essentials,Science,2024-08-28,2024-09-11,2024-08-30
+T01105,S084,AIML,B017,Control Systems,Engineering,2024-08-28,2024-09-11,2024-09-05
+T01106,S090,EEE,B011,Cloud Computing Basics,Computer Science,2024-08-28,2024-09-11,2024-09-13
+T01107,S081,ECE,B010,Compiler Design,Computer Science,2024-08-28,2024-09-11,2024-09-03
+T01108,S046,AIML,B002,Operating System Concepts,Computer Science,2024-09-01,2024-09-15,2024-09-10
+T01109,S022,ECE,B034,Harry Potter,Fiction,2024-09-01,2024-09-15,2024-09-13
+T01110,S078,ECE,B006,Python Crash Course,Computer Science,2024-09-01,2024-09-15,2024-09-05
+T01111,S042,CSE,B037,Modern India,History,2024-09-01,2024-09-15,2024-09-12
+T01112,S064,CSE,B022,Organic Chemistry,Science,2024-09-01,2024-09-15,2024-09-04
+T01113,S047,MECH,B033,The Great Gatsby,Fiction,2024-09-01,2024-09-15,2024-09-11
+T01114,S002,CIVIL,B002,Operating System Concepts,Computer Science,2024-09-01,2024-09-15,2024-09-14
+T01115,S076,ECE,B006,Python Crash Course,Computer Science,2024-09-01,2024-09-15,2024-09-19
+T01116,S091,MECH,B001,Introduction to Algorithms,Computer Science,2024-09-01,2024-09-15,2024-09-04
+T01117,S005,AIML,B002,Operating System Concepts,Computer Science,2024-09-01,2024-09-15,2024-09-09
+T01118,S019,ECE,B002,Operating System Concepts,Computer Science,2024-09-01,2024-09-15,2024-09-07
+T01119,S091,MECH,B002,Operating System Concepts,Computer Science,2024-09-02,2024-09-16,2024-09-07
+T01120,S091,MECH,B027,Marketing Management,Management,2024-09-03,2024-09-17,2024-09-19
+T01121,S100,CSE,B002,Operating System Concepts,Computer Science,2024-09-03,2024-09-17,2024-09-10
+T01122,S097,MECH,B002,Operating System Concepts,Computer Science,2024-09-03,2024-09-17,2024-09-23
+T01123,S033,CIVIL,B012,Cyber Security Essentials,Computer Science,2024-09-03,2024-09-17,2024-09-09
+T01124,S023,AIML,B004,Computer Networks,Computer Science,2024-09-03,2024-09-17,2024-09-14
+T01125,S081,ECE,B034,Harry Potter,Fiction,2024-09-04,2024-09-18,2024-09-15
+T01126,S066,MECH,B007,Deep Learning,Computer Science,2024-09-04,2024-09-18,2024-09-12
+T01127,S092,CSE,B024,Biology Essentials,Science,2024-09-04,2024-09-18,2024-09-09
+T01128,S040,CSE,B004,Computer Networks,Computer Science,2024-09-04,2024-09-18,2024-09-20
+T01129,S047,MECH,B007,Deep Learning,Computer Science,2024-09-04,2024-09-18,2024-09-21
+T01130,S110,AIML,B012,Cyber Security Essentials,Computer Science,2024-09-04,2024-09-18,2024-09-20
+T01131,S073,CSE,B016,Circuit Analysis,Engineering,2024-09-04,2024-09-18,2024-09-15
+T01132,S087,CSE,B014,Thermodynamics,Engineering,2024-09-04,2024-09-18,2024-09-07
+T01133,S028,AIML,B012,Cyber Security Essentials,Computer Science,2024-09-05,2024-09-19,2024-09-14
+T01134,S078,ECE,B010,Compiler Design,Computer Science,2024-09-05,2024-09-19,2024-09-13
+T01135,S063,AIML,B035,The Alchemist,Fiction,2024-09-05,2024-09-19,2024-09-19
+T01136,S019,ECE,B007,Deep Learning,Computer Science,2024-09-05,2024-09-19,2024-09-22
+T01137,S065,CSE,B001,Introduction to Algorithms,Computer Science,2024-09-06,2024-09-20,2024-09-12
+T01138,S049,CSE,B013,Engineering Mechanics,Engineering,2024-09-06,2024-09-20,2024-09-10
+T01139,S088,CIVIL,B009,Data Structures in C,Computer Science,2024-09-06,2024-09-20,2024-09-29
+T01140,S088,CIVIL,B009,Data Structures in C,Computer Science,2024-09-06,2024-09-20,
+T01141,S026,ECE,B034,Harry Potter,Fiction,2024-09-06,2024-09-20,2024-09-18
+T01142,S094,MECH,B013,Engineering Mechanics,Engineering,2024-09-06,2024-09-20,2024-09-20
+T01143,S103,CSE,B002,Operating System Concepts,Computer Science,2024-09-06,2024-09-20,2024-10-01
+T01144,S070,EEE,B005,Clean Code,Computer Science,2024-09-06,2024-09-20,2024-09-14
+T01145,S066,MECH,B006,Python Crash Course,Computer Science,2024-09-07,2024-09-21,2024-09-20
+T01146,S046,AIML,B023,Engineering Mathematics,Science,2024-09-07,2024-09-21,2024-09-23
+T01147,S067,AIML,B030,1984,Fiction,2024-09-07,2024-09-21,2024-09-15
+T01148,S024,MECH,B012,Cyber Security Essentials,Computer Science,2024-09-07,2024-09-21,2024-09-10
+T01149,S090,EEE,B002,Operating System Concepts,Computer Science,2024-09-07,2024-09-21,2024-09-14
+T01150,S015,CSE,B015,Fluid Mechanics,,2024-09-07,2024-09-21,2024-10-01
+T01151,S103,CSE,B002,Operating System Concepts,Computer Science,2024-09-07,2024-09-21,2024-09-11
+T01152,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-09-08,2024-09-22,2024-09-12
+T01153,S063,AIML,B002,Operating System Concepts,Computer Science,2024-09-08,2024-09-22,2024-09-11
+T01154,S064,CSE,B035,The Alchemist,Fiction,2024-09-08,2024-09-22,
+T01155,S099,EEE,B005,Clean Code,Computer Science,2024-09-09,2024-09-23,2024-09-22
+T01156,S093,AIML,B002,Operating System Concepts,Computer Science,2024-09-09,2024-09-23,2024-09-18
+T01157,S093,AIML,B018,Strength of Materials,Engineering,2024-09-09,2024-09-23,2024-09-20
+T01158,S096,ECE,B003,Database System Concepts,Computer Science,2024-09-09,2024-09-23,2024-09-12
+T01159,S093,AIML,B020,Power Systems,Engineering,2024-09-09,2024-09-23,2024-09-25
+T01160,S088,CIVIL,B029,Business Economics,Management,2024-09-10,2024-09-24,2024-09-13
+T01161,S032,AIML,B001,Introduction to Algorithms,Computer Science,2024-09-10,2024-09-24,2024-09-14
+T01162,S071,CSE,B018,Strength of Materials,Engineering,2024-09-10,2024-09-24,2024-09-26
+T01163,S060,ECE,B005,Clean Code,Computer Science,2024-09-10,2024-09-24,2024-10-01
+T01164,S026,ECE,B034,Harry Potter,Fiction,2024-09-11,2024-09-25,2024-09-19
+T01165,S008,CSE,B032,Pride and Prejudice,Fiction,2024-09-11,2024-09-25,2024-09-14
+T01166,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-09-11,2024-09-25,2024-10-02
+T01167,S015,CSE,B002,Operating System Concepts,Computer Science,2024-09-11,2024-09-25,2024-09-24
+T01168,S031,MECH,B002,Operating System Concepts,Computer Science,2024-09-11,2024-09-25,2024-09-28
+T01169,S027,CSE,B007,Deep Learning,Computer Science,2024-09-11,2024-09-25,2024-09-27
+T01170,S089,CSE,B002,Operating System Concepts,Computer Science,2024-09-12,2024-09-26,2024-09-26
+T01171,S057,ECE,B031,To Kill a Mockingbird,Fiction,2024-09-12,2024-09-26,2024-10-03
+T01172,S092,CSE,B035,The Alchemist,Fiction,2024-09-12,2024-09-26,2024-09-26
+T01173,S004,AIML,B008,Hands-On Machine Learning,Computer Science,2024-09-12,2024-09-26,2024-09-25
+T01174,S077,AIML,B034,Harry Potter,Fiction,2024-09-12,2024-09-26,2024-09-15
+T01175,S106,ECE,B002,Operating System Concepts,Computer Science,2024-09-12,2024-09-26,2024-09-24
+T01176,S001,AIML,B003,Database System Concepts,Computer Science,2024-09-12,2024-09-26,2024-09-22
+T01177,S103,CSE,B001,Introduction to Algorithms,Computer Science,2024-09-12,2024-09-26,2024-09-22
+T01178,S010,CSE,B004,Computer Networks,Computer Science,2024-09-13,2024-09-27,2024-09-25
+T01179,S075,CIVIL,B034,Harry Potter,Fiction,2024-09-13,2024-09-27,2024-09-23
+T01180,S091,MECH,B020,Power Systems,Engineering,2024-09-13,2024-09-27,2024-09-21
+T01181,S089,CSE,B002,Operating System Concepts,Computer Science,2024-09-13,2024-09-27,2024-09-29
+T01182,S087,CSE,B010,Compiler Design,Computer Science,2024-09-13,2024-09-27,
+T01183,S018,MECH,B026,Principles of Management,Management,2024-09-13,2024-09-27,2024-09-27
+T01184,S055,CSE,B034,Harry Potter,Fiction,2024-09-13,2024-09-27,2024-10-01
+T01185,S091,MECH,B002,Operating System Concepts,Computer Science,2024-09-14,2024-09-28,2024-10-01
+T01186,S008,CSE,B006,Python Crash Course,Computer Science,2024-09-14,2024-09-28,2024-10-08
+T01187,S093,AIML,B002,Operating System Concepts,Computer Science,2024-09-14,2024-09-28,2024-10-01
+T01188,S016,MECH,B001,Introduction to Algorithms,Computer Science,2024-09-14,2024-09-28,2024-09-23
+T01189,S017,AIML,B006,Python Crash Course,Computer Science,2024-09-14,2024-09-28,2024-09-30
+T01190,S016,MECH,B016,Circuit Analysis,Engineering,2024-09-14,2024-09-28,2024-09-23
+T01191,S101,CSE,B002,Operating System Concepts,Computer Science,2024-09-14,2024-09-28,2024-09-27
+T01192,S062,AIML,B003,Database System Concepts,Computer Science,2024-09-15,2024-09-29,2024-09-26
+T01193,S080,AIML,B007,Deep Learning,Computer Science,2024-09-15,2024-09-29,2024-09-23
+T01194,S079,MECH,B012,Cyber Security Essentials,Computer Science,2024-09-15,2024-09-29,2024-10-04
+T01195,S109,CIVIL,B030,1984,Fiction,2024-09-15,2024-09-29,2024-09-27
+T01196,S055,CSE,B038,World War II,History,2024-09-15,2024-09-29,2024-09-26
+T01197,S106,ECE,B003,Database System Concepts,Computer Science,2024-09-15,2024-09-29,2024-09-29
+T01198,S011,AIML,B035,The Alchemist,Fiction,2024-09-15,2024-09-29,2024-09-27
+T01199,S060,ECE,B002,Operating System Concepts,Computer Science,2024-09-15,2024-09-29,2024-09-21
+T01200,S103,CSE,B007,Deep Learning,Computer Science,2024-09-15,2024-09-29,2024-09-24
+T01201,S064,CSE,B002,Operating System Concepts,Computer Science,2024-09-15,2024-09-29,2024-09-17
+T01202,S063,AIML,B019,Digital Electronics,Engineering,2024-09-15,2024-09-29,2024-09-21
+T01202,S063,AIML,B019,Digital Electronics,Engineering,2024-09-15,2024-09-29,2024-09-21
+T01203,S069,AIML,B010,Compiler Design,Computer Science,2024-09-15,2024-09-29,2024-10-04
+T01204,S058,CSE,B002,Operating System Concepts,Computer Science,2024-09-15,2024-09-29,2024-09-17
+T01205,S081,ECE,B005,Clean Code,Computer Science,2024-09-16,2024-09-30,2024-10-17
+T01206,S066,MECH,B029,Business Economics,Management,2024-09-16,2024-09-30,2024-09-19
+T01207,S037,ECE,B001,Introduction to Algorithms,Computer Science,2024-09-16,2024-09-30,2024-09-19
+T01208,S004,AIML,B004,Computer Networks,Computer Science,2024-09-17,2024-10-01,2024-09-25
+T01209,S016,MECH,B012,Cyber Security Essentials,Computer Science,2024-09-17,2024-10-01,2024-09-24
+T01210,S007,CSE,B022,Organic Chemistry,Science,2024-09-17,2024-10-01,2024-09-20
+T01211,S108,CSE,B022,Organic Chemistry,Science,2024-09-17,2024-10-01,2024-09-30
+T01212,S010,CSE,B002,Operating System Concepts,Computer Science,2024-09-18,2024-10-02,2024-09-26
+T01213,S024,MECH,B006,Python Crash Course,Computer Science,2024-09-18,2024-10-02,2024-09-25
+T01214,S104,AIML,B031,To Kill a Mockingbird,Fiction,2024-09-18,2024-10-02,2024-10-10
+T01214,S104,AIML,B031,To Kill a Mockingbird,Fiction,2024-09-18,2024-10-02,2024-10-10
+T01215,S078,ECE,B002,Operating System Concepts,Computer Science,2024-09-18,2024-10-02,2024-09-30
+T01216,S095,CSE,B010,Compiler Design,Computer Science,2024-09-18,2024-10-02,2024-09-29
+T01217,S068,ECE,B002,Operating System Concepts,Computer Science,2024-09-18,2024-10-02,2024-10-05
+T01218,S063,AIML,B001,Introduction to Algorithms,Computer Science,2024-09-18,2024-10-02,2024-10-01
+T01219,S019,ECE,B010,Compiler Design,Computer Science,2024-09-18,2024-10-02,2024-10-05
+T01220,S020,EEE,B002,Operating System Concepts,Computer Science,2024-09-18,2024-10-02,2024-10-05
+T01221,S086,MECH,B002,Operating System Concepts,Computer Science,2024-09-18,2024-10-02,2024-10-04
+T01222,S014,CSE,B029,Business Economics,Management,2024-09-18,2024-10-02,2024-09-23
+T01223,S095,CSE,B003,Database System Concepts,Computer Science,2024-09-18,2024-10-02,2024-09-22
+T01224,S021,CSE,B001,Introduction to Algorithms,,2024-09-18,2024-10-02,2024-09-24
+T01225,S001,AIML,B036,Indian History,History,2024-09-19,2024-10-03,2024-09-27
+T01226,S023,AIML,B004,Computer Networks,Computer Science,2024-09-19,2024-10-03,2024-10-05
+T01227,S073,CSE,B011,Cloud Computing Basics,Computer Science,2024-09-19,2024-10-03,2024-09-23
+T01228,S071,CSE,B001,Introduction to Algorithms,Computer Science,2024-09-19,2024-10-03,2024-09-22
+T01229,S027,CSE,B035,The Alchemist,Fiction,2024-09-19,2024-10-03,2024-09-21
+T01230,S010,CSE,B007,Deep Learning,Computer Science,2024-09-19,2024-10-03,2024-09-24
+T01231,S038,CSE,B021,Physics Fundamentals,Science,2024-09-19,2024-10-03,2024-10-02
+T01232,S016,MECH,B004,Computer Networks,Computer Science,2024-09-20,2024-10-04,2024-09-24
+T01233,S072,AIML,B008,Hands-On Machine Learning,Computer Science,2024-09-20,2024-10-04,2024-10-03
+T01234,S026,ECE,B007,Deep Learning,Computer Science,2024-09-20,2024-10-04,2024-10-06
+T01235,S002,CIVIL,B006,Python Crash Course,Computer Science,2024-09-20,2024-10-04,2024-09-26
+T01236,S100,CSE,B037,Modern India,History,2024-09-20,2024-10-04,2024-10-06
+T01237,S001,AIML,B014,Thermodynamics,Engineering,2024-09-20,2024-10-04,2024-10-11
+T01238,S041,AIML,B003,Database System Concepts,Computer Science,2024-09-20,2024-10-04,2024-10-07
+T01239,S053,ECE,B001,Introduction to Algorithms,Computer Science,2024-09-21,2024-10-05,2024-10-01
+T01240,S081,ECE,B002,Operating System Concepts,Computer Science,2024-09-21,2024-10-05,2024-10-10
+T01241,S005,AIML,B002,Operating System Concepts,Computer Science,2024-09-21,2024-10-05,2024-10-07
+T01242,S047,MECH,B002,Operating System Concepts,Computer Science,2024-09-21,2024-10-05,2024-09-24
+T01243,S074,CSE,B035,The Alchemist,Fiction,2024-09-22,2024-10-06,2024-10-11
+T01244,S005,AIML,B031,To Kill a Mockingbird,Fiction,2024-09-22,2024-10-06,2024-09-24
+T01245,S067,AIML,B009,Data Structures in C,Computer Science,2024-09-22,2024-10-06,2024-09-24
+T01246,S073,CSE,B001,Introduction to Algorithms,Computer Science,2024-09-22,2024-10-06,2024-10-09
+T01247,S071,CSE,B026,Principles of Management,Management,2024-09-22,2024-10-06,2024-10-11
+T01248,S088,CIVIL,B007,Deep Learning,Computer Science,2024-09-23,2024-10-07,2024-10-06
+T01249,S110,AIML,B006,Python Crash Course,Computer Science,2024-09-23,2024-10-07,2024-10-13
+T01250,S029,AIML,B002,Operating System Concepts,Computer Science,2024-09-23,2024-10-07,2024-10-16
+T01251,S056,CIVIL,B010,Compiler Design,Computer Science,2024-09-23,2024-10-07,2024-10-13
+T01252,S096,ECE,B036,Indian History,History,2024-09-23,2024-10-07,2024-10-07
+T01253,S027,CSE,B019,Digital Electronics,Engineering,2024-09-23,2024-10-07,2024-10-05
+T01254,S009,EEE,B006,Python Crash Course,Computer Science,2024-09-24,2024-10-08,2024-10-06
+T01255,S051,CIVIL,B002,Operating System Concepts,Computer Science,2024-09-24,2024-10-08,2024-09-29
+T01256,S046,AIML,B001,Introduction to Algorithms,Computer Science,2024-09-24,2024-10-08,2024-09-30
+T01257,S011,AIML,B008,Hands-On Machine Learning,Computer Science,2024-09-24,2024-10-08,2024-09-29
+T01258,S099,EEE,B002,Operating System Concepts,Computer Science,2024-09-24,2024-10-08,2024-10-17
+T01259,S010,CSE,B007,Deep Learning,Computer Science,2024-09-24,2024-10-08,2024-10-18
+T01260,S081,ECE,B002,Operating System Concepts,Computer Science,2024-09-24,2024-10-08,2024-10-04
+T01261,S063,AIML,B007,Deep Learning,Computer Science,2024-09-25,2024-10-09,2024-10-05
+T01262,S091,MECH,B006,Python Crash Course,Computer Science,2024-09-25,2024-10-09,2024-10-06
+T01263,S049,CSE,B004,Computer Networks,Computer Science,2024-09-25,2024-10-09,2024-10-11
+T01264,S100,CSE,B035,The Alchemist,Fiction,2024-09-25,2024-10-09,2024-10-14
+T01265,S078,ECE,B019,Digital Electronics,Engineering,2024-09-25,2024-10-09,2024-10-13
+T01266,S063,AIML,B005,Clean Code,Computer Science,2024-09-25,2024-10-09,2024-10-08
+T01267,S077,AIML,B019,Digital Electronics,Engineering,2024-09-26,2024-10-10,2024-10-18
+T01268,S018,MECH,B004,Computer Networks,Computer Science,2024-09-26,2024-10-10,2024-10-04
+T01269,S109,CIVIL,B002,Operating System Concepts,Computer Science,2024-09-26,2024-10-10,2024-09-30
+T01270,S108,CSE,B004,Computer Networks,Computer Science,2024-09-26,2024-10-10,2024-10-12
+T01271,S081,ECE,B002,Operating System Concepts,Computer Science,2024-09-26,2024-10-10,
+T01272,S067,AIML,B007,Deep Learning,Computer Science,2024-09-26,2024-10-10,2024-10-14
+T01273,S071,CSE,B006,Python Crash Course,Computer Science,2024-09-26,2024-10-10,2024-10-09
+T01274,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-09-26,2024-10-10,2024-10-01
+T01275,S071,CSE,B006,Python Crash Course,Computer Science,2024-09-26,2024-10-10,2024-10-06
+T01276,S087,CSE,B018,Strength of Materials,Engineering,2024-09-26,2024-10-10,2024-10-08
+T01277,S018,MECH,B034,Harry Potter,Fiction,2024-09-27,2024-10-11,2024-10-14
+T01278,S010,CSE,B002,Operating System Concepts,Computer Science,2024-09-27,2024-10-11,2024-10-10
+T01279,S022,ECE,B005,Clean Code,Computer Science,2024-09-27,2024-10-11,2024-10-08
+T01280,S095,CSE,B010,Compiler Design,Computer Science,2024-09-27,2024-10-11,2024-10-16
+T01281,S042,CSE,B002,Operating System Concepts,Computer Science,2024-09-27,2024-10-11,2024-10-04
+T01282,S029,AIML,B002,Operating System Concepts,Computer Science,2024-09-27,2024-10-11,2024-10-07
+T01283,S029,AIML,B003,Database System Concepts,Computer Science,2024-09-28,2024-10-12,2024-10-18
+T01284,S045,ECE,B021,Physics Fundamentals,Science,2024-09-28,2024-10-12,2024-10-04
+T01285,S011,AIML,B002,Operating System Concepts,Computer Science,2024-09-28,2024-10-12,2024-10-09
+T01286,S100,CSE,B002,Operating System Concepts,Computer Science,2024-09-28,2024-10-12,2024-10-19
+T01287,S018,MECH,B014,Thermodynamics,Engineering,2024-09-28,2024-10-12,2024-10-14
+T01288,S069,AIML,B002,Operating System Concepts,Computer Science,2024-09-28,2024-10-12,2024-10-16
+T01289,S002,CIVIL,B008,Hands-On Machine Learning,Computer Science,2024-10-01,2024-10-15,2024-10-18
+T01290,S079,MECH,B027,Marketing Management,Management,2024-10-01,2024-10-15,2024-10-18
+T01291,S078,ECE,B002,Operating System Concepts,Computer Science,2024-10-01,2024-10-15,2024-10-26
+T01292,S026,ECE,B002,Operating System Concepts,Computer Science,2024-10-01,2024-10-15,2024-10-07
+T01293,S088,CIVIL,B003,Database System Concepts,Computer Science,2024-10-01,2024-10-15,2024-10-13
+T01294,S091,MECH,B003,Database System Concepts,Computer Science,2024-10-02,2024-10-16,2024-10-18
+T01295,S008,CSE,B014,Thermodynamics,Engineering,2024-10-02,2024-10-16,2024-10-06
+T01296,S042,CSE,B006,Python Crash Course,Computer Science,2024-10-02,2024-10-16,2024-10-15
+T01297,S085,EEE,B001,Introduction to Algorithms,Computer Science,2024-10-02,2024-10-16,2024-10-09
+T01298,S097,MECH,B018,Strength of Materials,Engineering,2024-10-02,2024-10-16,2024-10-13
+T01299,S047,MECH,B008,Hands-On Machine Learning,Computer Science,2024-10-02,2024-10-16,2024-10-20
+T01300,S047,MECH,B024,Biology Essentials,Science,2024-10-02,2024-10-16,2024-10-21
+T01301,S013,MECH,B030,1984,Fiction,2024-10-02,2024-10-16,2024-10-19
+T01302,S071,CSE,B005,Clean Code,Computer Science,2024-10-03,2024-10-17,2024-10-05
+T01303,S075,CIVIL,B008,Hands-On Machine Learning,Computer Science,2024-10-03,2024-10-17,2024-10-13
+T01304,S092,CSE,B007,Deep Learning,Computer Science,2024-10-03,2024-10-17,2024-10-15
+T01305,S081,ECE,B019,Digital Electronics,Engineering,2024-10-03,2024-10-17,2024-10-20
+T01306,S035,ECE,B008,Hands-On Machine Learning,Computer Science,2024-10-03,2024-10-17,2024-10-12
+T01307,S092,CSE,B005,Clean Code,Computer Science,2024-10-03,2024-10-17,2024-10-16
+T01308,S104,AIML,B008,Hands-On Machine Learning,Computer Science,2024-10-03,2024-10-17,2024-10-05
+T01309,S101,CSE,B012,Cyber Security Essentials,Computer Science,2024-10-03,2024-10-17,2024-10-08
+T01310,S008,CSE,B006,Python Crash Course,Computer Science,2024-10-04,2024-10-18,2024-10-21
+T01311,S093,AIML,B002,Operating System Concepts,Computer Science,2024-10-04,2024-10-18,2024-10-18
+T01312,S108,CSE,B007,Deep Learning,Computer Science,2024-10-04,2024-10-18,2024-10-15
+T01313,S030,CSE,B009,Data Structures in C,Computer Science,2024-10-05,2024-10-19,2024-10-09
+T01314,S080,AIML,B002,Operating System Concepts,Computer Science,2024-10-05,2024-10-19,2024-10-26
+T01315,S063,AIML,B035,The Alchemist,Fiction,2024-10-05,2024-10-19,2024-10-12
+T01316,S079,MECH,B034,Harry Potter,Fiction,2024-10-05,2024-10-19,2024-10-25
+T01317,S026,ECE,B013,Engineering Mechanics,Engineering,2024-10-05,2024-10-19,2024-10-17
+T01318,S075,CIVIL,B007,Deep Learning,Computer Science,2024-10-05,2024-10-19,2024-10-22
+T01319,S005,AIML,B007,Deep Learning,Computer Science,2024-10-06,2024-10-20,2024-10-28
+T01320,S098,AIML,B030,1984,Fiction,2024-10-06,2024-10-20,2024-11-08
+T01321,S110,AIML,B007,Deep Learning,,2024-10-06,2024-10-20,2024-10-22
+T01322,S072,AIML,B002,Operating System Concepts,Computer Science,2024-10-06,2024-10-20,2024-10-20
+T01323,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-10-06,2024-10-20,2024-10-22
+T01323,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-10-06,2024-10-20,2024-10-22
+T01324,S084,AIML,B004,Computer Networks,Computer Science,2024-10-06,2024-10-20,2024-10-25
+T01325,S039,AIML,B002,Operating System Concepts,Computer Science,2024-10-06,2024-10-20,2024-10-09
+T01326,S018,MECH,B006,Python Crash Course,Computer Science,2024-10-07,2024-10-21,2024-10-29
+T01327,S070,EEE,B001,Introduction to Algorithms,Computer Science,2024-10-07,2024-10-21,2024-10-16
+T01328,S066,MECH,B001,Introduction to Algorithms,Computer Science,2024-10-07,2024-10-21,2024-10-23
+T01329,S085,EEE,B020,Power Systems,Engineering,2024-10-07,2024-10-21,2024-10-14
+T01330,S013,MECH,B014,Thermodynamics,Engineering,2024-10-07,2024-10-21,2024-10-24
+T01331,S101,CSE,B028,Financial Accounting,Management,2024-10-08,2024-10-22,2024-10-25
+T01332,S093,AIML,B002,Operating System Concepts,Computer Science,2024-10-08,2024-10-22,2024-10-24
+T01333,S089,CSE,B001,Introduction to Algorithms,Computer Science,2024-10-08,2024-10-22,2024-10-21
+T01334,S032,AIML,B018,Strength of Materials,Engineering,2024-10-08,2024-10-22,
+T01335,S081,ECE,B002,Operating System Concepts,Computer Science,2024-10-08,2024-10-22,2024-11-01
+T01336,S006,CSE,B004,Computer Networks,Computer Science,2024-10-08,2024-10-22,
+T01337,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-10-09,2024-10-23,2024-10-14
+T01338,S014,CSE,B026,Principles of Management,Management,2024-10-09,2024-10-23,2024-10-25
+T01339,S006,CSE,B034,Harry Potter,Fiction,2024-10-10,2024-10-24,2024-10-15
+T01340,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-10-10,2024-10-24,2024-10-22
+T01341,S071,CSE,B007,Deep Learning,Computer Science,2024-10-10,2024-10-24,2024-11-06
+T01342,S010,CSE,B007,Deep Learning,Computer Science,2024-10-10,2024-10-24,2024-10-22
+T01343,S074,CSE,B006,Python Crash Course,Computer Science,2024-10-10,2024-10-24,2024-10-21
+T01344,S105,CIVIL,B005,Clean Code,Computer Science,2024-10-10,2024-10-24,2024-10-20
+T01345,S091,MECH,B024,Biology Essentials,Science,2024-10-11,2024-10-25,2024-10-28
+T01346,S036,ECE,B002,Operating System Concepts,Computer Science,2024-10-11,2024-10-25,
+T01347,S096,ECE,B001,Introduction to Algorithms,Computer Science,2024-10-11,2024-10-25,2024-10-27
+T01348,S012,CSE,B001,Introduction to Algorithms,Computer Science,2024-10-11,2024-10-25,2024-10-18
+T01349,S082,ECE,B012,Cyber Security Essentials,Computer Science,2024-10-11,2024-10-25,2024-10-23
+T01350,S095,CSE,B002,Operating System Concepts,Computer Science,2024-10-11,2024-10-25,2024-10-20
+T01351,S046,AIML,B012,Cyber Security Essentials,Computer Science,2024-10-11,2024-10-25,2024-10-15
+T01352,S088,CIVIL,B015,Fluid Mechanics,Engineering,2024-10-11,2024-10-25,2024-10-29
+T01353,S096,ECE,B004,Computer Networks,Computer Science,2024-10-11,2024-10-25,2024-10-27
+T01354,S095,CSE,B009,Data Structures in C,Computer Science,2024-10-11,2024-10-25,2024-10-15
+T01355,S032,AIML,B002,Operating System Concepts,Computer Science,2024-10-12,2024-10-26,
+T01356,S047,MECH,B002,Operating System Concepts,Computer Science,2024-10-12,2024-10-26,2024-10-19
+T01357,S109,CIVIL,B002,Operating System Concepts,Computer Science,2024-10-12,2024-10-26,2024-10-29
+T01358,S081,ECE,B001,Introduction to Algorithms,Computer Science,2024-10-12,2024-10-26,
+T01359,S088,CIVIL,B007,Deep Learning,Computer Science,2024-10-12,2024-10-26,2024-11-01
+T01360,S079,MECH,B003,Database System Concepts,Computer Science,2024-10-12,2024-10-26,2024-10-30
+T01361,S025,AIML,B028,Financial Accounting,Management,2024-10-13,2024-10-27,2024-10-24
+T01362,S077,AIML,B001,Introduction to Algorithms,Computer Science,2024-10-13,2024-10-27,2024-10-22
+T01363,S081,ECE,B003,Database System Concepts,Computer Science,2024-10-13,2024-10-27,2024-10-16
+T01364,S005,AIML,B012,Cyber Security Essentials,Computer Science,2024-10-13,2024-10-27,2024-10-29
+T01365,S069,AIML,B011,Cloud Computing Basics,Computer Science,2024-10-14,2024-10-28,2024-10-18
+T01366,S087,CSE,B005,Clean Code,Computer Science,2024-10-14,2024-10-28,2024-10-23
+T01367,S039,AIML,B002,Operating System Concepts,Computer Science,2024-10-14,2024-10-28,2024-10-18
+T01368,S018,MECH,B002,Operating System Concepts,Computer Science,2024-10-14,2024-10-28,2024-10-16
+T01369,S016,MECH,B010,Compiler Design,Computer Science,2024-10-14,2024-10-28,2024-10-20
+T01370,S081,ECE,B007,Deep Learning,Computer Science,2024-10-14,2024-10-28,2024-10-21
+T01371,S010,CSE,B002,Operating System Concepts,Computer Science,2024-10-14,2024-10-28,2024-10-31
+T01372,S019,ECE,B004,Computer Networks,Computer Science,2024-10-14,2024-10-28,2024-10-26
+T01373,S026,ECE,B002,Operating System Concepts,Computer Science,2024-10-15,2024-10-29,2024-11-03
+T01374,S103,CSE,B006,Python Crash Course,Computer Science,2024-10-15,2024-10-29,2024-10-28
+T01375,S045,ECE,B019,Digital Electronics,Engineering,2024-10-15,2024-10-29,2024-11-01
+T01376,S012,CSE,B014,Thermodynamics,Engineering,2024-10-15,2024-10-29,2024-11-03
+T01377,S073,CSE,B001,Introduction to Algorithms,Computer Science,2024-10-15,2024-10-29,2024-11-01
+T01378,S029,AIML,B001,Introduction to Algorithms,Computer Science,2024-10-15,2024-10-29,2024-10-24
+T01379,S105,CIVIL,B007,Deep Learning,Computer Science,2024-10-15,2024-10-29,2024-10-29
+T01380,S076,ECE,B002,Operating System Concepts,Computer Science,2024-10-15,2024-10-29,2024-10-21
+T01381,S071,CSE,B002,Operating System Concepts,Computer Science,2024-10-15,2024-10-29,2024-10-20
+T01382,S020,EEE,B037,Modern India,History,2024-10-16,2024-10-30,2024-11-03
+T01383,S047,MECH,B035,The Alchemist,Fiction,2024-10-16,2024-10-30,2024-10-20
+T01384,S051,CIVIL,B002,Operating System Concepts,Computer Science,2024-10-16,2024-10-30,2024-10-22
+T01385,S021,CSE,B015,Fluid Mechanics,Engineering,2024-10-16,2024-10-30,2024-10-23
+T01386,S016,MECH,B004,Computer Networks,Computer Science,2024-10-16,2024-10-30,2024-11-05
+T01387,S041,AIML,B002,Operating System Concepts,Computer Science,2024-10-16,2024-10-30,2024-10-30
+T01388,S095,CSE,B025,A Brief History of Time,Science,2024-10-16,2024-10-30,2024-10-26
+T01389,S079,MECH,B002,Operating System Concepts,Computer Science,2024-10-16,2024-10-30,2024-11-02
+T01390,S047,MECH,B002,Operating System Concepts,Computer Science,2024-10-17,2024-10-31,2024-11-05
+T01391,S032,AIML,B002,Operating System Concepts,Computer Science,2024-10-17,2024-10-31,2024-10-26
+T01392,S047,MECH,B014,Thermodynamics,Engineering,2024-10-17,2024-10-31,2024-11-02
+T01393,S085,EEE,B005,Clean Code,Computer Science,2024-10-17,2024-10-31,2024-10-23
+T01394,S104,AIML,B002,Operating System Concepts,Computer Science,2024-10-17,2024-10-31,2024-10-27
+T01395,S002,CIVIL,B004,Computer Networks,Computer Science,2024-10-18,2024-11-01,2024-10-26
+T01396,S095,CSE,B006,Python Crash Course,Computer Science,2024-10-18,2024-11-01,2024-11-04
+T01397,S108,CSE,B032,Pride and Prejudice,Fiction,2024-10-18,2024-11-01,2024-11-03
+T01398,S003,ECE,B001,Introduction to Algorithms,Computer Science,2024-10-18,2024-11-01,2024-10-27
+T01399,S089,CSE,B010,Compiler Design,Computer Science,2024-10-18,2024-11-01,2024-11-04
+T01400,S071,CSE,B011,Cloud Computing Basics,Computer Science,2024-10-18,2024-11-01,2024-10-24
+T01401,S020,EEE,B020,Power Systems,Engineering,2024-10-18,2024-11-01,2024-11-07
+T01402,S001,AIML,B006,Python Crash Course,Computer Science,2024-10-18,2024-11-01,2024-11-03
+T01403,S050,MECH,B003,Database System Concepts,Computer Science,2024-10-18,2024-11-01,2024-10-25
+T01404,S072,AIML,B002,Operating System Concepts,Computer Science,2024-10-18,2024-11-01,2024-11-01
+T01405,S080,AIML,B031,To Kill a Mockingbird,Fiction,2024-10-18,2024-11-01,2024-10-27
+T01406,S101,CSE,B008,Hands-On Machine Learning,Computer Science,2024-10-18,2024-11-01,2024-10-21
+T01407,S063,AIML,B001,Introduction to Algorithms,Computer Science,2024-10-18,2024-11-01,2024-11-06
+T01408,S056,CIVIL,B017,Control Systems,Engineering,2024-10-18,2024-11-01,2024-11-03
+T01408,S056,CIVIL,B017,Control Systems,Engineering,2024-10-18,2024-11-01,2024-11-03
+T01409,S037,ECE,B010,Compiler Design,Computer Science,2024-10-18,2024-11-01,2024-10-20
+T01410,S049,CSE,B004,Computer Networks,Computer Science,2024-10-19,2024-11-02,2024-11-09
+T01411,S086,MECH,B035,The Alchemist,Fiction,2024-10-19,2024-11-02,2024-10-23
+T01412,S061,ECE,B014,Thermodynamics,Engineering,2024-10-19,2024-11-02,2024-10-31
+T01413,S048,ECE,B028,Financial Accounting,Management,2024-10-19,2024-11-02,2024-11-07
+T01414,S043,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-10-20,2024-11-03,2024-10-31
+T01415,S081,ECE,B021,Physics Fundamentals,Science,2024-10-20,2024-11-03,2024-11-17
+T01416,S091,MECH,B007,Deep Learning,Computer Science,2024-10-20,2024-11-03,2024-11-06
+T01417,S072,AIML,B005,Clean Code,Computer Science,2024-10-20,2024-11-03,2024-11-02
+T01418,S071,CSE,B007,Deep Learning,Computer Science,2024-10-20,2024-11-03,2024-10-31
+T01419,S063,AIML,B002,Operating System Concepts,Computer Science,2024-10-20,2024-11-03,2024-10-22
+T01420,S038,CSE,B028,Financial Accounting,Management,2024-10-20,2024-11-03,2024-11-02
+T01421,S047,MECH,B014,Thermodynamics,Engineering,2024-10-20,2024-11-03,2024-11-06
+T01422,S014,CSE,B002,Operating System Concepts,Computer Science,2024-10-21,2024-11-04,2024-11-02
+T01423,S032,AIML,B008,Hands-On Machine Learning,Computer Science,2024-10-21,2024-11-04,2024-11-02
+T01424,S064,CSE,B003,Database System Concepts,Computer Science,2024-10-21,2024-11-04,2024-10-23
+T01425,S033,CIVIL,B011,Cloud Computing Basics,Computer Science,2024-10-21,2024-11-04,2024-10-28
+T01426,S032,AIML,B012,Cyber Security Essentials,Computer Science,2024-10-22,2024-11-05,2024-10-24
+T01427,S060,ECE,B002,Operating System Concepts,Computer Science,2024-10-22,2024-11-05,2024-10-27
+T01428,S094,MECH,B002,Operating System Concepts,Computer Science,2024-10-22,2024-11-05,2024-11-09
+T01428,S094,MECH,B002,Operating System Concepts,Computer Science,2024-10-22,2024-11-05,2024-11-09
+T01429,S065,CSE,B001,Introduction to Algorithms,Computer Science,2024-10-22,2024-11-05,2024-11-02
+T01430,S054,CSE,B014,Thermodynamics,Engineering,2024-10-22,2024-11-05,2024-11-11
+T01431,S016,MECH,B009,Data Structures in C,Computer Science,2024-10-22,2024-11-05,2024-10-28
+T01432,S007,CSE,B006,Python Crash Course,Computer Science,2024-10-22,2024-11-05,2024-10-26
+T01433,S016,MECH,B006,Python Crash Course,Computer Science,2024-10-23,2024-11-06,2024-10-29
+T01434,S028,AIML,B039,Ancient Civilizations,History,2024-10-23,2024-11-06,2024-11-14
+T01435,S081,ECE,B002,Operating System Concepts,Computer Science,2024-10-23,2024-11-06,2024-11-10
+T01436,S103,CSE,B001,Introduction to Algorithms,Computer Science,2024-10-23,2024-11-06,2024-11-10
+T01437,S078,ECE,B003,Database System Concepts,Computer Science,2024-10-23,2024-11-06,2024-11-12
+T01438,S053,ECE,B018,Strength of Materials,Engineering,2024-10-23,2024-11-06,2024-11-11
+T01439,S007,CSE,B001,Introduction to Algorithms,Computer Science,2024-10-24,2024-11-07,2024-11-11
+T01440,S106,ECE,B004,Computer Networks,Computer Science,2024-10-24,2024-11-07,2024-11-10
+T01441,S019,ECE,B010,Compiler Design,Computer Science,2024-10-24,2024-11-07,2024-11-11
+T01442,S010,CSE,B026,Principles of Management,Management,2024-10-24,2024-11-07,2024-11-09
+T01443,S043,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-10-24,2024-11-07,2024-11-05
+T01444,S101,CSE,B017,Control Systems,Engineering,2024-10-25,2024-11-08,2024-11-01
+T01445,S029,AIML,B004,Computer Networks,Computer Science,2024-10-25,2024-11-08,2024-10-29
+T01446,S007,CSE,B001,Introduction to Algorithms,Computer Science,2024-10-25,2024-11-08,2024-11-05
+T01447,S052,MECH,B006,Python Crash Course,Computer Science,2024-10-25,2024-11-08,2024-11-05
+T01448,S062,AIML,B004,Computer Networks,Computer Science,2024-10-25,2024-11-08,2024-11-04
+T01449,S101,CSE,B032,Pride and Prejudice,Fiction,2024-10-25,2024-11-08,2024-11-10
+T01450,S028,AIML,B010,Compiler Design,Computer Science,2024-10-26,2024-11-09,2024-11-05
+T01451,S013,MECH,B001,Introduction to Algorithms,Computer Science,2024-10-26,2024-11-09,2024-11-11
+T01452,S088,CIVIL,B003,Database System Concepts,Computer Science,2024-10-26,2024-11-09,2024-10-31
+T01453,S109,CIVIL,B002,Operating System Concepts,Computer Science,2024-10-27,2024-11-10,2024-11-20
+T01454,S075,CIVIL,B004,Computer Networks,Computer Science,2024-10-27,2024-11-10,2024-10-31
+T01455,S100,CSE,B037,Modern India,History,2024-10-27,2024-11-10,2024-11-14
+T01456,S075,CIVIL,B006,Python Crash Course,Computer Science,2024-10-27,2024-11-10,2024-11-09
+T01457,S026,ECE,B005,Clean Code,Computer Science,2024-10-28,2024-11-11,2024-11-13
+T01458,S011,AIML,B001,Introduction to Algorithms,Computer Science,2024-10-28,2024-11-11,2024-11-15
+T01459,S067,AIML,B002,Operating System Concepts,Computer Science,2024-10-28,2024-11-11,2024-11-18
+T01460,S103,CSE,B019,Digital Electronics,Engineering,2024-10-28,2024-11-11,2024-11-13
+T01461,S093,AIML,B018,Strength of Materials,Engineering,2024-10-28,2024-11-11,2024-11-20
+T01462,S081,ECE,B002,Operating System Concepts,Computer Science,2024-11-01,2024-11-15,2024-11-15
+T01463,S109,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-11-01,2024-11-15,2024-11-03
+T01463,S109,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-11-01,2024-11-15,2024-11-03
+T01464,S011,AIML,B006,Python Crash Course,Computer Science,2024-11-01,2024-11-15,2024-11-18
+T01465,S088,CIVIL,B035,The Alchemist,Fiction,2024-11-01,2024-11-15,2024-11-25
+T01466,S023,AIML,B002,Operating System Concepts,Computer Science,2024-11-01,2024-11-15,2024-11-13
+T01467,S029,AIML,B020,Power Systems,Engineering,2024-11-01,2024-11-15,2024-11-21
+T01468,S072,AIML,B010,Compiler Design,Computer Science,2024-11-01,2024-11-15,2024-11-10
+T01469,S081,ECE,B002,Operating System Concepts,Computer Science,2024-11-01,2024-11-15,2024-11-06
+T01470,S046,AIML,B001,Introduction to Algorithms,Computer Science,2024-11-01,2024-11-15,2024-11-03
+T01471,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-11-01,2024-11-15,2024-11-05
+T01472,S072,AIML,B006,Python Crash Course,Computer Science,2024-11-01,2024-11-15,2024-11-13
+T01473,S004,AIML,B002,Operating System Concepts,Computer Science,2024-11-01,2024-11-15,2024-11-09
+T01474,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-11-02,2024-11-16,2024-11-24
+T01475,S023,AIML,B035,The Alchemist,Fiction,2024-11-02,2024-11-16,2024-11-22
+T01476,S016,MECH,B025,A Brief History of Time,Science,2024-11-02,2024-11-16,2024-11-20
+T01477,S097,MECH,B012,Cyber Security Essentials,Computer Science,2024-11-02,2024-11-16,2024-11-14
+T01478,S005,AIML,B005,Clean Code,Computer Science,2024-11-02,2024-11-16,2024-11-05
+T01479,S078,ECE,B035,The Alchemist,Fiction,2024-11-02,2024-11-16,2024-11-08
+T01480,S044,CSE,B002,Operating System Concepts,Computer Science,2024-11-02,2024-11-16,2024-11-21
+T01481,S084,AIML,B025,A Brief History of Time,Science,2024-11-02,2024-11-16,2024-11-06
+T01482,S045,ECE,B001,Introduction to Algorithms,Computer Science,2024-11-03,2024-11-17,2024-11-05
+T01483,S046,AIML,B007,Deep Learning,Computer Science,2024-11-03,2024-11-17,
+T01484,S061,ECE,B013,Engineering Mechanics,Engineering,2024-11-03,2024-11-17,2024-11-21
+T01485,S082,ECE,B010,Compiler Design,Computer Science,2024-11-03,2024-11-17,2024-11-17
+T01486,S069,AIML,B002,Operating System Concepts,Computer Science,2024-11-03,2024-11-17,
+T01487,S033,CIVIL,B011,Cloud Computing Basics,Computer Science,2024-11-03,2024-11-17,2024-11-13
+T01488,S071,CSE,B019,Digital Electronics,Engineering,2024-11-04,2024-11-18,2024-11-23
+T01489,S069,AIML,B014,Thermodynamics,Engineering,2024-11-04,2024-11-18,2024-11-07
+T01490,S104,AIML,B008,Hands-On Machine Learning,Computer Science,2024-11-04,2024-11-18,2024-11-26
+T01491,S086,MECH,B001,Introduction to Algorithms,Computer Science,2024-11-04,2024-11-18,2024-11-21
+T01492,S051,CIVIL,B026,Principles of Management,Management,2024-11-04,2024-11-18,2024-11-26
+T01493,S081,ECE,B002,Operating System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-22
+T01494,S080,AIML,B037,Modern India,History,2024-11-05,2024-11-19,2024-11-15
+T01495,S077,AIML,B002,Operating System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-23
+T01496,S048,ECE,B029,Business Economics,Management,2024-11-05,2024-11-19,2024-11-17
+T01497,S082,ECE,B012,Cyber Security Essentials,Computer Science,2024-11-05,2024-11-19,2024-11-13
+T01498,S048,ECE,B002,Operating System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-27
+T01499,S037,ECE,B003,Database System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-17
+T01500,S018,MECH,B002,Operating System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-15
+T01501,S088,CIVIL,B013,Engineering Mechanics,Engineering,2024-11-05,2024-11-19,2024-11-09
+T01502,S053,ECE,B001,Introduction to Algorithms,Computer Science,2024-11-05,2024-11-19,2024-11-17
+T01503,S068,ECE,B002,Operating System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-19
+T01504,S081,ECE,B002,Operating System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-21
+T01505,S010,CSE,B009,Data Structures in C,Computer Science,2024-11-05,2024-11-19,2024-11-11
+T01506,S026,ECE,B002,Operating System Concepts,Computer Science,2024-11-05,2024-11-19,2024-11-13
+T01507,S069,AIML,B006,Python Crash Course,Computer Science,2024-11-05,2024-11-19,2024-11-12
+T01508,S052,MECH,B002,Operating System Concepts,Computer Science,2024-11-06,2024-11-20,2024-11-22
+T01509,S034,ECE,B004,Computer Networks,Computer Science,2024-11-06,2024-11-20,2024-11-25
+T01510,S070,EEE,B012,Cyber Security Essentials,Computer Science,2024-11-06,2024-11-20,2024-11-25
+T01511,S061,ECE,B002,Operating System Concepts,Computer Science,2024-11-06,2024-11-20,2024-11-08
+T01512,S009,EEE,B002,Operating System Concepts,Computer Science,2024-11-06,2024-11-20,2024-11-16
+T01513,S016,MECH,B001,Introduction to Algorithms,Computer Science,2024-11-06,2024-11-20,2024-11-24
+T01514,S069,AIML,B015,Fluid Mechanics,Engineering,2024-11-06,2024-11-20,2024-11-15
+T01515,S045,ECE,B011,Cloud Computing Basics,Computer Science,2024-11-06,2024-11-20,2024-11-25
+T01516,S071,CSE,B002,Operating System Concepts,Computer Science,2024-11-07,2024-11-21,2024-11-17
+T01517,S024,MECH,B026,Principles of Management,Management,2024-11-07,2024-11-21,2024-11-18
+T01518,S039,AIML,B039,Ancient Civilizations,History,2024-11-07,2024-11-21,2024-11-10
+T01519,S075,CIVIL,B013,Engineering Mechanics,Engineering,2024-11-07,2024-11-21,2024-11-25
+T01520,S032,AIML,B015,Fluid Mechanics,Engineering,2024-11-07,2024-11-21,
+T01521,S073,CSE,B002,Operating System Concepts,Computer Science,2024-11-07,2024-11-21,2024-11-18
+T01522,S037,ECE,B009,Data Structures in C,Computer Science,2024-11-07,2024-11-21,2024-11-25
+T01523,S016,MECH,B010,Compiler Design,Computer Science,2024-11-07,2024-11-21,2024-11-15
+T01524,S040,CSE,B014,Thermodynamics,Engineering,2024-11-07,2024-11-21,2024-11-25
+T01525,S021,CSE,B007,Deep Learning,Computer Science,2024-11-08,2024-11-22,2024-11-24
+T01526,S092,CSE,B002,Operating System Concepts,Computer Science,2024-11-08,2024-11-22,2024-11-11
+T01527,S060,ECE,B004,Computer Networks,Computer Science,2024-11-08,2024-11-22,2024-11-28
+T01528,S101,CSE,B005,Clean Code,Computer Science,2024-11-08,2024-11-22,2024-11-25
+T01529,S081,ECE,B002,Operating System Concepts,Computer Science,2024-11-08,2024-11-22,2024-11-21
+T01530,S008,CSE,B010,Compiler Design,Computer Science,2024-11-08,2024-11-22,2024-11-22
+T01531,S016,MECH,B020,Power Systems,Engineering,2024-11-08,2024-11-22,2024-11-18
+T01532,S045,ECE,B027,Marketing Management,Management,2024-11-08,2024-11-22,2024-11-28
+T01533,S079,MECH,B010,Compiler Design,Computer Science,2024-11-09,2024-11-23,2024-11-14
+T01534,S081,ECE,B009,Data Structures in C,Computer Science,2024-11-09,2024-11-23,2024-11-20
+T01535,S054,CSE,B029,Business Economics,Management,2024-11-09,2024-11-23,2024-11-16
+T01536,S020,EEE,B014,Thermodynamics,Engineering,2024-11-09,2024-11-23,2024-11-18
+T01537,S063,AIML,B030,1984,Fiction,2024-11-09,2024-11-23,2024-11-27
+T01538,S072,AIML,B003,Database System Concepts,Computer Science,2024-11-09,2024-11-23,2024-11-18
+T01539,S047,MECH,B012,Cyber Security Essentials,Computer Science,2024-11-09,2024-11-23,2024-11-28
+T01540,S081,ECE,B029,Business Economics,Management,2024-11-10,2024-11-24,2024-11-14
+T01541,S023,AIML,B015,Fluid Mechanics,Engineering,2024-11-10,2024-11-24,2024-11-28
+T01542,S081,ECE,B012,Cyber Security Essentials,Computer Science,2024-11-10,2024-11-24,2024-11-28
+T01543,S044,CSE,B002,Operating System Concepts,Computer Science,2024-11-10,2024-11-24,2024-11-13
+T01544,S110,AIML,B001,Introduction to Algorithms,Computer Science,2024-11-10,2024-11-24,2024-11-23
+T01545,S104,AIML,B002,Operating System Concepts,Computer Science,2024-11-10,2024-11-24,2024-11-26
+T01546,S063,AIML,B002,Operating System Concepts,Computer Science,2024-11-11,2024-11-25,2024-11-15
+T01547,S012,CSE,B002,Operating System Concepts,Computer Science,2024-11-11,2024-11-25,2024-12-01
+T01548,S066,MECH,B035,The Alchemist,Fiction,2024-11-11,2024-11-25,2024-11-28
+T01549,S018,MECH,B031,To Kill a Mockingbird,Fiction,2024-11-11,2024-11-25,2024-11-23
+T01550,S014,CSE,B004,Computer Networks,Computer Science,2024-11-11,2024-11-25,2024-11-27
+T01551,S047,MECH,B003,Database System Concepts,Computer Science,2024-11-11,2024-11-25,2024-11-29
+T01552,S052,MECH,B001,Introduction to Algorithms,Computer Science,2024-11-12,2024-11-26,2024-11-16
+T01553,S110,AIML,B002,Operating System Concepts,Computer Science,2024-11-12,2024-11-26,2024-11-16
+T01554,S099,EEE,B035,The Alchemist,Fiction,2024-11-12,2024-11-26,2024-12-02
+T01555,S008,CSE,B004,Computer Networks,Computer Science,2024-11-12,2024-11-26,2024-11-15
+T01556,S047,MECH,B029,Business Economics,Management,2024-11-12,2024-11-26,2024-12-04
+T01557,S045,ECE,B002,Operating System Concepts,Computer Science,2024-11-12,2024-11-26,2024-11-26
+T01558,S071,CSE,B015,Fluid Mechanics,Engineering,2024-11-12,2024-11-26,2024-11-26
+T01559,S064,CSE,B001,Introduction to Algorithms,Computer Science,2024-11-12,2024-11-26,2024-12-02
+T01560,S016,MECH,B001,Introduction to Algorithms,Computer Science,2024-11-13,2024-11-27,2024-12-15
+T01561,S075,CIVIL,B003,Database System Concepts,Computer Science,2024-11-13,2024-11-27,2024-11-29
+T01562,S069,AIML,B029,Business Economics,Management,2024-11-13,2024-11-27,2024-11-19
+T01563,S027,CSE,B009,Data Structures in C,Computer Science,2024-11-13,2024-11-27,2024-11-30
+T01564,S091,MECH,B008,Hands-On Machine Learning,Computer Science,2024-11-13,2024-11-27,2024-12-05
+T01565,S003,ECE,B029,Business Economics,Management,2024-11-13,2024-11-27,2024-11-20
+T01566,S028,AIML,B002,Operating System Concepts,Computer Science,2024-11-13,2024-11-27,2024-11-25
+T01567,S058,CSE,B002,Operating System Concepts,Computer Science,2024-11-13,2024-11-27,2024-11-15
+T01568,S015,CSE,B010,Compiler Design,Computer Science,2024-11-13,2024-11-27,2024-11-30
+T01569,S049,CSE,B001,Introduction to Algorithms,Computer Science,2024-11-13,2024-11-27,2024-11-23
+T01570,S036,ECE,B012,Cyber Security Essentials,Computer Science,2024-11-13,2024-11-27,
+T01571,S073,CSE,B003,Database System Concepts,Computer Science,2024-11-14,2024-11-28,2024-11-18
+T01572,S073,CSE,B020,Power Systems,Engineering,2024-11-14,2024-11-28,2024-12-06
+T01573,S031,MECH,B015,Fluid Mechanics,Engineering,2024-11-14,2024-11-28,2024-11-20
+T01574,S038,CSE,B011,Cloud Computing Basics,Computer Science,2024-11-14,2024-11-28,2024-11-18
+T01575,S016,MECH,B006,Python Crash Course,Computer Science,2024-11-14,2024-11-28,2024-11-21
+T01576,S033,CIVIL,B002,Operating System Concepts,Computer Science,2024-11-14,2024-11-28,2024-11-19
+T01577,S095,CSE,B003,Database System Concepts,Computer Science,2024-11-15,2024-11-29,2024-11-28
+T01578,S022,ECE,B007,Deep Learning,Computer Science,2024-11-15,2024-11-29,2024-11-20
+T01579,S103,CSE,B007,Deep Learning,Computer Science,2024-11-15,2024-11-29,2024-11-26
+T01580,S010,CSE,B039,Ancient Civilizations,History,2024-11-15,2024-11-29,2024-11-25
+T01581,S028,AIML,B002,Operating System Concepts,Computer Science,2024-11-15,2024-11-29,2024-11-27
+T01582,S063,AIML,B005,Clean Code,Computer Science,2024-11-15,2024-11-29,2024-11-28
+T01583,S078,ECE,B002,Operating System Concepts,Computer Science,2024-11-15,2024-11-29,2024-12-05
+T01584,S099,EEE,B006,Python Crash Course,Computer Science,2024-11-15,2024-11-29,2024-11-18
+T01585,S035,ECE,B002,Operating System Concepts,Computer Science,2024-11-15,2024-11-29,2024-12-02
+T01586,S050,MECH,B001,Introduction to Algorithms,Computer Science,2024-11-15,2024-11-29,2024-12-02
+T01587,S104,AIML,B035,The Alchemist,Fiction,2024-11-15,2024-11-29,
+T01588,S065,CSE,B002,Operating System Concepts,Computer Science,2024-11-15,2024-11-29,2024-11-28
+T01589,S047,MECH,B007,Deep Learning,Computer Science,2024-11-15,2024-11-29,2024-11-27
+T01590,S022,ECE,B002,Operating System Concepts,Computer Science,2024-11-16,2024-11-30,2024-12-02
+T01591,S058,CSE,B006,Python Crash Course,Computer Science,2024-11-16,2024-11-30,2024-12-02
+T01592,S062,AIML,B014,Thermodynamics,Engineering,2024-11-16,2024-11-30,2024-11-21
+T01593,S104,AIML,B005,Clean Code,Computer Science,2024-11-16,2024-11-30,2024-11-19
+T01594,S047,MECH,B006,Python Crash Course,Computer Science,2024-11-16,2024-11-30,2024-12-03
+T01595,S006,CSE,B002,Operating System Concepts,Computer Science,2024-11-16,2024-11-30,2024-11-22
+T01596,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-11-16,2024-11-30,2024-11-28
+T01597,S082,ECE,B002,Operating System Concepts,Computer Science,2024-11-16,2024-11-30,2024-12-05
+T01598,S044,CSE,B035,The Alchemist,Fiction,2024-11-16,2024-11-30,2024-11-26
+T01599,S005,AIML,B017,Control Systems,Engineering,2024-11-17,2024-12-01,2024-11-20
+T01600,S101,CSE,B004,Computer Networks,Computer Science,2024-11-17,2024-12-01,2024-12-03
+T01601,S035,ECE,B015,Fluid Mechanics,Engineering,2024-11-17,2024-12-01,2024-11-23
+T01602,S004,AIML,B003,Database System Concepts,Computer Science,2024-11-17,2024-12-01,2024-12-04
+T01603,S075,CIVIL,B002,Operating System Concepts,Computer Science,2024-11-17,2024-12-01,2024-12-06
+T01604,S012,CSE,B001,Introduction to Algorithms,Computer Science,2024-11-17,2024-12-01,2024-12-03
+T01605,S043,CIVIL,B026,Principles of Management,Management,2024-11-18,2024-12-02,2024-11-22
+T01606,S088,CIVIL,B004,Computer Networks,Computer Science,2024-11-18,2024-12-02,2024-11-22
+T01607,S100,CSE,B006,Python Crash Course,Computer Science,2024-11-18,2024-12-02,2024-12-09
+T01608,S046,AIML,B032,Pride and Prejudice,Fiction,2024-11-18,2024-12-02,2024-12-07
+T01609,S057,ECE,B035,The Alchemist,Fiction,2024-11-18,2024-12-02,2024-12-02
+T01610,S046,AIML,B017,Control Systems,Engineering,2024-11-18,2024-12-02,2024-12-01
+T01611,S072,AIML,B003,Database System Concepts,Computer Science,2024-11-18,2024-12-02,2024-12-04
+T01612,S022,ECE,B012,Cyber Security Essentials,Computer Science,2024-11-18,2024-12-02,2024-11-29
+T01613,S029,AIML,B001,Introduction to Algorithms,Computer Science,2024-11-18,2024-12-02,2024-11-28
+T01614,S081,ECE,B010,Compiler Design,Computer Science,2024-11-19,2024-12-03,2024-11-21
+T01615,S045,ECE,B007,Deep Learning,Computer Science,2024-11-19,2024-12-03,2024-11-29
+T01616,S039,AIML,B010,Compiler Design,Computer Science,2024-11-19,2024-12-03,2024-11-29
+T01617,S088,CIVIL,B018,Strength of Materials,Engineering,2024-11-19,2024-12-03,2024-12-01
+T01618,S081,ECE,B025,A Brief History of Time,Science,2024-11-19,2024-12-03,2024-12-02
+T01619,S063,AIML,B010,Compiler Design,Computer Science,2024-11-19,2024-12-03,2024-11-27
+T01620,S032,AIML,B037,Modern India,History,2024-11-20,2024-12-04,2024-11-22
+T01621,S044,CSE,B002,Operating System Concepts,Computer Science,2024-11-20,2024-12-04,2024-12-04
+T01622,S065,CSE,B025,A Brief History of Time,Science,2024-11-20,2024-12-04,2024-11-29
+T01623,S074,CSE,B035,The Alchemist,Fiction,2024-11-20,2024-12-04,2024-11-28
+T01624,S063,AIML,B006,Python Crash Course,Computer Science,2024-11-20,2024-12-04,2024-11-22
+T01625,S081,ECE,B014,Thermodynamics,Engineering,2024-11-20,2024-12-04,2024-11-30
+T01626,S017,AIML,B004,Computer Networks,Computer Science,2024-11-20,2024-12-04,2024-11-27
+T01627,S096,ECE,B003,Database System Concepts,Computer Science,2024-11-21,2024-12-05,2024-11-28
+T01628,S046,AIML,B002,Operating System Concepts,Computer Science,2024-11-21,2024-12-05,2024-11-25
+T01628,S046,AIML,B002,Operating System Concepts,Computer Science,2024-11-21,2024-12-05,2024-11-25
+T01629,S013,MECH,B014,Thermodynamics,Engineering,2024-11-21,2024-12-05,2024-11-30
+T01630,S087,CSE,B007,Deep Learning,Computer Science,2024-11-21,2024-12-05,2024-12-09
+T01631,S089,CSE,B018,Strength of Materials,Engineering,2024-11-21,2024-12-05,2024-12-08
+T01632,S032,AIML,B006,Python Crash Course,Computer Science,2024-11-21,2024-12-05,2024-11-27
+T01633,S026,ECE,B034,Harry Potter,Fiction,2024-11-21,2024-12-05,2024-12-04
+T01634,S036,ECE,B030,1984,Fiction,2024-11-21,2024-12-05,2024-11-28
+T01635,S002,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-11-22,2024-12-06,2024-12-02
+T01636,S103,CSE,B003,Database System Concepts,Computer Science,2024-11-22,2024-12-06,2024-12-08
+T01637,S047,MECH,B020,Power Systems,Engineering,2024-11-22,2024-12-06,2024-12-10
+T01638,S095,CSE,B001,Introduction to Algorithms,Computer Science,2024-11-22,2024-12-06,2024-11-25
+T01639,S081,ECE,B004,Computer Networks,Computer Science,2024-11-22,2024-12-06,2024-12-03
+T01640,S001,AIML,B007,Deep Learning,Computer Science,2024-11-22,2024-12-06,2024-12-06
+T01641,S005,AIML,B002,Operating System Concepts,Computer Science,2024-11-22,2024-12-06,2024-12-08
+T01642,S096,ECE,B002,Operating System Concepts,Computer Science,2024-11-22,2024-12-06,2024-12-04
+T01643,S019,ECE,B002,Operating System Concepts,Computer Science,2024-11-23,2024-12-07,2024-12-07
+T01644,S106,ECE,B002,Operating System Concepts,Computer Science,2024-11-23,2024-12-07,2024-12-16
+T01645,S083,AIML,B005,Clean Code,Computer Science,2024-11-23,2024-12-07,2024-12-10
+T01646,S075,CIVIL,B003,Database System Concepts,Computer Science,2024-11-23,2024-12-07,2024-11-27
+T01647,S029,AIML,B010,Compiler Design,Computer Science,2024-11-24,2024-12-08,2024-11-26
+T01648,S053,ECE,B011,Cloud Computing Basics,Computer Science,2024-11-24,2024-12-08,2024-12-02
+T01649,S100,CSE,B002,Operating System Concepts,Computer Science,2024-11-24,2024-12-08,2024-12-15
+T01650,S002,CIVIL,B003,Database System Concepts,Computer Science,2024-11-24,2024-12-08,2024-12-06
+T01651,S032,AIML,B002,Operating System Concepts,Computer Science,2024-11-24,2024-12-08,2024-12-06
+T01652,S056,CIVIL,B024,Biology Essentials,Science,2024-11-24,2024-12-08,2024-12-12
+T01653,S018,MECH,B006,Python Crash Course,Computer Science,2024-11-24,2024-12-08,2024-12-02
+T01654,S062,AIML,B004,Computer Networks,Computer Science,2024-11-24,2024-12-08,2024-11-29
+T01655,S103,CSE,B009,Data Structures in C,Computer Science,2024-11-25,2024-12-09,2024-11-28
+T01656,S056,CIVIL,B026,Principles of Management,Management,2024-11-25,2024-12-09,2024-11-28
+T01657,S046,AIML,B031,To Kill a Mockingbird,Fiction,2024-11-25,2024-12-09,2024-12-11
+T01658,S089,CSE,B035,The Alchemist,Fiction,2024-11-25,2024-12-09,
+T01659,S014,CSE,B039,Ancient Civilizations,History,2024-11-26,2024-12-10,2024-12-12
+T01660,S005,AIML,B007,Deep Learning,Computer Science,2024-11-26,2024-12-10,2024-12-08
+T01661,S096,ECE,B035,The Alchemist,Fiction,2024-11-26,2024-12-10,2024-12-06
+T01662,S076,ECE,B019,Digital Electronics,Engineering,2024-11-26,2024-12-10,2024-12-19
+T01663,S083,AIML,B002,Operating System Concepts,Computer Science,2024-11-26,2024-12-10,2024-12-12
+T01664,S089,CSE,B001,Introduction to Algorithms,Computer Science,2024-11-26,2024-12-10,2024-12-12
+T01665,S101,CSE,B010,Compiler Design,Computer Science,2024-11-26,2024-12-10,2024-12-07
+T01666,S075,CIVIL,B007,Deep Learning,Computer Science,2024-11-26,2024-12-10,2024-12-13
+T01667,S016,MECH,B002,Operating System Concepts,Computer Science,2024-11-26,2024-12-10,2024-12-03
+T01668,S015,CSE,B007,Deep Learning,Computer Science,2024-11-27,2024-12-11,2024-12-11
+T01669,S038,CSE,B002,Operating System Concepts,Computer Science,2024-11-27,2024-12-11,2024-12-03
+T01670,S032,AIML,B012,Cyber Security Essentials,Computer Science,2024-11-27,2024-12-11,2024-12-17
+T01671,S030,CSE,B010,Compiler Design,Computer Science,2024-11-27,2024-12-11,2024-12-01
+T01672,S031,MECH,B034,Harry Potter,Fiction,2024-11-27,2024-12-11,2024-12-01
+T01673,S094,MECH,B002,Operating System Concepts,Computer Science,2024-11-27,2024-12-11,2024-12-10
+T01674,S010,CSE,B002,Operating System Concepts,Computer Science,2024-11-28,2024-12-12,2024-12-08
+T01675,S008,CSE,B020,Power Systems,Engineering,2024-11-28,2024-12-12,2024-12-08
+T01676,S035,ECE,B013,Engineering Mechanics,Engineering,2024-11-28,2024-12-12,2024-12-14
+T01677,S001,AIML,B004,Computer Networks,Computer Science,2024-11-28,2024-12-12,2024-12-09
+T01678,S105,CIVIL,B002,Operating System Concepts,Computer Science,2024-12-01,2024-12-15,2024-12-17
+T01679,S064,CSE,B025,A Brief History of Time,Science,2024-12-01,2024-12-15,2024-12-09
+T01680,S026,ECE,B001,Introduction to Algorithms,Computer Science,2024-12-01,2024-12-15,
+T01681,S032,AIML,B002,Operating System Concepts,Computer Science,2024-12-01,2024-12-15,2024-12-14
+T01682,S020,EEE,B008,Hands-On Machine Learning,Computer Science,2024-12-01,2024-12-15,2024-12-13
+T01683,S017,AIML,B003,Database System Concepts,Computer Science,2024-12-01,2024-12-15,2024-12-25
+T01684,S021,CSE,B001,Introduction to Algorithms,Computer Science,2024-12-02,2024-12-16,2024-12-16
+T01685,S058,CSE,B002,Operating System Concepts,Computer Science,2024-12-02,2024-12-16,2024-12-05
+T01686,S032,AIML,B003,Database System Concepts,Computer Science,2024-12-02,2024-12-16,2024-12-04
+T01687,S003,ECE,B001,Introduction to Algorithms,Computer Science,2024-12-02,2024-12-16,2024-12-09
+T01688,S071,CSE,B004,Computer Networks,Computer Science,2024-12-03,2024-12-17,2024-12-19
+T01689,S070,EEE,B006,Python Crash Course,Computer Science,2024-12-03,2024-12-17,2024-12-10
+T01690,S018,MECH,B002,Operating System Concepts,Computer Science,2024-12-03,2024-12-17,2024-12-20
+T01691,S065,CSE,B002,Operating System Concepts,Computer Science,2024-12-04,2024-12-18,2024-12-06
+T01692,S041,AIML,B003,Database System Concepts,Computer Science,2024-12-04,2024-12-18,2024-12-20
+T01693,S061,ECE,B025,A Brief History of Time,Science,2024-12-04,2024-12-18,2024-12-17
+T01694,S047,MECH,B006,Python Crash Course,Computer Science,2024-12-04,2024-12-18,2024-12-21
+T01695,S011,AIML,B008,Hands-On Machine Learning,Computer Science,2024-12-04,2024-12-18,2024-12-22
+T01696,S059,MECH,B002,Operating System Concepts,Computer Science,2024-12-04,2024-12-18,2024-12-09
+T01697,S047,MECH,B034,Harry Potter,Fiction,2024-12-05,2024-12-19,2024-12-19
+T01698,S039,AIML,B001,Introduction to Algorithms,Computer Science,2024-12-06,2024-12-20,2025-01-01
+T01699,S042,CSE,B004,Computer Networks,Computer Science,2024-12-06,2024-12-20,2024-12-17
+T01700,S016,MECH,B002,Operating System Concepts,Computer Science,2024-12-06,2024-12-20,2024-12-18
+T01701,S072,AIML,B002,Operating System Concepts,Computer Science,2024-12-06,2024-12-20,2024-12-10
+T01702,S033,CIVIL,B004,Computer Networks,Computer Science,2024-12-06,2024-12-20,2024-12-15
+T01703,S022,ECE,B013,Engineering Mechanics,Engineering,2024-12-06,2024-12-20,2024-12-23
+T01704,S028,AIML,B006,Python Crash Course,Computer Science,2024-12-06,2024-12-20,2024-12-14
+T01705,S101,CSE,B004,Computer Networks,Computer Science,2024-12-06,2024-12-20,2024-12-15
+T01706,S031,MECH,B014,Thermodynamics,Engineering,2024-12-07,2024-12-21,2024-12-09
+T01707,S077,AIML,B006,Python Crash Course,Computer Science,2024-12-07,2024-12-21,2024-12-18
+T01708,S020,EEE,B019,Digital Electronics,Engineering,2024-12-07,2024-12-21,2024-12-17
+T01708,S020,EEE,B019,Digital Electronics,Engineering,2024-12-07,2024-12-21,2024-12-17
+T01709,S029,AIML,B002,Operating System Concepts,Computer Science,2024-12-07,2024-12-21,2024-12-12
+T01710,S066,MECH,B018,Strength of Materials,Engineering,2024-12-07,2024-12-21,2024-12-21
+T01711,S006,CSE,B035,The Alchemist,Fiction,2024-12-08,2024-12-22,2024-12-11
+T01712,S083,AIML,B019,Digital Electronics,Engineering,2024-12-08,2024-12-22,2024-12-24
+T01713,S084,AIML,B010,Compiler Design,Computer Science,2024-12-08,2024-12-22,2024-12-30
+T01714,S050,MECH,B010,Compiler Design,Computer Science,2024-12-08,2024-12-22,2024-12-25
+T01715,S073,CSE,B002,Operating System Concepts,Computer Science,2024-12-08,2024-12-22,2024-12-22
+T01716,S103,CSE,B004,Computer Networks,Computer Science,2024-12-08,2024-12-22,2024-12-26
+T01717,S106,ECE,B003,Database System Concepts,Computer Science,2024-12-08,2024-12-22,2024-12-16
+T01717,S106,ECE,B003,Database System Concepts,Computer Science,2024-12-08,2024-12-22,2024-12-16
+T01718,S041,AIML,B008,Hands-On Machine Learning,Computer Science,2024-12-09,2024-12-23,2024-12-15
+T01719,S066,MECH,B006,Python Crash Course,Computer Science,2024-12-09,2024-12-23,2024-12-25
+T01720,S045,ECE,B002,Operating System Concepts,Computer Science,2024-12-10,2024-12-24,2024-12-24
+T01721,S081,ECE,B008,Hands-On Machine Learning,Computer Science,2024-12-10,2024-12-24,2024-12-23
+T01722,S008,CSE,B002,Operating System Concepts,Computer Science,2024-12-10,2024-12-24,2024-12-27
+T01723,S063,AIML,B010,Compiler Design,Computer Science,2024-12-10,2024-12-24,2024-12-22
+T01724,S033,CIVIL,B002,Operating System Concepts,Computer Science,2024-12-10,2024-12-24,2024-12-30
+T01725,S022,ECE,B002,Operating System Concepts,Computer Science,2024-12-10,2024-12-24,
+T01726,S032,AIML,B010,Compiler Design,Computer Science,2024-12-10,2024-12-24,2024-12-31
+T01727,S019,ECE,B006,Python Crash Course,Computer Science,2024-12-10,2024-12-24,2024-12-27
+T01728,S063,AIML,B002,Operating System Concepts,Computer Science,2024-12-10,2024-12-24,2024-12-20
+T01729,S027,CSE,B004,Computer Networks,Computer Science,2024-12-11,2024-12-25,2024-12-27
+T01730,S035,ECE,B003,Database System Concepts,Computer Science,2024-12-11,2024-12-25,
+T01731,S089,CSE,B003,Database System Concepts,Computer Science,2024-12-11,2024-12-25,2025-01-02
+T01732,S096,ECE,B002,Operating System Concepts,Computer Science,2024-12-12,2024-12-26,2024-12-19
+T01733,S056,CIVIL,B004,Computer Networks,Computer Science,2024-12-12,2024-12-26,2024-12-23
+T01734,S026,ECE,B034,Harry Potter,Fiction,2024-12-12,2024-12-26,2024-12-28
+T01735,S026,ECE,B035,The Alchemist,Fiction,2024-12-13,2024-12-27,2024-12-31
+T01736,S032,AIML,B004,Computer Networks,Computer Science,2024-12-13,2024-12-27,2024-12-16
+T01737,S001,AIML,B004,Computer Networks,Computer Science,2024-12-13,2024-12-27,2024-12-31
+T01738,S011,AIML,B002,Operating System Concepts,Computer Science,2024-12-13,2024-12-27,2024-12-30
+T01739,S084,AIML,B002,Operating System Concepts,Computer Science,2024-12-13,2024-12-27,2024-12-20
+T01740,S046,AIML,B006,Python Crash Course,Computer Science,2024-12-13,2024-12-27,2024-12-19
+T01741,S056,CIVIL,B025,A Brief History of Time,Science,2024-12-14,2024-12-28,2024-12-31
+T01742,S078,ECE,B007,Deep Learning,Computer Science,2024-12-14,2024-12-28,2024-12-26
+T01743,S071,CSE,B002,Operating System Concepts,Computer Science,2024-12-14,2024-12-28,2024-12-30
+T01744,S066,MECH,B025,A Brief History of Time,Science,2024-12-15,2024-12-29,2024-12-24
+T01745,S106,ECE,B002,Operating System Concepts,Computer Science,2024-12-15,2024-12-29,2025-01-05
+T01746,S088,CIVIL,B002,Operating System Concepts,Computer Science,2024-12-15,2024-12-29,2024-12-24
+T01747,S089,CSE,B002,Operating System Concepts,Computer Science,2024-12-15,2024-12-29,2024-12-17
+T01748,S083,AIML,B035,The Alchemist,Fiction,2024-12-15,2024-12-29,2024-12-21
+T01749,S042,CSE,B002,Operating System Concepts,Computer Science,2024-12-16,2024-12-30,2024-12-24
+T01750,S095,CSE,B026,Principles of Management,Management,2024-12-16,2024-12-30,2025-01-01
+T01751,S002,CIVIL,B001,Introduction to Algorithms,Computer Science,2024-12-16,2024-12-30,2024-12-29
+T01752,S081,ECE,B014,Thermodynamics,Engineering,2024-12-16,2024-12-30,2025-01-02
+T01753,S029,AIML,B013,Engineering Mechanics,Engineering,2024-12-16,2024-12-30,2024-12-28
+T01754,S024,MECH,B014,Thermodynamics,Engineering,2024-12-16,2024-12-30,2024-12-22
+T01755,S076,ECE,B002,Operating System Concepts,Computer Science,2024-12-17,2024-12-31,2024-12-23
+T01756,S042,CSE,B002,Operating System Concepts,Computer Science,2024-12-17,2024-12-31,2024-12-23
+T01757,S081,ECE,B002,Operating System Concepts,Computer Science,2024-12-17,2024-12-31,2025-01-03
+T01758,S103,CSE,B002,Operating System Concepts,Computer Science,2024-12-18,2025-01-01,2025-01-08
+T01759,S026,ECE,B002,Operating System Concepts,Computer Science,2024-12-18,2025-01-01,2024-12-20
+T01760,S005,AIML,B014,Thermodynamics,Engineering,2024-12-18,2025-01-01,
+T01761,S046,AIML,B004,Computer Networks,Computer Science,2024-12-18,2025-01-01,2024-12-31
+T01762,S021,CSE,B010,Compiler Design,Computer Science,2024-12-18,2025-01-01,2024-12-20
+T01763,S103,CSE,B005,Clean Code,Computer Science,2024-12-19,2025-01-02,2025-01-04
+T01764,S088,CIVIL,B008,Hands-On Machine Learning,Computer Science,2024-12-19,2025-01-02,2025-01-07
+T01765,S038,CSE,B001,Introduction to Algorithms,,2024-12-19,2025-01-02,2025-01-01
+T01766,S026,ECE,B005,Clean Code,Computer Science,2024-12-19,2025-01-02,2025-01-17
+T01767,S080,AIML,B001,Introduction to Algorithms,Computer Science,2024-12-19,2025-01-02,2024-12-26
+T01768,S032,AIML,B018,Strength of Materials,Engineering,2024-12-19,2025-01-02,2024-12-24
+T01769,S107,AIML,B024,Biology Essentials,Science,2024-12-19,2025-01-02,2024-12-24
+T01770,S060,ECE,B003,Database System Concepts,Computer Science,2024-12-20,2025-01-03,
+T01771,S026,ECE,B026,Principles of Management,Management,2024-12-20,2025-01-03,2024-12-27
+T01772,S042,CSE,B002,Operating System Concepts,Computer Science,2024-12-20,2025-01-03,2024-12-30
+T01773,S028,AIML,B021,Physics Fundamentals,Science,2024-12-20,2025-01-03,
+T01774,S071,CSE,B006,Python Crash Course,Computer Science,2024-12-22,2025-01-05,2025-01-07
+T01775,S081,ECE,B001,Introduction to Algorithms,Computer Science,2024-12-22,2025-01-05,2025-01-01
+T01776,S020,EEE,B002,Operating System Concepts,Computer Science,2024-12-23,2025-01-06,2025-01-08
+T01777,S029,AIML,B005,Clean Code,Computer Science,2024-12-24,2025-01-07,2025-01-16
+T01778,S101,CSE,B006,Python Crash Course,Computer Science,2024-12-24,2025-01-07,2025-01-06
+T01779,S103,CSE,B002,Operating System Concepts,Computer Science,2024-12-24,2025-01-07,2025-01-10
+T01780,S081,ECE,B024,Biology Essentials,Science,2024-12-24,2025-01-07,2025-01-09
+T01781,S079,MECH,B014,Thermodynamics,Engineering,2024-12-25,2025-01-08,2025-01-18
+T01782,S003,ECE,B004,Computer Networks,Computer Science,2024-12-25,2025-01-08,2025-01-05
+T01783,S090,EEE,B002,Operating System Concepts,Computer Science,2024-12-25,2025-01-08,2025-01-06
+T01784,S023,AIML,B005,Clean Code,Computer Science,2024-12-25,2025-01-08,2025-01-05
+T01785,S047,MECH,B002,Operating System Concepts,Computer Science,2024-12-26,2025-01-09,2025-01-08
+T01786,S108,CSE,B017,Control Systems,Engineering,2024-12-26,2025-01-09,2025-01-12
+T01787,S038,CSE,B003,Database System Concepts,Computer Science,2024-12-26,2025-01-09,
+T01788,S057,ECE,B003,Database System Concepts,Computer Science,2024-12-27,2025-01-10,2025-01-17
+T01789,S088,CIVIL,B003,Database System Concepts,Computer Science,2024-12-27,2025-01-10,2025-01-12
+T01790,S095,CSE,B019,Digital Electronics,Engineering,2024-12-27,2025-01-10,2025-01-02
+T01791,S037,ECE,B007,Deep Learning,Computer Science,2024-12-27,2025-01-10,2025-01-01
+T01792,S018,MECH,B034,Harry Potter,Fiction,2024-12-27,2025-01-10,2025-01-15
+T01793,S030,CSE,B010,Compiler Design,Computer Science,2024-12-27,2025-01-10,2025-01-06
+T01794,S038,CSE,B007,Deep Learning,Computer Science,2024-12-27,2025-01-10,2025-01-12
+T01795,S081,ECE,B002,Operating System Concepts,Computer Science,2024-12-27,2025-01-10,2025-01-12
+T01796,S047,MECH,B014,Thermodynamics,Engineering,2024-12-27,2025-01-10,2025-01-06
+T01797,S075,CIVIL,B002,Operating System Concepts,Computer Science,2024-12-28,2025-01-11,2024-12-31
+T01798,S058,CSE,B034,Harry Potter,Fiction,2024-12-28,2025-01-11,2025-01-06
+T01799,S010,CSE,B002,Operating System Concepts,Computer Science,2024-12-28,2025-01-11,2025-01-05
+T01800,S036,ECE,B002,Operating System Concepts,Computer Science,2024-12-28,2025-01-11,2025-01-08
